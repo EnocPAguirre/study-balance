@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>AnalisisHabitos - Visión general</title>
+</head>
+<body>
+
+<h1>Proyecto AnalisisHabitos</h1>
+
+<p>
+    Aplicación de consola para analizar hábitos a partir de archivos CSV grandes.
+    Permite seleccionar columnas, aplicar filtros sobre las filas y procesar el archivo
+    en dos modos: <strong>secuencial</strong> y <strong>concurrente</strong> (usando hilos virtuales y un
+    patrón Manager–Worker).
+</p>
+
+<h2>Arquitectura por paquetes</h2>
+
+<ul>
+    <li><code>proyecto.app</code>
+        <ul>
+            <li>Punto de entrada de la aplicación
+                (<code>MainApp</code>), inicializa el menú y arranca el flujo completo.
+            </li>
+        </ul>
+    </li>
+
+    <li><code>proyecto.core.menu</code>
+        <ul>
+            <li>Orquesta la interacción por consola:
+                selección de modo (secuencial/concurrente), rutas de archivos,
+                columnas, filtros y confirmación para continuar.
+            </li>
+        </ul>
+    </li>
+
+    <li><code>proyecto.core.csv.processor.common.*</code>
+        <ul>
+            <li><code>common.config</code>:
+                configuración del procesamiento
+                (<code>CsvProcessorConfig</code>).
+            </li>
+            <li><code>common.processor</code>:
+                componentes base compartidos por todos los procesadores
+                (<code>BaseCsvProcessor</code>, <code>CsvProcessingContext</code>).
+            </li>
+            <li><code>common.util</code>:
+                utilidades comunes (manejo de columnas, validación de archivos,
+                medición de tiempos).
+            </li>
+        </ul>
+    </li>
+
+    <li><code>proyecto.core.csv.processor.secuential.*</code>
+        <ul>
+            <li><code>secuential</code>:
+                fachada de procesamiento secuencial
+                (<code>CsvSequentialProcessor</code>).
+            </li>
+            <li><code>secuential.processor</code>:
+                implementación interna del procesamiento secuencial
+                (<code>CsvSequentialProcessorImpl</code>).
+            </li>
+            <li><code>secuential.processor.lines</code>:
+                lectura y procesamiento línea por línea
+                (<code>SequentialLineProcessor</code>, <code>RowStats</code>).
+            </li>
+            <li><code>secuential.processor.report</code>:
+                generación del resumen de ejecución secuencial.
+            </li>
+            <li><code>secuential.util</code>:
+                utilidades específicas, como la escritura de la cabecera filtrada.
+            </li>
+        </ul>
+    </li>
+
+    <li><code>proyecto.core.csv.processor.concurrent.*</code>
+        <ul>
+            <li><code>concurrent</code>:
+                fachada de procesamiento concurrente
+                (<code>CsvConcurrentProcessor</code>).
+            </li>
+            <li><code>concurrent.manager</code>:
+                coordinador del procesamiento concurrente
+                (<code>CsvManager</code>).
+            </li>
+            <li><code>concurrent.manager.execution</code>:
+                ejecución de las partes en paralelo
+                (<code>ConcurrentPartProcessor</code>).
+            </li>
+            <li><code>concurrent.manager.report</code>:
+                resumen de la ejecución concurrente.
+            </li>
+            <li><code>concurrent.manager.temp</code>:
+                creación de directorios temporales.
+            </li>
+            <li><code>concurrent.split</code>:
+                división del CSV en subarchivos
+                (<code>CsvSplitter</code>, <code>CsvSplitResult</code>).
+            </li>
+            <li><code>concurrent.worker</code>:
+                workers que procesan cada parte en un hilo virtual
+                (<code>CsvWorker</code>).
+            </li>
+            <li><code>concurrent.util</code>:
+                utilidades concurrentes (log de errores, merge de salidas,
+                limpieza de temporales, resolución de número de partes).
+            </li>
+        </ul>
+    </li>
+
+    <li><code>proyecto.core.csv.filters.*</code>
+        <ul>
+            <li><code>filters</code>:
+                modelo de filtros sobre filas de CSV
+                (<code>CsvRowFilter</code>, <code>CsvFilterCondition</code>).
+            </li>
+            <li><code>filters.type</code>:
+                filtros compuestos (AND / OR) y parser de expresiones con
+                AND/OR.
+            </li>
+            <li><code>filters.util</code>:
+                soporte para filtros (resolución de nombres de columna,
+                parseo de condiciones simples, utilidades numéricas y de cadenas).
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<p>
+    La combinación de estos paquetes permite separar claramente la
+    <strong>interfaz de usuario</strong> (menú), la <strong>lógica de negocio</strong>
+    (procesadores secuencial y concurrente) y el <strong>módulo de filtros</strong>,
+    ofreciendo una arquitectura modular y extensible.
+</p>
+
+</body>
+</html>

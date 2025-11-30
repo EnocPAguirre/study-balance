@@ -1,0 +1,2001 @@
+Student_ID,Study_Hours_Per_Day,Extracurricular_Hours_Per_Day,Sleep_Hours_Per_Day,Social_Hours_Per_Day,Physical_Activity_Hours_Per_Day,GPA,Stress_Level,Age,Sex,Job_Status,Borough_MX,Has_Anxiety,Recent_Illness_Doctor_Visit,In_Relationship
+1,6.9,3.8,8.7,2.8,1.8,2.99,Moderate,21,Female,Full-time,Iztapalapa,No,No,Yes
+2,5.3,3.5,8.0,4.2,3.0,2.75,Low,22,Female,Part-time,Iztacalco,Yes,No,No
+3,5.1,3.9,9.2,1.2,4.6,2.67,Low,24,Female,Full-time,Cuajimalpa de Morelos,No,No,Yes
+4,6.5,2.1,7.2,1.7,6.5,2.88,Moderate,23,Female,Full-time,Coyoacan,Yes,Yes,Yes
+5,8.1,0.6,6.5,2.2,6.6,3.51,High,24,Female,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+6,6.0,2.1,8.0,0.3,7.6,2.85,Moderate,23,Male,Not working,Azcapotzalco,Yes,Yes,No
+7,8.0,0.7,5.3,5.7,4.3,3.08,High,22,Female,Not working,Iztacalco,Yes,Yes,No
+8,8.4,1.8,5.6,3.0,5.2,3.2,High,23,Male,Full-time,Venustiano Carranza,No,No,Yes
+9,5.2,3.6,6.3,4.0,4.9,2.82,Low,22,Male,Not working,Miguel Hidalgo,No,No,Yes
+10,7.7,0.7,9.8,4.5,1.3,2.76,Moderate,22,Male,Full-time,Iztapalapa,No,No,No
+11,9.7,3.6,8.0,2.5,0.2,3.43,High,23,Female,Not working,Miguel Hidalgo,Yes,No,Yes
+12,6.9,1.1,9.1,2.1,4.8,2.97,Moderate,20,Male,Not working,Xochimilco,No,No,Yes
+13,6.4,2.2,5.7,4.8,4.9,2.82,High,24,Male,Part-time,Benito Juarez,Yes,No,No
+14,5.0,3.3,8.5,4.4,2.8,2.87,Low,21,Male,Full-time,Iztacalco,No,No,Yes
+15,8.9,0.3,6.8,0.7,7.3,3.4,High,24,Male,Not working,Iztapalapa,Yes,Yes,Yes
+16,6.7,0.3,6.6,2.0,8.4,3.2,Moderate,23,Male,Full-time,Magdalena Contreras,No,No,No
+17,8.6,2.6,9.4,1.6,1.8,3.36,High,25,Male,Not working,Iztacalco,Yes,No,No
+18,8.8,2.2,8.9,2.0,2.1,3.19,High,22,Male,Not working,Azcapotzalco,Yes,Yes,Yes
+19,7.6,1.7,5.1,0.6,9.0,3.16,High,22,Female,Part-time,Cuajimalpa de Morelos,No,Yes,No
+20,6.6,2.0,9.5,1.5,4.4,2.93,Moderate,23,Female,Full-time,Venustiano Carranza,Yes,Yes,No
+21,7.1,3.0,6.1,0.5,7.3,2.9,Moderate,20,Female,Not working,Tlahuac,No,No,Yes
+22,9.6,3.2,8.2,2.6,0.4,3.34,High,24,Female,Full-time,Alvaro Obregon,Yes,Yes,No
+23,9.0,0.7,9.5,2.6,2.2,3.21,High,25,Male,Part-time,Cuajimalpa de Morelos,Yes,Yes,Yes
+24,6.1,1.7,9.1,5.2,1.9,2.85,Moderate,24,Female,Part-time,Tlalpan,Yes,Yes,Yes
+25,5.0,2.0,7.1,1.3,8.6,2.68,Low,24,Male,Part-time,Cuauhtemoc,Yes,Yes,Yes
+26,9.7,1.3,7.6,3.8,1.6,3.29,High,22,Male,Not working,Venustiano Carranza,Yes,No,No
+27,6.8,3.9,9.8,0.9,2.6,2.64,Moderate,24,Female,Full-time,Benito Juarez,Yes,No,Yes
+28,6.4,0.1,8.0,3.0,6.5,2.95,Moderate,24,Female,Not working,Iztapalapa,Yes,No,No
+29,5.3,1.1,9.5,1.4,6.7,2.79,Low,23,Female,Full-time,Magdalena Contreras,Yes,Yes,Yes
+30,9.9,1.0,8.4,3.6,1.1,3.25,High,23,Female,Part-time,Tlalpan,No,Yes,No
+31,6.2,2.9,6.8,3.8,4.3,3.05,Moderate,22,Male,Part-time,Miguel Hidalgo,No,Yes,Yes
+32,5.5,3.3,6.6,1.1,7.5,3.26,Low,21,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+33,5.2,2.4,8.4,0.1,7.9,2.47,Low,24,Female,Not working,Azcapotzalco,No,No,Yes
+34,8.2,0.7,8.5,2.3,4.3,3.24,High,20,Male,Part-time,Iztapalapa,Yes,Yes,No
+35,9.7,0.6,6.7,0.7,6.3,3.62,High,22,Female,Part-time,Iztacalco,Yes,No,No
+36,9.1,2.2,7.6,1.2,3.9,3.12,High,23,Female,Part-time,Azcapotzalco,Yes,Yes,Yes
+37,5.5,3.6,9.5,3.4,2.0,2.58,Low,24,Male,Full-time,Coyoacan,Yes,Yes,No
+38,8.6,3.6,9.4,1.9,0.5,3.03,High,25,Female,Not working,Iztacalco,Yes,Yes,Yes
+39,8.2,0.3,5.8,5.4,4.3,3.29,High,24,Male,Part-time,Iztapalapa,Yes,Yes,Yes
+40,5.0,0.6,7.7,4.2,6.5,2.61,Low,22,Male,Part-time,Azcapotzalco,No,No,Yes
+41,8.3,0.9,8.6,1.4,4.8,3.48,High,24,Female,Not working,Iztapalapa,Yes,No,Yes
+42,8.2,3.4,8.3,2.3,1.8,3.07,High,21,Female,Not working,Tlalpan,No,Yes,No
+43,5.5,1.5,6.3,1.5,9.2,2.81,Low,25,Female,Not working,Gustavo A. Madero,No,No,No
+44,9.5,2.5,9.0,1.5,1.5,3.49,High,22,Female,Part-time,Cuajimalpa de Morelos,Yes,No,No
+45,7.9,2.0,6.0,4.3,3.8,2.97,Moderate,21,Male,Part-time,Iztapalapa,Yes,No,No
+46,9.7,3.8,9.6,0.3,0.6,3.55,High,22,Female,Not working,Alvaro Obregon,No,No,Yes
+47,5.1,3.7,7.1,5.8,2.3,2.6,Low,22,Female,Not working,Tlalpan,No,No,No
+48,9.3,1.3,5.8,3.3,4.3,3.09,High,22,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+49,9.7,2.8,7.9,0.3,3.3,3.47,High,25,Male,Part-time,Iztapalapa,Yes,No,Yes
+50,9.4,3.0,8.5,2.2,0.9,3.18,High,21,Female,Not working,Iztapalapa,Yes,No,No
+51,6.8,1.2,9.0,4.9,2.1,3.12,Moderate,23,Female,Not working,Alvaro Obregon,Yes,No,Yes
+52,9.0,2.6,8.5,3.1,0.8,4.0,High,23,Male,Part-time,Cuajimalpa de Morelos,Yes,Yes,No
+53,9.5,1.4,6.9,0.6,5.6,3.33,High,23,Female,Part-time,Cuauhtemoc,No,No,Yes
+54,7.3,2.2,6.4,3.5,4.6,3.11,Moderate,23,Female,Full-time,Gustavo A. Madero,No,Yes,Yes
+55,5.2,0.1,9.1,2.2,7.4,2.79,Low,22,Male,Part-time,Benito Juarez,No,No,No
+56,8.8,0.9,8.1,0.5,5.7,3.1,High,22,Male,Part-time,Cuauhtemoc,Yes,No,No
+57,5.3,2.1,7.7,3.8,5.1,2.39,Low,21,Male,Full-time,Gustavo A. Madero,No,No,Yes
+58,9.0,1.1,7.2,0.5,6.2,3.39,High,20,Female,Part-time,Venustiano Carranza,No,No,No
+59,5.1,3.9,9.2,4.0,1.8,2.52,Low,23,Female,Not working,Tlalpan,Yes,No,No
+60,5.8,1.0,7.7,4.3,5.2,2.8,Low,24,Female,Full-time,Xochimilco,No,No,Yes
+61,8.3,1.1,9.8,3.5,1.3,3.67,High,22,Male,Part-time,Tlalpan,Yes,No,Yes
+62,7.1,1.0,6.8,4.5,4.6,3.27,Moderate,22,Male,Not working,Magdalena Contreras,No,No,No
+63,5.1,0.5,5.2,0.2,13.0,2.85,High,22,Male,Part-time,Gustavo A. Madero,Yes,No,Yes
+64,7.4,0.4,7.5,2.8,5.9,3.26,Moderate,22,Male,Part-time,Cuauhtemoc,Yes,Yes,No
+65,5.9,1.7,7.0,3.7,5.7,2.8,Low,20,Male,Part-time,Coyoacan,No,No,No
+66,6.9,2.5,7.5,5.1,2.0,3.06,Moderate,25,Male,Full-time,Alvaro Obregon,Yes,No,Yes
+67,8.3,0.7,5.4,3.9,5.7,3.26,High,23,Male,Not working,Venustiano Carranza,Yes,Yes,Yes
+68,9.7,2.3,6.9,3.3,1.8,3.38,High,21,Male,Not working,Xochimilco,Yes,Yes,Yes
+69,7.3,2.2,9.7,1.9,2.9,3.15,Moderate,23,Male,Full-time,Iztapalapa,Yes,No,Yes
+70,5.4,1.3,9.2,0.1,8.0,2.69,Low,22,Male,Not working,Coyoacan,No,No,No
+71,9.1,1.1,5.6,4.2,4.0,3.54,High,22,Female,Not working,Magdalena Contreras,Yes,Yes,Yes
+72,8.7,3.2,6.4,1.0,4.7,3.37,High,23,Female,Part-time,Miguel Hidalgo,Yes,Yes,Yes
+73,8.8,3.2,10.0,0.8,1.2,3.58,High,24,Male,Not working,Iztapalapa,Yes,No,No
+74,6.7,3.7,9.3,1.8,2.5,2.89,Moderate,25,Male,Part-time,Coyoacan,No,No,No
+75,8.8,3.0,5.5,5.4,1.3,3.58,High,25,Male,Not working,Alvaro Obregon,No,Yes,Yes
+76,6.6,3.6,6.9,0.1,6.8,2.99,Moderate,22,Male,Full-time,Gustavo A. Madero,No,No,Yes
+77,9.5,0.4,6.6,5.7,1.8,3.44,High,22,Male,Full-time,Iztapalapa,Yes,No,No
+78,8.2,1.8,6.5,2.0,5.5,3.35,High,23,Female,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+79,8.4,3.0,9.0,2.8,0.8,3.26,High,23,Female,Part-time,Coyoacan,No,No,Yes
+80,5.3,2.2,7.2,5.3,4.0,2.62,Low,21,Male,Part-time,Miguel Hidalgo,No,No,Yes
+81,6.8,0.5,5.7,4.6,6.4,2.86,High,22,Female,Full-time,Iztapalapa,Yes,Yes,Yes
+82,5.4,2.8,5.4,4.9,5.5,2.86,High,24,Male,Not working,Cuajimalpa de Morelos,Yes,No,No
+83,8.5,0.3,5.4,5.9,3.9,2.99,High,25,Male,Not working,Xochimilco,Yes,Yes,Yes
+84,9.1,3.8,9.9,0.9,0.3,3.08,High,22,Male,Not working,Iztacalco,Yes,No,No
+85,6.9,0.3,8.9,3.4,4.5,3.21,Moderate,22,Female,Not working,Coyoacan,No,Yes,Yes
+86,5.6,2.0,5.1,2.8,8.5,2.81,High,22,Male,Part-time,Iztacalco,Yes,No,Yes
+87,5.3,0.5,5.6,3.9,8.7,2.9,High,21,Female,Not working,Cuajimalpa de Morelos,Yes,Yes,Yes
+88,9.8,1.5,6.4,5.2,1.1,3.78,High,22,Female,Not working,Iztapalapa,Yes,No,No
+89,6.1,3.9,5.1,5.8,3.1,2.96,High,23,Female,Full-time,Coyoacan,No,No,No
+90,5.4,2.2,9.8,3.1,3.5,2.81,Low,22,Female,Not working,Miguel Hidalgo,No,Yes,Yes
+91,8.1,2.8,7.3,3.6,2.2,3.39,High,24,Female,Full-time,Cuajimalpa de Morelos,No,No,Yes
+92,5.2,1.1,9.8,5.3,2.6,2.82,Low,23,Male,Not working,Xochimilco,No,No,Yes
+93,7.3,2.5,6.4,1.1,6.7,2.67,Moderate,23,Male,Part-time,Cuauhtemoc,No,No,Yes
+94,7.9,0.3,9.9,5.8,0.1,3.08,Moderate,22,Male,Part-time,Tlalpan,No,Yes,No
+95,8.5,2.1,6.5,4.9,2.0,3.1,High,24,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+96,9.6,3.3,9.7,1.0,0.4,3.54,High,21,Male,Not working,Benito Juarez,Yes,No,Yes
+97,8.1,1.7,9.7,3.9,0.6,3.45,High,22,Female,Part-time,Milpa Alta,Yes,Yes,Yes
+98,9.9,0.6,8.0,2.1,3.4,3.39,High,21,Male,Not working,Cuauhtemoc,Yes,Yes,No
+99,9.8,3.4,9.2,0.7,0.9,3.15,High,24,Male,Full-time,Gustavo A. Madero,Yes,No,Yes
+100,5.3,3.5,9.1,6.0,0.1,2.68,Low,24,Female,Full-time,Xochimilco,No,No,No
+101,10.0,2.2,8.8,2.8,0.2,3.41,High,22,Female,Not working,Milpa Alta,Yes,No,Yes
+102,7.3,0.5,9.8,3.6,2.8,3.22,Moderate,25,Female,Part-time,Miguel Hidalgo,Yes,No,Yes
+103,6.1,2.7,8.1,2.1,5.0,2.98,Moderate,22,Male,Not working,Alvaro Obregon,Yes,Yes,No
+104,7.6,3.1,7.6,4.9,0.8,2.99,Moderate,20,Female,Full-time,Venustiano Carranza,Yes,Yes,No
+105,7.8,2.2,9.4,1.9,2.7,3.3,Moderate,22,Female,Not working,Miguel Hidalgo,Yes,Yes,No
+106,8.5,0.9,5.7,0.1,8.8,3.55,High,23,Male,Not working,Tlalpan,Yes,Yes,No
+107,6.8,2.4,7.0,2.6,5.2,2.97,Moderate,22,Female,Part-time,Iztapalapa,No,No,Yes
+108,7.6,3.1,7.0,3.7,2.6,3.28,Moderate,25,Female,Part-time,Iztapalapa,No,No,Yes
+109,9.3,3.8,5.7,4.8,0.4,3.05,High,24,Male,Not working,Tlahuac,Yes,No,Yes
+110,7.3,3.9,7.5,1.7,3.6,3.08,Moderate,25,Female,Full-time,Cuauhtemoc,Yes,No,Yes
+111,8.2,1.0,5.4,0.8,8.6,3.3,High,25,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+112,5.9,1.4,9.5,2.8,4.4,2.7,Low,20,Male,Part-time,Alvaro Obregon,No,No,No
+113,8.3,0.7,6.0,0.2,8.8,3.14,High,22,Female,Part-time,Alvaro Obregon,Yes,Yes,No
+114,5.9,0.4,5.6,2.8,9.3,2.73,High,20,Female,Part-time,Miguel Hidalgo,Yes,No,No
+115,6.0,1.5,7.5,4.1,4.9,2.76,Moderate,22,Female,Full-time,Alvaro Obregon,Yes,Yes,No
+116,9.4,3.7,5.3,1.6,4.0,3.45,High,24,Male,Not working,Iztacalco,Yes,No,Yes
+117,9.0,3.0,5.9,1.3,4.8,3.29,High,21,Female,Not working,Cuajimalpa de Morelos,Yes,No,No
+118,8.1,1.5,7.3,4.5,2.6,2.75,High,22,Male,Part-time,Benito Juarez,Yes,No,Yes
+119,5.2,1.0,8.6,5.4,3.8,3.4,Low,23,Female,Full-time,Iztapalapa,No,No,Yes
+120,5.5,1.8,7.7,1.5,7.5,3.05,Low,24,Male,Not working,Azcapotzalco,No,No,Yes
+121,6.3,1.5,5.1,1.9,9.2,2.82,High,22,Female,Part-time,Benito Juarez,Yes,No,No
+122,5.6,3.6,8.0,4.1,2.7,2.62,Low,22,Female,Not working,Gustavo A. Madero,No,Yes,No
+123,8.9,2.0,5.4,3.2,4.5,3.64,High,24,Male,Not working,Alvaro Obregon,Yes,Yes,Yes
+124,7.2,0.5,6.4,2.2,7.7,3.19,Moderate,23,Male,Part-time,Alvaro Obregon,No,No,No
+125,8.2,2.3,6.8,5.9,0.8,2.95,High,22,Female,Part-time,Miguel Hidalgo,Yes,No,Yes
+126,5.5,0.6,6.2,1.0,10.7,2.94,Low,23,Male,Full-time,Cuauhtemoc,No,No,Yes
+127,5.9,1.1,5.9,5.4,5.7,2.89,High,23,Male,Full-time,Cuajimalpa de Morelos,No,No,Yes
+128,7.1,3.9,5.6,2.4,5.0,2.9,High,23,Female,Full-time,Tlalpan,No,No,Yes
+129,9.8,3.5,9.1,0.4,1.2,3.57,High,25,Male,Full-time,Gustavo A. Madero,No,Yes,No
+130,9.6,2.2,7.9,1.2,3.1,3.24,High,22,Female,Part-time,Gustavo A. Madero,Yes,Yes,No
+131,8.8,0.7,6.6,2.6,5.3,2.99,High,22,Female,Part-time,Tlalpan,Yes,No,Yes
+132,5.6,2.4,6.4,3.5,6.1,2.85,Low,25,Male,Full-time,Xochimilco,Yes,No,Yes
+133,5.8,1.9,7.7,0.3,8.3,2.7,Low,21,Female,Not working,Coyoacan,No,Yes,No
+134,5.3,4.0,6.6,4.9,3.2,2.72,Low,25,Male,Not working,Iztacalco,No,No,No
+135,6.3,2.7,8.8,3.6,2.6,2.45,Moderate,22,Female,Part-time,Gustavo A. Madero,No,No,Yes
+136,6.7,3.7,9.2,4.2,0.2,2.85,Moderate,23,Male,Part-time,Tlalpan,No,No,Yes
+137,5.6,2.9,9.7,1.1,4.7,2.86,Low,24,Female,Full-time,Cuauhtemoc,No,No,No
+138,7.9,3.4,5.7,4.8,2.2,3.15,High,24,Female,Not working,Iztapalapa,Yes,Yes,Yes
+139,6.0,0.7,5.8,4.9,6.6,2.96,High,24,Male,Full-time,Milpa Alta,Yes,Yes,No
+140,6.8,3.5,7.0,4.9,1.8,3.44,Moderate,22,Female,Part-time,Cuauhtemoc,No,No,Yes
+141,7.2,1.5,7.3,1.8,6.2,3.08,Moderate,22,Male,Full-time,Gustavo A. Madero,Yes,No,Yes
+142,6.2,3.6,6.9,3.3,4.0,3.27,Moderate,23,Male,Part-time,Iztapalapa,No,Yes,No
+143,9.5,2.5,5.6,5.6,0.8,3.13,High,23,Female,Not working,Alvaro Obregon,Yes,Yes,No
+144,5.7,3.2,8.1,3.2,3.8,3.08,Low,22,Male,Full-time,Xochimilco,No,Yes,No
+145,9.5,3.2,5.8,1.7,3.8,3.59,High,23,Female,Full-time,Tlahuac,Yes,No,Yes
+146,5.2,2.3,8.8,5.3,2.4,2.61,Low,24,Male,Full-time,Cuajimalpa de Morelos,No,No,No
+147,6.7,3.3,5.6,5.1,3.3,2.95,High,23,Male,Full-time,Iztapalapa,Yes,No,Yes
+148,9.0,0.6,6.1,4.3,4.0,3.15,High,25,Male,Part-time,Venustiano Carranza,Yes,No,Yes
+149,8.6,2.6,8.5,2.3,2.0,3.14,High,23,Female,Not working,Cuauhtemoc,No,No,No
+150,5.9,3.6,7.9,2.4,4.2,2.64,Low,22,Male,Part-time,Tlahuac,No,No,No
+151,7.3,3.8,5.8,3.5,3.6,3.58,High,23,Female,Not working,Iztapalapa,Yes,No,Yes
+152,5.1,3.5,9.7,3.2,2.5,2.79,Low,22,Female,Not working,Alvaro Obregon,Yes,No,Yes
+153,8.5,3.7,8.5,0.5,2.8,3.65,High,21,Female,Not working,Gustavo A. Madero,Yes,No,No
+154,7.1,2.9,9.7,4.0,0.3,3.33,Moderate,23,Female,Not working,Benito Juarez,Yes,No,Yes
+155,7.3,0.5,9.9,5.0,1.3,3.11,Moderate,21,Female,Not working,Iztapalapa,No,Yes,Yes
+156,8.0,1.6,5.3,2.0,7.1,3.42,High,22,Male,Full-time,Tlahuac,Yes,Yes,Yes
+157,9.0,0.0,6.7,2.4,5.9,3.51,High,22,Female,Part-time,Iztapalapa,Yes,Yes,No
+158,6.7,1.4,8.7,2.7,4.5,3.02,Moderate,23,Female,Not working,Gustavo A. Madero,No,No,No
+159,6.1,1.8,5.7,1.1,9.3,2.38,High,23,Female,Not working,Alvaro Obregon,No,No,Yes
+160,9.6,1.4,7.9,3.2,1.9,3.43,High,23,Male,Full-time,Miguel Hidalgo,Yes,No,No
+161,5.1,2.7,5.9,5.8,4.5,2.71,High,20,Female,Part-time,Tlalpan,Yes,Yes,No
+162,5.4,4.0,7.5,3.6,3.5,2.59,Low,22,Male,Part-time,Coyoacan,No,No,Yes
+163,5.3,3.0,6.0,5.4,4.3,2.68,Low,21,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+164,5.2,1.9,7.8,0.4,8.7,2.67,Low,22,Male,Full-time,Iztapalapa,No,No,No
+165,8.9,1.8,7.6,2.5,3.2,3.58,High,24,Male,Not working,Gustavo A. Madero,Yes,Yes,Yes
+166,5.8,0.7,9.3,5.7,2.5,2.46,Low,24,Male,Not working,Gustavo A. Madero,No,No,Yes
+167,6.9,1.1,8.2,2.5,5.3,3.22,Moderate,23,Male,Part-time,Cuauhtemoc,No,No,Yes
+168,5.1,0.9,6.2,4.0,7.8,3.02,Low,23,Male,Full-time,Cuauhtemoc,No,Yes,Yes
+169,5.1,0.4,9.0,1.1,8.4,2.52,Low,20,Female,Not working,Venustiano Carranza,Yes,No,No
+170,5.5,1.0,8.6,5.1,3.8,2.97,Low,23,Male,Not working,Iztapalapa,No,No,No
+171,9.2,1.6,8.3,1.0,3.9,3.5,High,23,Female,Full-time,Alvaro Obregon,No,No,No
+172,5.1,0.3,6.0,0.2,12.4,2.7,Low,21,Female,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+173,5.9,2.3,7.1,5.4,3.3,2.78,Low,23,Female,Part-time,Xochimilco,No,No,Yes
+174,6.3,1.5,8.0,1.6,6.6,3.15,Moderate,22,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+175,8.1,1.6,7.8,2.6,3.9,3.26,High,24,Female,Full-time,Gustavo A. Madero,Yes,No,Yes
+176,8.8,0.6,9.3,2.6,2.7,3.3,High,24,Male,Part-time,Iztapalapa,No,No,No
+177,9.5,3.2,7.1,0.1,4.1,3.49,High,22,Male,Part-time,Iztapalapa,No,No,No
+178,8.2,1.0,5.7,5.0,4.1,2.89,High,25,Male,Part-time,Miguel Hidalgo,No,Yes,Yes
+179,9.9,2.1,5.9,1.6,4.5,3.52,High,22,Female,Part-time,Miguel Hidalgo,Yes,Yes,Yes
+180,6.4,2.2,8.3,5.0,2.1,2.76,Moderate,25,Female,Not working,Venustiano Carranza,Yes,Yes,Yes
+181,6.0,0.0,5.7,5.4,6.9,2.95,High,22,Male,Part-time,Coyoacan,Yes,No,No
+182,8.0,2.7,5.9,5.5,1.9,3.4,High,23,Female,Part-time,Azcapotzalco,Yes,Yes,Yes
+183,7.1,1.5,7.6,0.3,7.5,3.17,Moderate,23,Male,Not working,Benito Juarez,No,No,No
+184,5.4,2.4,6.2,2.3,7.7,2.66,Low,21,Male,Full-time,Cuauhtemoc,Yes,Yes,Yes
+185,6.4,1.4,8.6,1.8,5.8,2.77,Moderate,20,Male,Part-time,Coyoacan,No,Yes,No
+186,8.3,3.7,8.7,0.7,2.6,3.77,High,21,Male,Not working,Gustavo A. Madero,Yes,No,No
+187,5.2,1.0,8.0,0.3,9.5,3.29,Low,24,Male,Full-time,Magdalena Contreras,No,No,Yes
+188,6.7,3.1,5.5,0.5,8.2,2.99,High,22,Female,Part-time,Venustiano Carranza,Yes,No,No
+189,8.6,2.0,8.4,2.2,2.8,3.43,High,22,Female,Part-time,Benito Juarez,No,No,No
+190,9.0,2.8,6.4,3.4,2.4,3.24,High,25,Female,Part-time,Alvaro Obregon,No,No,No
+191,6.8,0.4,9.6,0.8,6.4,3.01,Moderate,23,Male,Not working,Miguel Hidalgo,Yes,No,Yes
+192,5.9,2.2,9.4,4.4,2.1,3.01,Low,24,Female,Part-time,Venustiano Carranza,No,No,Yes
+193,9.0,2.6,8.5,3.3,0.6,3.34,High,24,Female,Full-time,Gustavo A. Madero,Yes,No,Yes
+194,6.1,4.0,9.7,0.2,4.0,2.58,Moderate,21,Male,Part-time,Benito Juarez,No,Yes,No
+195,8.5,3.7,5.9,3.4,2.5,3.06,High,23,Female,Part-time,Tlalpan,Yes,Yes,No
+196,9.6,3.9,9.7,0.4,0.4,3.65,High,23,Male,Not working,Iztacalco,No,No,No
+197,9.3,3.4,6.6,3.9,0.8,3.41,High,22,Female,Not working,Benito Juarez,Yes,Yes,No
+198,6.2,0.5,5.4,4.2,7.7,2.84,High,21,Female,Full-time,Alvaro Obregon,Yes,No,Yes
+199,6.7,2.9,5.3,1.9,7.2,3.29,High,23,Female,Full-time,Iztapalapa,No,No,No
+200,6.6,2.5,9.4,3.4,2.1,3.03,Moderate,20,Female,Part-time,Cuauhtemoc,No,Yes,No
+201,6.2,0.1,9.4,0.1,8.2,2.95,Moderate,21,Male,Full-time,Coyoacan,No,No,Yes
+202,9.7,3.2,10.0,0.4,0.7,3.67,High,21,Female,Part-time,Xochimilco,No,Yes,No
+203,8.8,1.6,7.4,3.8,2.4,3.23,High,22,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+204,7.1,3.0,6.2,0.7,7.0,3.36,Moderate,24,Male,Part-time,Benito Juarez,Yes,Yes,Yes
+205,6.8,1.1,6.5,1.4,8.2,3.01,Moderate,25,Female,Not working,Alvaro Obregon,Yes,No,No
+206,6.9,2.7,6.1,5.7,2.6,3.08,Moderate,25,Female,Not working,Tlalpan,Yes,No,Yes
+207,8.9,0.4,7.1,5.3,2.3,3.33,High,24,Male,Part-time,Iztapalapa,Yes,No,No
+208,8.1,0.7,10.0,1.2,4.0,3.35,High,23,Male,Not working,Xochimilco,Yes,No,Yes
+209,9.7,2.6,8.0,1.9,1.8,3.33,High,20,Male,Not working,Iztacalco,Yes,No,No
+210,6.1,0.7,8.9,2.1,6.2,2.81,Moderate,24,Female,Not working,Milpa Alta,Yes,Yes,No
+211,5.3,3.9,9.4,5.0,0.4,3.08,Low,25,Female,Part-time,Iztacalco,Yes,No,No
+212,8.5,0.6,9.1,1.3,4.5,3.16,High,23,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+213,6.1,2.1,8.0,3.5,4.3,2.79,Moderate,23,Male,Full-time,Xochimilco,No,No,Yes
+214,9.4,3.8,9.3,1.2,0.3,3.33,High,24,Female,Not working,Iztapalapa,Yes,No,Yes
+215,8.3,2.2,5.4,2.5,5.6,2.97,High,24,Female,Part-time,Alvaro Obregon,No,Yes,No
+216,8.6,2.0,5.4,1.3,6.7,3.14,High,23,Female,Part-time,Gustavo A. Madero,Yes,No,No
+217,8.4,0.3,9.3,3.0,3.0,3.77,High,22,Male,Not working,Alvaro Obregon,Yes,Yes,Yes
+218,9.1,1.4,8.4,2.9,2.2,3.26,High,23,Male,Full-time,Cuauhtemoc,Yes,Yes,No
+219,6.3,3.5,9.0,3.4,1.8,3.11,Moderate,20,Male,Not working,Iztapalapa,Yes,Yes,Yes
+220,8.5,2.7,8.1,3.5,1.2,3.38,High,20,Female,Not working,Gustavo A. Madero,Yes,Yes,No
+221,5.8,3.5,9.4,0.2,5.1,2.84,Low,25,Female,Full-time,Tlalpan,No,No,Yes
+222,6.7,3.0,5.8,4.9,3.6,3.03,High,22,Female,Part-time,Cuajimalpa de Morelos,Yes,Yes,Yes
+223,9.2,2.0,5.0,1.7,6.1,3.42,High,24,Female,Not working,Xochimilco,Yes,No,Yes
+224,8.2,1.0,8.2,3.2,3.4,3.24,High,25,Male,Not working,Miguel Hidalgo,Yes,No,No
+225,8.9,0.4,8.8,3.2,2.7,3.32,High,24,Male,Full-time,Azcapotzalco,Yes,No,Yes
+226,8.2,3.7,5.5,5.6,1.0,3.29,High,22,Male,Not working,Venustiano Carranza,Yes,No,No
+227,8.4,0.3,6.5,4.2,4.6,3.29,High,23,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+228,6.7,2.5,5.2,5.2,4.4,2.86,High,21,Female,Part-time,Gustavo A. Madero,Yes,Yes,No
+229,9.9,3.9,8.7,0.2,1.3,3.8,High,22,Male,Not working,Iztapalapa,No,No,Yes
+230,8.4,1.8,6.4,6.0,1.4,3.25,High,24,Male,Not working,Cuajimalpa de Morelos,Yes,Yes,Yes
+231,7.1,1.8,5.8,4.8,4.5,2.86,High,23,Male,Not working,Iztacalco,Yes,No,Yes
+232,5.4,2.7,8.3,1.6,6.0,2.95,Low,20,Female,Part-time,Tlahuac,No,No,No
+233,9.8,0.6,7.2,5.7,0.7,3.84,High,20,Female,Part-time,Gustavo A. Madero,No,No,Yes
+234,7.0,1.1,9.9,2.5,3.5,2.84,Moderate,21,Male,Full-time,Benito Juarez,No,No,No
+235,9.5,0.9,6.1,0.2,7.3,3.17,High,24,Male,Not working,Xochimilco,No,No,No
+236,9.3,1.9,9.8,0.6,2.4,3.68,High,23,Female,Not working,Gustavo A. Madero,No,No,Yes
+237,9.3,3.1,8.9,2.3,0.4,3.52,High,23,Male,Part-time,Tlalpan,Yes,No,Yes
+238,5.7,0.1,9.6,3.7,4.9,3.12,Low,21,Male,Full-time,Gustavo A. Madero,No,No,No
+239,9.0,1.9,5.6,0.8,6.7,3.21,High,23,Male,Part-time,Gustavo A. Madero,Yes,Yes,No
+240,6.0,2.0,5.3,3.5,7.2,3.26,High,20,Male,Part-time,Magdalena Contreras,No,Yes,No
+241,6.3,3.2,6.6,2.7,5.2,2.85,Moderate,23,Female,Not working,Benito Juarez,Yes,No,Yes
+242,8.0,1.2,8.5,5.2,1.1,2.72,Moderate,24,Female,Not working,Iztapalapa,Yes,Yes,Yes
+243,8.9,0.2,7.4,0.6,6.9,3.33,High,21,Male,Part-time,Milpa Alta,Yes,No,No
+244,8.1,2.8,7.8,0.1,5.2,2.98,High,24,Female,Full-time,Iztapalapa,No,Yes,No
+245,6.6,2.1,5.4,2.1,7.8,2.79,High,21,Male,Full-time,Alvaro Obregon,Yes,Yes,No
+246,7.8,2.8,9.0,0.9,3.5,3.11,Moderate,23,Female,Not working,Magdalena Contreras,No,Yes,Yes
+247,5.8,0.4,8.2,4.2,5.4,2.88,Low,22,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+248,8.5,3.5,8.6,2.7,0.7,3.15,High,23,Female,Full-time,Gustavo A. Madero,Yes,Yes,No
+249,6.7,3.3,5.4,5.4,3.2,3.27,High,25,Female,Part-time,Tlahuac,Yes,No,No
+250,7.3,2.6,7.6,4.4,2.1,3.13,Moderate,24,Female,Full-time,Alvaro Obregon,Yes,Yes,No
+251,5.4,0.2,6.2,1.0,11.2,2.75,Low,21,Male,Part-time,Iztapalapa,No,No,Yes
+252,9.9,1.3,5.9,4.7,2.2,3.57,High,20,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+253,8.3,2.0,7.8,4.2,1.7,3.25,High,24,Male,Not working,Cuauhtemoc,Yes,No,No
+254,6.0,2.7,5.4,0.2,9.7,2.92,High,24,Male,Not working,Benito Juarez,Yes,No,Yes
+255,6.3,1.9,9.3,4.4,2.1,2.85,Moderate,23,Female,Part-time,Benito Juarez,No,Yes,Yes
+256,6.7,1.5,9.9,0.2,5.7,3.32,Moderate,22,Male,Part-time,Iztapalapa,No,Yes,Yes
+257,9.3,2.3,7.2,3.8,1.4,3.61,High,25,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+258,9.5,1.7,6.4,3.6,2.8,3.42,High,20,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+259,9.6,0.8,8.1,3.5,2.0,3.31,High,21,Female,Not working,Iztapalapa,Yes,No,No
+260,8.6,3.6,5.9,1.4,4.5,3.37,High,20,Female,Not working,Miguel Hidalgo,Yes,Yes,No
+261,9.9,0.7,9.3,2.0,2.1,3.59,High,23,Female,Part-time,Coyoacan,Yes,Yes,No
+262,7.2,2.1,6.8,3.6,4.3,3.01,Moderate,22,Male,Part-time,Iztacalco,Yes,Yes,Yes
+263,5.8,1.6,9.8,1.5,5.3,2.61,Low,25,Female,Full-time,Iztapalapa,No,Yes,No
+264,8.9,0.5,9.8,2.2,2.6,3.57,High,23,Female,Not working,Milpa Alta,Yes,Yes,No
+265,6.2,0.3,5.8,3.1,8.6,3.13,High,22,Male,Not working,Gustavo A. Madero,Yes,Yes,Yes
+266,7.2,1.0,8.1,4.2,3.5,2.98,Moderate,23,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+267,5.8,0.7,5.2,4.4,7.9,2.81,High,21,Female,Not working,Iztapalapa,Yes,No,Yes
+268,9.2,3.2,7.9,3.2,0.5,3.8,High,21,Male,Part-time,Venustiano Carranza,Yes,Yes,No
+269,6.0,0.4,6.3,0.3,11.0,3.05,Moderate,23,Female,Not working,Tlahuac,No,No,No
+270,5.2,0.5,7.3,5.6,5.4,2.79,Low,22,Male,Not working,Miguel Hidalgo,No,Yes,No
+271,6.6,2.0,5.2,0.9,9.3,3.17,High,24,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+272,7.3,2.1,7.4,4.0,3.2,3.16,Moderate,23,Female,Full-time,Cuauhtemoc,No,No,Yes
+273,5.7,0.1,6.5,4.2,7.5,2.98,Low,23,Male,Not working,Coyoacan,Yes,No,Yes
+274,9.8,0.4,8.4,2.4,3.0,3.26,High,23,Male,Not working,Azcapotzalco,No,No,Yes
+275,9.3,0.7,8.5,4.6,0.9,3.43,High,22,Female,Not working,Cuauhtemoc,Yes,No,Yes
+276,7.5,2.5,9.3,2.7,2.0,3.2,Moderate,23,Male,Full-time,Tlalpan,No,No,Yes
+277,5.2,3.7,8.4,4.1,2.6,2.91,Low,22,Female,Part-time,Iztacalco,Yes,No,No
+278,7.0,2.6,5.5,3.9,5.0,2.82,High,20,Female,Part-time,Benito Juarez,Yes,No,Yes
+279,10.0,0.2,9.9,1.6,2.3,3.56,High,23,Female,Not working,Venustiano Carranza,No,No,Yes
+280,7.8,3.0,9.4,1.5,2.3,3.25,Moderate,22,Male,Part-time,Venustiano Carranza,No,No,No
+281,6.6,2.7,9.0,4.3,1.4,2.93,Moderate,20,Male,Part-time,Gustavo A. Madero,No,Yes,Yes
+282,9.1,0.5,7.7,0.0,6.7,3.64,High,24,Female,Not working,Xochimilco,Yes,No,No
+283,6.6,1.5,7.0,4.2,4.7,2.79,Moderate,22,Female,Full-time,Xochimilco,No,No,Yes
+284,6.2,1.5,6.1,0.4,9.8,2.5,Moderate,20,Female,Part-time,Coyoacan,Yes,Yes,Yes
+285,8.0,2.7,8.1,2.4,2.8,3.4,Moderate,22,Male,Part-time,Venustiano Carranza,No,No,No
+286,7.6,1.9,5.1,2.0,7.4,3.08,High,21,Female,Not working,Milpa Alta,Yes,Yes,No
+287,6.9,1.6,7.9,3.2,4.4,3.31,Moderate,20,Male,Part-time,Iztacalco,Yes,No,Yes
+288,9.1,2.9,9.8,0.0,2.2,3.48,High,23,Male,Not working,Tlalpan,Yes,Yes,No
+289,6.0,0.0,8.2,5.4,4.4,2.92,Moderate,21,Female,Not working,Cuauhtemoc,No,No,Yes
+290,5.3,3.7,6.8,0.6,7.6,2.78,Low,24,Male,Not working,Gustavo A. Madero,No,No,No
+291,7.4,1.0,6.4,1.8,7.4,3.15,Moderate,21,Male,Full-time,Xochimilco,Yes,Yes,No
+292,6.6,2.4,8.6,1.6,4.8,3.27,Moderate,24,Male,Part-time,Cuauhtemoc,No,No,Yes
+293,7.1,0.5,5.9,4.1,6.4,3.09,High,23,Female,Not working,Gustavo A. Madero,No,Yes,No
+294,8.5,0.4,7.8,1.5,5.8,3.01,High,23,Male,Not working,Xochimilco,No,No,Yes
+295,9.8,1.9,9.0,1.8,1.5,3.5,High,21,Female,Part-time,Magdalena Contreras,Yes,Yes,No
+296,9.8,2.4,9.1,2.4,0.3,3.38,High,24,Male,Not working,Coyoacan,Yes,No,Yes
+297,6.1,0.8,8.1,2.5,6.5,2.67,Moderate,23,Male,Full-time,Tlalpan,Yes,Yes,Yes
+298,8.9,1.1,9.1,2.1,2.8,3.2,High,22,Female,Part-time,Xochimilco,Yes,Yes,No
+299,8.3,0.4,8.1,2.7,4.5,3.01,High,23,Male,Full-time,Venustiano Carranza,Yes,Yes,Yes
+300,8.7,3.5,6.1,0.5,5.2,3.37,High,21,Female,Not working,Magdalena Contreras,Yes,No,No
+301,5.1,2.6,8.0,3.3,5.0,2.65,Low,21,Male,Not working,Xochimilco,No,No,No
+302,8.0,2.0,9.9,0.6,3.5,2.93,Moderate,22,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+303,8.5,1.6,7.1,4.3,2.5,3.39,High,23,Male,Part-time,Magdalena Contreras,No,No,Yes
+304,6.4,0.3,5.4,5.4,6.5,3.29,High,23,Female,Full-time,Venustiano Carranza,Yes,No,No
+305,6.0,1.3,6.1,2.1,8.5,2.91,Moderate,23,Male,Not working,Xochimilco,No,No,No
+306,5.3,3.2,6.2,3.2,6.1,2.64,Low,24,Female,Part-time,Venustiano Carranza,No,No,No
+307,9.4,2.6,7.7,1.4,2.9,3.66,High,21,Female,Part-time,Benito Juarez,No,No,Yes
+308,10.0,2.6,7.8,2.6,1.0,3.26,High,23,Male,Full-time,Coyoacan,Yes,Yes,Yes
+309,7.3,0.2,7.8,5.7,3.0,3.2,Moderate,23,Female,Part-time,Gustavo A. Madero,Yes,No,No
+310,6.0,2.1,5.5,2.7,7.7,2.72,High,25,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+311,8.8,1.4,8.3,4.4,1.1,3.1,High,23,Female,Full-time,Iztacalco,Yes,No,No
+312,10.0,3.7,7.7,2.2,0.4,3.44,High,23,Male,Not working,Tlalpan,Yes,No,No
+313,7.6,2.5,5.4,4.5,4.0,3.17,High,25,Female,Full-time,Cuajimalpa de Morelos,Yes,Yes,No
+314,8.9,2.8,5.2,1.8,5.3,3.3,High,24,Male,Part-time,Alvaro Obregon,Yes,No,No
+315,6.3,1.4,5.4,5.6,5.3,2.58,High,23,Male,Not working,Benito Juarez,Yes,Yes,Yes
+316,7.0,1.8,8.0,3.1,4.1,3.15,Moderate,22,Female,Part-time,Miguel Hidalgo,No,No,No
+317,9.6,2.0,10.0,2.0,0.4,3.46,High,23,Female,Part-time,Alvaro Obregon,Yes,No,No
+318,6.9,3.5,9.3,3.5,0.8,3.02,Moderate,20,Male,Not working,Gustavo A. Madero,Yes,No,No
+319,9.0,1.2,5.4,2.4,6.0,3.46,High,21,Female,Not working,Xochimilco,Yes,No,No
+320,6.7,3.9,8.2,4.3,0.9,2.83,Moderate,23,Male,Part-time,Tlalpan,No,Yes,Yes
+321,5.7,3.4,9.6,2.6,2.7,3.13,Low,20,Female,Not working,Tlalpan,Yes,No,No
+322,5.9,2.0,7.0,0.9,8.2,3.0,Low,23,Male,Part-time,Iztapalapa,Yes,No,Yes
+323,6.8,0.3,5.1,0.8,11.0,3.03,High,23,Female,Part-time,Cuauhtemoc,No,No,Yes
+324,9.8,1.7,6.6,3.0,2.9,3.58,High,23,Female,Full-time,Alvaro Obregon,No,No,Yes
+325,7.2,0.4,8.2,1.3,6.9,3.39,Moderate,20,Male,Part-time,Tlalpan,Yes,Yes,Yes
+326,5.8,0.2,8.9,2.8,6.3,3.11,Low,20,Female,Part-time,Venustiano Carranza,No,No,No
+327,5.3,4.0,5.3,4.2,5.2,2.67,High,24,Male,Not working,Azcapotzalco,Yes,No,Yes
+328,8.5,0.2,7.5,6.0,1.8,3.21,High,23,Male,Not working,Benito Juarez,Yes,No,Yes
+329,9.1,2.5,6.5,3.7,2.2,2.85,High,23,Male,Part-time,Iztapalapa,Yes,Yes,No
+330,5.7,3.5,7.2,1.2,6.4,3.04,Low,25,Female,Full-time,Benito Juarez,No,No,No
+331,6.8,1.7,9.1,4.4,2.0,2.9,Moderate,23,Female,Full-time,Miguel Hidalgo,No,No,No
+332,5.1,1.0,8.8,0.8,8.3,2.25,Low,20,Male,Part-time,Miguel Hidalgo,No,No,Yes
+333,7.7,0.9,5.1,1.4,8.9,3.15,High,22,Male,Full-time,Iztapalapa,Yes,No,No
+334,5.5,2.2,7.3,5.1,3.9,2.94,Low,24,Male,Not working,Tlalpan,No,No,Yes
+335,5.5,2.0,5.8,1.9,8.8,2.79,High,22,Female,Not working,Tlahuac,Yes,No,Yes
+336,6.9,1.6,7.3,4.7,3.5,3.38,Moderate,22,Female,Full-time,Gustavo A. Madero,No,Yes,Yes
+337,9.5,3.8,8.9,0.6,1.2,3.3,High,22,Male,Part-time,Venustiano Carranza,Yes,Yes,No
+338,6.3,3.4,5.2,5.4,3.7,3.31,High,25,Female,Part-time,Gustavo A. Madero,Yes,Yes,No
+339,7.3,2.5,8.3,5.3,0.6,3.36,Moderate,24,Male,Not working,Iztapalapa,Yes,No,Yes
+340,5.3,2.1,5.8,4.4,6.4,3.11,High,20,Male,Part-time,Milpa Alta,Yes,Yes,Yes
+341,7.6,2.7,5.2,0.5,8.0,3.07,High,25,Female,Not working,Miguel Hidalgo,No,No,No
+342,5.4,0.0,9.8,4.4,4.4,2.85,Low,21,Male,Not working,Azcapotzalco,No,No,No
+343,6.8,1.2,6.7,4.6,4.7,2.81,Moderate,25,Female,Full-time,Tlalpan,Yes,Yes,Yes
+344,5.9,0.4,8.3,4.6,4.8,2.99,Low,21,Male,Not working,Gustavo A. Madero,No,Yes,No
+345,6.3,0.1,5.4,5.8,6.4,3.14,High,24,Male,Part-time,Tlahuac,Yes,No,Yes
+346,8.1,1.5,6.0,0.7,7.7,3.06,High,22,Female,Part-time,Cuauhtemoc,No,No,No
+347,8.1,3.1,8.2,2.4,2.2,3.09,High,22,Male,Part-time,Coyoacan,Yes,No,No
+348,9.9,2.4,7.9,2.8,1.0,3.67,High,24,Female,Full-time,Gustavo A. Madero,No,No,Yes
+349,9.1,2.6,5.6,2.0,4.7,3.16,High,21,Female,Part-time,Tlalpan,Yes,No,No
+350,7.2,2.5,9.7,1.1,3.5,2.69,Moderate,23,Male,Full-time,Tlahuac,No,No,No
+351,5.6,0.8,9.4,3.9,4.3,3.01,Low,23,Male,Full-time,Coyoacan,No,No,Yes
+352,9.3,3.4,9.6,0.4,1.3,3.28,High,24,Male,Part-time,Miguel Hidalgo,Yes,Yes,Yes
+353,8.8,1.8,9.2,3.1,1.1,3.45,High,25,Male,Part-time,Gustavo A. Madero,No,No,Yes
+354,5.9,2.2,9.9,5.6,0.4,3.12,Low,25,Female,Full-time,Benito Juarez,Yes,Yes,No
+355,5.2,0.7,5.7,4.4,8.0,2.67,High,23,Male,Not working,Iztapalapa,Yes,No,Yes
+356,7.5,3.4,8.7,2.4,2.0,3.24,Moderate,23,Male,Part-time,Cuauhtemoc,Yes,No,No
+357,8.0,2.0,6.5,3.4,4.1,3.35,Moderate,22,Female,Part-time,Benito Juarez,No,Yes,Yes
+358,8.2,3.0,5.8,2.8,4.2,3.31,High,21,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+359,5.0,1.0,8.6,6.0,3.4,2.71,Low,21,Male,Part-time,Iztapalapa,No,No,Yes
+360,9.0,0.8,7.8,4.4,2.0,3.18,High,22,Male,Part-time,Coyoacan,Yes,Yes,Yes
+361,8.1,0.8,6.8,4.7,3.6,3.19,High,23,Male,Not working,Azcapotzalco,No,No,Yes
+362,8.8,0.1,8.7,1.2,5.2,3.32,High,23,Male,Full-time,Cuauhtemoc,No,Yes,No
+363,9.8,1.5,6.6,0.9,5.2,3.61,High,23,Male,Full-time,Iztacalco,Yes,Yes,Yes
+364,10.0,1.5,7.2,3.8,1.5,3.43,High,20,Female,Part-time,Gustavo A. Madero,Yes,No,No
+365,9.4,2.4,7.0,2.1,3.1,3.1,High,25,Male,Part-time,Gustavo A. Madero,No,No,Yes
+366,9.0,0.4,7.9,2.9,3.8,3.6,High,23,Female,Part-time,Miguel Hidalgo,Yes,No,No
+367,8.2,0.3,7.9,3.4,4.2,3.64,High,24,Female,Not working,Iztacalco,Yes,Yes,Yes
+368,8.4,3.2,6.3,5.0,1.1,3.5,High,23,Male,Not working,Tlalpan,Yes,No,Yes
+369,7.5,0.3,5.3,2.0,8.9,3.26,High,21,Female,Part-time,Alvaro Obregon,Yes,Yes,No
+370,8.9,2.1,7.2,0.9,4.9,3.53,High,22,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+371,6.6,1.7,5.4,1.3,9.0,3.29,High,20,Female,Part-time,Benito Juarez,No,No,Yes
+372,10.0,3.7,8.2,0.9,1.2,3.63,High,23,Female,Part-time,Tlahuac,Yes,Yes,Yes
+373,8.2,3.1,5.6,2.5,4.6,3.16,High,22,Male,Not working,Venustiano Carranza,No,No,Yes
+374,7.9,2.4,5.9,2.2,5.6,3.4,High,24,Female,Not working,Miguel Hidalgo,Yes,Yes,Yes
+375,6.7,0.1,5.1,5.0,7.1,3.03,High,20,Male,Full-time,Iztacalco,Yes,No,Yes
+376,6.5,3.8,6.3,2.6,4.8,2.62,Moderate,22,Female,Not working,Iztapalapa,Yes,No,Yes
+377,9.4,3.4,5.9,4.3,1.0,3.18,High,22,Male,Not working,Tlalpan,Yes,No,Yes
+378,5.7,0.3,8.6,3.0,6.4,2.28,Low,21,Male,Part-time,Magdalena Contreras,No,No,No
+379,7.2,2.9,8.8,0.8,4.3,2.88,Moderate,20,Male,Not working,Alvaro Obregon,Yes,Yes,No
+380,8.8,2.6,9.8,0.2,2.6,3.38,High,21,Female,Not working,Iztapalapa,Yes,Yes,Yes
+381,5.3,1.1,6.3,1.5,9.8,2.75,Low,24,Male,Not working,Iztapalapa,No,No,No
+382,6.4,3.0,7.2,4.7,2.7,3.03,Moderate,24,Male,Part-time,Benito Juarez,Yes,No,Yes
+383,5.3,2.0,5.2,0.4,11.1,2.31,High,20,Male,Not working,Coyoacan,Yes,Yes,Yes
+384,6.7,3.6,5.1,4.0,4.6,3.18,High,22,Male,Part-time,Iztapalapa,Yes,No,No
+385,9.8,2.2,9.7,0.1,2.2,3.16,High,23,Female,Full-time,Miguel Hidalgo,Yes,No,No
+386,8.7,3.9,6.3,3.3,1.8,3.2,High,23,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+387,6.0,2.3,7.3,5.8,2.6,2.58,Moderate,20,Female,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+388,5.6,0.6,6.1,1.5,10.2,3.07,Low,22,Male,Not working,Milpa Alta,Yes,Yes,No
+389,9.3,2.2,7.6,0.6,4.3,3.48,High,20,Male,Part-time,Milpa Alta,Yes,Yes,No
+390,5.3,2.8,7.7,0.5,7.7,2.93,Low,24,Female,Full-time,Gustavo A. Madero,Yes,No,No
+391,7.3,1.9,5.8,5.7,3.3,3.18,High,25,Male,Not working,Venustiano Carranza,Yes,No,No
+392,7.3,1.6,8.3,3.3,3.5,3.28,Moderate,22,Male,Part-time,Cuauhtemoc,No,No,No
+393,5.3,2.1,9.0,2.8,4.8,2.67,Low,20,Female,Part-time,Iztacalco,No,No,Yes
+394,5.8,1.3,8.8,3.1,5.0,2.71,Low,24,Male,Not working,Benito Juarez,Yes,No,Yes
+395,6.0,3.5,9.4,4.4,0.7,2.84,Moderate,25,Male,Full-time,Milpa Alta,Yes,No,Yes
+396,9.9,3.1,5.1,0.4,5.5,3.17,High,25,Female,Full-time,Iztapalapa,Yes,No,No
+397,7.3,3.6,7.7,2.7,2.7,3.15,Moderate,23,Male,Full-time,Iztacalco,Yes,Yes,Yes
+398,9.1,1.5,8.9,4.3,0.2,3.21,High,23,Male,Not working,Azcapotzalco,Yes,No,Yes
+399,6.0,2.1,6.4,4.8,4.7,3.27,Moderate,23,Male,Full-time,Iztapalapa,Yes,No,No
+400,9.0,1.6,9.6,2.0,1.8,3.57,High,24,Female,Not working,Tlalpan,Yes,Yes,No
+401,5.8,2.8,9.0,1.9,4.5,2.8,Low,24,Male,Full-time,Iztapalapa,No,No,Yes
+402,5.9,3.6,8.3,0.9,5.3,2.8,Low,21,Female,Part-time,Iztapalapa,No,No,No
+403,7.2,2.5,5.4,5.3,3.6,3.08,High,22,Female,Not working,Benito Juarez,Yes,No,No
+404,9.8,1.7,9.9,1.7,0.9,3.75,High,22,Female,Not working,Iztapalapa,Yes,Yes,No
+405,8.2,0.7,9.4,2.4,3.3,3.47,High,22,Male,Part-time,Coyoacan,Yes,Yes,No
+406,8.6,3.6,5.4,4.4,2.0,3.81,High,23,Male,Full-time,Gustavo A. Madero,Yes,No,No
+407,5.9,3.4,9.1,3.0,2.6,2.68,Low,24,Female,Full-time,Benito Juarez,Yes,No,Yes
+408,7.4,3.3,7.3,2.1,3.9,3.34,Moderate,21,Male,Not working,Tlahuac,Yes,No,No
+409,7.5,3.3,6.7,1.0,5.5,3.29,Moderate,24,Male,Part-time,Benito Juarez,Yes,No,No
+410,5.5,1.0,5.7,2.1,9.7,2.93,High,22,Male,Not working,Benito Juarez,Yes,Yes,No
+411,7.3,3.0,8.3,3.4,2.0,3.29,Moderate,20,Male,Part-time,Coyoacan,No,No,Yes
+412,7.4,3.9,8.2,0.6,3.9,3.02,Moderate,22,Female,Not working,Tlalpan,No,No,No
+413,8.4,1.3,8.4,0.4,5.5,3.32,High,22,Female,Part-time,Gustavo A. Madero,No,No,No
+414,6.1,3.3,6.4,3.9,4.3,2.86,Moderate,23,Female,Part-time,Iztacalco,Yes,Yes,No
+415,8.5,2.1,6.5,1.3,5.6,3.38,High,23,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+416,9.4,3.1,8.9,1.7,0.9,3.45,High,22,Male,Part-time,Alvaro Obregon,Yes,No,No
+417,6.3,3.6,8.4,3.2,2.5,2.92,Moderate,21,Female,Part-time,Xochimilco,Yes,No,Yes
+418,7.3,3.5,7.7,2.1,3.4,2.9,Moderate,24,Male,Full-time,Xochimilco,No,No,Yes
+419,9.9,0.4,7.1,0.3,6.3,3.55,High,21,Female,Part-time,Milpa Alta,Yes,No,No
+420,6.4,3.4,6.5,5.5,2.2,3.0,Moderate,21,Male,Full-time,Iztapalapa,Yes,No,No
+421,8.8,3.2,5.1,5.8,1.1,3.13,High,22,Male,Not working,Venustiano Carranza,Yes,Yes,No
+422,9.1,1.1,9.4,0.5,3.9,3.58,High,22,Male,Not working,Cuajimalpa de Morelos,Yes,Yes,No
+423,8.5,2.2,5.5,1.5,6.3,3.27,High,22,Female,Part-time,Magdalena Contreras,Yes,Yes,No
+424,6.5,2.4,6.5,1.8,6.8,2.91,Moderate,22,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+425,8.7,0.2,9.5,4.8,0.8,3.5,High,22,Female,Not working,Coyoacan,Yes,Yes,No
+426,9.5,0.7,5.4,1.4,7.0,3.77,High,24,Male,Not working,Miguel Hidalgo,Yes,Yes,No
+427,9.0,0.1,7.9,6.0,1.0,3.36,High,24,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+428,5.3,3.3,8.0,0.7,6.7,3.03,Low,23,Female,Part-time,Azcapotzalco,No,No,No
+429,5.5,3.6,8.3,5.0,1.6,2.86,Low,22,Female,Not working,Alvaro Obregon,No,No,No
+430,7.6,1.7,6.6,2.6,5.5,3.34,Moderate,21,Male,Not working,Tlalpan,No,No,Yes
+431,8.9,2.4,9.5,1.4,1.8,3.66,High,22,Female,Part-time,Alvaro Obregon,Yes,No,No
+432,8.0,2.8,6.2,3.1,3.9,3.46,Moderate,22,Female,Part-time,Coyoacan,Yes,No,No
+433,5.5,1.5,7.4,3.9,5.7,2.85,Low,24,Male,Part-time,Gustavo A. Madero,No,Yes,No
+434,8.7,2.0,8.2,0.4,4.7,3.42,High,22,Female,Not working,Gustavo A. Madero,No,No,No
+435,6.3,1.4,7.4,0.3,8.6,2.86,Moderate,21,Female,Full-time,Cuauhtemoc,Yes,No,No
+436,9.9,1.3,7.4,1.1,4.3,3.35,High,21,Female,Not working,Alvaro Obregon,No,No,No
+437,8.1,1.1,6.0,3.1,5.7,3.15,High,25,Female,Part-time,Iztapalapa,Yes,No,Yes
+438,9.0,2.3,7.6,1.5,3.6,3.2,High,21,Female,Not working,Miguel Hidalgo,Yes,No,Yes
+439,9.7,1.6,5.4,3.7,3.6,3.39,High,21,Male,Not working,Iztapalapa,Yes,Yes,No
+440,7.5,3.5,7.5,3.9,1.6,2.97,Moderate,22,Male,Not working,Iztapalapa,Yes,No,Yes
+441,10.0,0.5,6.4,2.4,4.7,3.14,High,25,Female,Part-time,Milpa Alta,No,No,No
+442,9.5,2.9,8.0,1.1,2.5,3.11,High,23,Male,Not working,Cuauhtemoc,No,Yes,Yes
+443,9.1,3.8,9.1,0.0,2.0,3.27,High,23,Male,Not working,Miguel Hidalgo,No,No,Yes
+444,6.3,0.2,8.0,4.1,5.4,2.97,Moderate,20,Male,Not working,Coyoacan,No,Yes,No
+445,5.6,1.5,7.3,2.2,7.4,2.8,Low,20,Female,Part-time,Miguel Hidalgo,No,No,No
+446,8.8,0.3,5.4,2.1,7.4,3.12,High,22,Male,Part-time,Milpa Alta,Yes,Yes,No
+447,9.7,2.7,8.4,1.2,2.0,3.44,High,22,Female,Not working,Miguel Hidalgo,Yes,Yes,No
+448,8.2,3.7,8.1,3.5,0.5,3.23,High,23,Female,Not working,Xochimilco,Yes,No,Yes
+449,8.6,0.5,9.5,0.4,5.0,3.06,High,21,Male,Not working,Cuauhtemoc,Yes,Yes,Yes
+450,5.1,1.7,6.5,2.9,7.8,2.79,Low,24,Female,Full-time,Tlalpan,No,Yes,No
+451,7.9,0.2,5.6,3.4,6.9,3.44,High,25,Female,Full-time,Miguel Hidalgo,Yes,No,No
+452,8.3,3.4,8.5,1.6,2.2,3.07,High,20,Male,Not working,Alvaro Obregon,Yes,No,No
+453,8.4,1.1,6.5,4.7,3.3,3.54,High,23,Female,Part-time,Azcapotzalco,Yes,Yes,Yes
+454,9.1,3.4,9.6,0.8,1.1,3.31,High,22,Male,Not working,Benito Juarez,Yes,Yes,No
+455,6.6,2.3,6.9,3.6,4.6,3.2,Moderate,25,Female,Not working,Iztapalapa,Yes,Yes,Yes
+456,6.9,0.7,7.2,0.9,8.3,3.26,Moderate,23,Male,Part-time,Venustiano Carranza,Yes,No,Yes
+457,9.5,1.4,5.8,0.2,7.1,3.69,High,24,Female,Not working,Xochimilco,Yes,No,Yes
+458,6.7,0.3,7.0,1.9,8.1,3.28,Moderate,22,Female,Part-time,Gustavo A. Madero,No,No,No
+459,8.4,2.4,6.8,1.3,5.1,3.25,High,23,Male,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+460,8.4,0.6,7.4,0.2,7.4,3.32,High,25,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+461,7.5,3.9,6.9,0.2,5.5,3.11,Moderate,25,Female,Full-time,Gustavo A. Madero,Yes,No,Yes
+462,5.8,0.1,8.8,2.8,6.5,2.8,Low,20,Male,Not working,Alvaro Obregon,No,No,No
+463,6.4,3.6,5.6,5.7,2.7,3.1,High,23,Male,Full-time,Iztapalapa,Yes,Yes,Yes
+464,8.0,3.3,9.9,0.8,2.0,3.13,Moderate,23,Male,Part-time,Miguel Hidalgo,No,Yes,Yes
+465,9.8,1.6,6.9,1.9,3.8,3.23,High,21,Female,Not working,Miguel Hidalgo,Yes,No,Yes
+466,7.8,2.2,8.8,4.3,0.9,3.2,Moderate,21,Female,Part-time,Xochimilco,No,No,Yes
+467,7.2,1.2,6.3,1.2,8.1,3.05,Moderate,23,Male,Part-time,Venustiano Carranza,No,No,No
+468,6.4,3.9,7.8,2.0,3.9,2.87,Moderate,24,Male,Not working,Tlalpan,No,No,Yes
+469,7.9,0.6,7.2,3.8,4.5,2.68,Moderate,23,Female,Full-time,Iztapalapa,Yes,No,No
+470,10.0,3.5,8.1,1.4,1.0,3.44,High,22,Female,Not working,Gustavo A. Madero,Yes,Yes,No
+471,8.1,0.8,7.0,0.2,7.9,3.74,High,21,Female,Not working,Tlalpan,No,Yes,No
+472,6.1,3.9,9.5,3.2,1.3,2.61,Moderate,20,Male,Part-time,Milpa Alta,No,No,No
+473,7.7,3.5,5.7,4.7,2.4,3.21,High,25,Male,Full-time,Xochimilco,Yes,No,Yes
+474,6.4,3.5,9.7,0.7,3.7,2.89,Moderate,22,Female,Part-time,Benito Juarez,Yes,No,No
+475,7.3,3.9,7.4,4.7,0.7,2.74,Moderate,21,Male,Not working,Tlalpan,Yes,No,Yes
+476,6.4,0.8,8.8,2.3,5.7,3.21,Moderate,23,Male,Part-time,Tlalpan,Yes,No,Yes
+477,7.6,2.0,7.9,5.2,1.3,3.13,Moderate,22,Male,Part-time,Xochimilco,No,Yes,Yes
+478,9.1,3.1,7.9,3.7,0.2,3.42,High,22,Female,Not working,Miguel Hidalgo,Yes,No,Yes
+479,6.0,0.4,9.3,2.6,5.7,3.02,Moderate,23,Female,Full-time,Coyoacan,No,No,No
+480,8.1,3.7,5.1,2.9,4.2,2.63,High,22,Female,Not working,Tlalpan,No,No,No
+481,8.4,2.9,8.5,0.6,3.6,3.07,High,21,Female,Not working,Alvaro Obregon,No,No,No
+482,9.0,1.1,6.1,5.7,2.1,3.07,High,22,Male,Full-time,Iztacalco,No,Yes,No
+483,5.0,4.0,8.4,5.0,1.6,2.9,Low,23,Female,Not working,Iztacalco,No,No,No
+484,8.7,0.6,8.8,4.5,1.4,3.41,High,21,Female,Not working,Tlalpan,Yes,No,Yes
+485,8.3,3.1,9.2,2.1,1.3,3.24,High,21,Female,Not working,Iztapalapa,Yes,No,Yes
+486,5.4,1.6,7.0,0.4,9.6,2.63,Low,21,Male,Part-time,Coyoacan,Yes,No,No
+487,6.7,0.4,9.0,5.7,2.2,2.63,Moderate,24,Male,Full-time,Gustavo A. Madero,No,No,Yes
+488,5.4,2.0,9.0,4.2,3.4,2.85,Low,25,Male,Not working,Gustavo A. Madero,No,No,No
+489,5.3,0.3,7.0,1.8,9.6,2.64,Low,24,Female,Full-time,Venustiano Carranza,No,No,No
+490,9.0,3.7,7.0,3.9,0.4,3.16,High,21,Female,Not working,Tlalpan,Yes,No,Yes
+491,6.6,1.9,6.1,3.8,5.6,3.0,Moderate,21,Female,Not working,Tlalpan,Yes,Yes,Yes
+492,6.8,2.6,5.6,5.3,3.7,3.08,High,21,Female,Not working,Miguel Hidalgo,Yes,Yes,Yes
+493,7.5,1.8,7.9,3.7,3.1,3.17,Moderate,25,Female,Part-time,Coyoacan,Yes,No,Yes
+494,6.2,2.9,9.1,4.7,1.1,2.83,Moderate,22,Female,Part-time,Iztapalapa,Yes,Yes,No
+495,7.8,2.1,5.7,4.7,3.7,3.16,High,22,Female,Part-time,Tlahuac,Yes,Yes,Yes
+496,6.4,0.5,8.1,0.3,8.7,2.61,Moderate,22,Female,Not working,Tlalpan,No,No,No
+497,8.7,1.3,5.0,3.1,5.9,3.24,High,23,Female,Not working,Cuauhtemoc,Yes,Yes,Yes
+498,9.2,0.0,6.2,4.4,4.2,3.41,High,21,Male,Part-time,Iztapalapa,Yes,Yes,No
+499,6.6,0.4,6.8,1.6,8.6,2.89,Moderate,22,Male,Not working,Iztapalapa,Yes,Yes,No
+500,8.9,3.6,7.2,3.9,0.4,3.51,High,21,Female,Not working,Tlalpan,Yes,No,No
+501,6.9,3.9,5.4,4.1,3.7,2.55,High,20,Female,Not working,Iztapalapa,Yes,No,No
+502,8.2,2.8,5.0,1.0,7.0,3.2,High,23,Male,Part-time,Tlalpan,Yes,Yes,No
+503,8.6,2.7,9.8,2.2,0.7,3.31,High,24,Female,Not working,Iztapalapa,Yes,No,No
+504,6.5,0.4,8.9,3.9,4.3,3.01,Moderate,24,Male,Part-time,Iztapalapa,No,No,Yes
+505,5.2,1.4,9.8,3.0,4.6,2.49,Low,25,Male,Full-time,Venustiano Carranza,Yes,Yes,No
+506,6.0,1.5,6.8,0.3,9.4,2.44,Moderate,24,Female,Not working,Coyoacan,Yes,Yes,Yes
+507,8.8,1.7,9.1,3.7,0.7,3.44,High,22,Female,Part-time,Iztacalco,Yes,No,Yes
+508,7.4,3.5,6.1,4.1,2.9,2.88,Moderate,23,Male,Full-time,Tlalpan,No,No,Yes
+509,8.0,1.2,5.7,3.9,5.2,3.03,High,22,Male,Part-time,Gustavo A. Madero,Yes,Yes,No
+510,8.2,1.6,8.6,1.1,4.5,3.46,High,24,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+511,9.5,1.1,6.8,0.3,6.3,3.43,High,22,Male,Part-time,Cuajimalpa de Morelos,No,Yes,Yes
+512,6.3,3.3,5.1,2.3,7.0,2.74,High,20,Female,Part-time,Tlalpan,Yes,Yes,Yes
+513,6.7,0.1,5.6,2.5,9.1,2.49,High,22,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+514,7.7,2.4,5.0,2.8,6.1,3.12,High,23,Male,Not working,Alvaro Obregon,Yes,Yes,Yes
+515,9.8,2.1,8.4,1.2,2.5,3.61,High,21,Female,Not working,Gustavo A. Madero,No,No,No
+516,7.6,3.9,5.6,0.1,6.8,3.28,High,23,Male,Not working,Tlahuac,Yes,Yes,No
+517,8.9,3.2,5.6,1.6,4.7,3.36,High,24,Male,Not working,Miguel Hidalgo,Yes,No,Yes
+518,6.7,1.5,5.0,1.8,9.0,3.31,High,21,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+519,8.2,3.9,9.2,0.1,2.6,3.26,High,24,Male,Not working,Coyoacan,Yes,No,No
+520,8.9,1.8,7.0,1.8,4.5,3.38,High,24,Female,Part-time,Gustavo A. Madero,Yes,No,Yes
+521,5.3,0.9,6.2,2.9,8.7,2.76,Low,21,Male,Part-time,Iztacalco,Yes,No,No
+522,5.3,3.8,9.7,4.1,1.1,3.13,Low,22,Female,Part-time,Coyoacan,No,No,Yes
+523,10.0,2.2,9.8,0.2,1.8,3.25,High,21,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+524,6.0,0.6,8.1,4.7,4.6,2.78,Moderate,22,Male,Part-time,Benito Juarez,Yes,No,No
+525,7.9,0.6,9.1,3.8,2.6,3.5,Moderate,22,Male,Not working,Benito Juarez,Yes,Yes,Yes
+526,6.3,1.4,9.6,1.7,5.0,2.74,Moderate,24,Female,Not working,Azcapotzalco,No,Yes,No
+527,7.3,3.6,8.5,0.3,4.3,2.93,Moderate,22,Female,Part-time,Alvaro Obregon,Yes,Yes,Yes
+528,5.7,3.8,7.6,1.5,5.4,3.27,Low,20,Male,Full-time,Cuauhtemoc,No,No,No
+529,7.5,2.7,5.4,1.6,6.8,3.09,High,20,Male,Not working,Iztapalapa,Yes,No,No
+530,7.7,1.7,5.2,1.0,8.4,3.43,High,21,Male,Full-time,Benito Juarez,Yes,Yes,Yes
+531,7.2,0.8,5.2,5.1,5.7,2.99,High,21,Male,Not working,Benito Juarez,Yes,Yes,Yes
+532,9.8,0.8,9.8,3.6,0.0,3.59,High,23,Male,Part-time,Iztacalco,Yes,Yes,Yes
+533,8.6,3.9,7.8,1.0,2.7,3.69,High,23,Male,Not working,Iztacalco,Yes,No,Yes
+534,5.4,2.5,9.9,1.1,5.1,2.54,Low,20,Male,Part-time,Benito Juarez,No,No,No
+535,9.0,3.6,9.7,1.6,0.1,3.44,High,23,Female,Not working,Azcapotzalco,Yes,Yes,No
+536,8.8,0.6,7.4,4.3,2.9,3.32,High,22,Female,Not working,Benito Juarez,Yes,Yes,Yes
+537,6.2,2.6,8.3,1.0,5.9,3.23,Moderate,22,Male,Not working,Cuauhtemoc,Yes,No,Yes
+538,7.5,0.0,5.0,2.1,9.4,3.2,High,22,Male,Not working,Iztacalco,Yes,No,No
+539,9.6,0.9,8.2,1.2,4.1,3.62,High,24,Female,Not working,Tlalpan,Yes,Yes,No
+540,8.6,0.4,7.1,0.2,7.7,3.2,High,23,Female,Not working,Cuauhtemoc,Yes,No,No
+541,7.4,2.6,5.6,1.7,6.7,3.26,High,23,Male,Full-time,Iztapalapa,Yes,Yes,No
+542,10.0,0.2,8.8,1.9,3.1,3.46,High,24,Male,Full-time,Gustavo A. Madero,No,No,Yes
+543,7.0,3.0,9.6,4.2,0.2,2.68,Moderate,23,Male,Full-time,Gustavo A. Madero,No,No,Yes
+544,8.9,1.0,7.8,2.2,4.1,3.54,High,23,Male,Part-time,Iztapalapa,No,No,No
+545,8.3,1.0,6.0,5.5,3.2,3.25,High,23,Male,Not working,Tlalpan,Yes,No,No
+546,6.1,0.2,5.2,1.1,11.4,2.72,High,22,Male,Not working,Benito Juarez,Yes,No,No
+547,9.3,1.1,9.8,2.2,1.6,3.79,High,21,Male,Part-time,Xochimilco,Yes,No,No
+548,7.6,3.0,6.4,2.1,4.9,2.83,Moderate,25,Male,Full-time,Tlahuac,Yes,No,No
+549,9.5,3.8,9.5,0.5,0.7,3.4,High,24,Male,Not working,Iztapalapa,No,No,No
+550,7.5,0.8,8.0,1.1,6.6,3.43,Moderate,21,Male,Not working,Tlalpan,Yes,Yes,Yes
+551,6.7,3.4,6.0,0.4,7.5,2.48,Moderate,21,Male,Not working,Iztacalco,No,No,No
+552,9.1,3.3,6.7,3.4,1.5,3.4,High,21,Female,Not working,Iztacalco,Yes,Yes,No
+553,8.9,2.6,5.8,5.3,1.4,2.98,High,20,Female,Part-time,Cuajimalpa de Morelos,Yes,Yes,No
+554,7.1,0.2,5.6,4.6,6.5,3.13,High,23,Male,Not working,Coyoacan,Yes,No,Yes
+555,5.0,1.7,7.6,0.3,9.4,2.53,Low,25,Male,Not working,Azcapotzalco,No,No,Yes
+556,6.2,0.0,8.6,5.8,3.4,2.71,Moderate,23,Male,Full-time,Iztapalapa,Yes,No,Yes
+557,6.1,2.7,8.7,5.1,1.4,2.57,Moderate,25,Male,Full-time,Miguel Hidalgo,Yes,No,Yes
+558,6.6,2.9,9.1,1.0,4.4,2.85,Moderate,22,Male,Not working,Tlahuac,No,No,Yes
+559,6.9,3.6,9.0,4.4,0.1,2.92,Moderate,23,Female,Part-time,Iztapalapa,Yes,No,No
+560,8.0,2.6,5.4,3.3,4.7,3.48,High,21,Male,Part-time,Cuauhtemoc,Yes,Yes,No
+561,8.5,0.7,8.9,3.4,2.5,3.41,High,23,Male,Not working,Alvaro Obregon,Yes,Yes,Yes
+562,6.5,2.9,8.8,0.6,5.2,2.67,Moderate,24,Female,Part-time,Iztapalapa,Yes,No,Yes
+563,7.6,2.0,6.8,5.6,2.0,3.25,Moderate,24,Male,Not working,Xochimilco,No,No,No
+564,8.6,1.8,9.6,2.8,1.2,3.47,High,24,Female,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+565,8.6,3.4,6.4,4.5,1.1,3.18,High,22,Male,Full-time,Iztacalco,Yes,Yes,Yes
+566,6.7,3.9,9.3,2.9,1.2,2.78,Moderate,24,Male,Part-time,Iztapalapa,Yes,No,Yes
+567,8.6,2.2,9.7,1.7,1.8,3.07,High,25,Female,Part-time,Venustiano Carranza,Yes,Yes,Yes
+568,8.9,2.9,6.9,0.1,5.2,3.26,High,23,Female,Full-time,Iztacalco,Yes,Yes,No
+569,9.2,0.0,8.5,5.8,0.5,3.08,High,20,Female,Not working,Tlalpan,Yes,Yes,No
+570,8.5,3.3,7.7,4.4,0.1,3.2,High,23,Female,Part-time,Magdalena Contreras,Yes,Yes,No
+571,5.3,2.0,8.6,5.2,2.9,2.89,Low,23,Male,Not working,Cuauhtemoc,Yes,No,No
+572,7.8,1.6,5.7,5.2,3.7,3.06,High,21,Female,Not working,Xochimilco,Yes,Yes,No
+573,5.8,1.2,6.5,5.2,5.3,3.08,Low,21,Male,Full-time,Coyoacan,No,No,Yes
+574,6.3,2.5,7.9,5.0,2.3,3.07,Moderate,21,Male,Not working,Iztapalapa,Yes,No,No
+575,9.5,0.0,8.4,0.3,5.8,3.07,High,24,Male,Full-time,Iztapalapa,Yes,No,No
+576,6.5,1.4,8.1,2.0,6.0,3.06,Moderate,23,Male,Not working,Cuajimalpa de Morelos,No,No,Yes
+577,8.7,1.6,5.3,4.7,3.7,3.2,High,25,Female,Part-time,Coyoacan,Yes,Yes,No
+578,8.4,1.3,5.3,2.2,6.8,2.92,High,20,Male,Part-time,Milpa Alta,Yes,No,No
+579,9.7,2.6,8.4,2.1,1.2,3.38,High,23,Female,Not working,Cuauhtemoc,No,No,Yes
+580,8.8,0.4,6.4,1.7,6.7,3.05,High,25,Male,Full-time,Xochimilco,Yes,Yes,Yes
+581,7.2,3.9,5.3,3.1,4.5,3.03,High,25,Female,Full-time,Cuauhtemoc,Yes,No,Yes
+582,8.7,2.8,7.1,1.9,3.5,3.12,High,22,Female,Part-time,Xochimilco,Yes,Yes,No
+583,7.0,1.1,6.0,2.9,7.0,2.87,Moderate,25,Male,Full-time,Iztapalapa,Yes,No,No
+584,8.3,3.9,8.0,0.3,3.5,3.04,High,24,Female,Not working,Xochimilco,Yes,No,Yes
+585,5.4,3.8,6.5,0.6,7.7,3.14,Low,24,Male,Full-time,Iztapalapa,No,No,No
+586,8.2,1.1,5.1,5.8,3.8,3.5,High,23,Male,Part-time,Tlalpan,No,Yes,No
+587,6.3,2.7,8.5,3.7,2.8,2.72,Moderate,24,Female,Full-time,Benito Juarez,No,No,No
+588,8.0,3.5,9.7,0.3,2.5,3.02,Moderate,24,Female,Full-time,Cuajimalpa de Morelos,No,Yes,Yes
+589,5.8,3.8,8.7,5.0,0.7,2.95,Low,22,Female,Part-time,Magdalena Contreras,Yes,No,Yes
+590,8.5,2.7,7.0,0.1,5.7,3.01,High,20,Female,Not working,Miguel Hidalgo,Yes,Yes,No
+591,7.9,1.0,7.3,5.7,2.1,3.41,Moderate,24,Female,Not working,Tlalpan,No,No,Yes
+592,5.9,2.7,9.9,0.6,4.9,2.82,Low,24,Male,Part-time,Milpa Alta,No,No,No
+593,5.0,1.7,5.5,4.5,7.3,2.72,High,24,Male,Not working,Benito Juarez,Yes,No,Yes
+594,6.3,1.7,8.6,0.1,7.3,3.11,Moderate,22,Male,Full-time,Gustavo A. Madero,No,No,Yes
+595,7.9,2.5,8.2,1.3,4.1,3.08,Moderate,22,Male,Part-time,Venustiano Carranza,No,No,Yes
+596,6.0,3.5,8.7,0.1,5.7,2.95,Moderate,20,Male,Not working,Xochimilco,No,Yes,No
+597,6.2,0.9,6.4,1.5,9.0,2.92,Moderate,25,Female,Full-time,Cuauhtemoc,Yes,No,No
+598,8.7,2.4,8.4,0.4,4.1,3.16,High,22,Female,Not working,Tlalpan,No,No,No
+599,9.8,3.4,9.0,1.5,0.3,3.49,High,24,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+600,6.0,2.5,8.7,4.4,2.4,3.05,Moderate,22,Female,Not working,Gustavo A. Madero,No,No,Yes
+601,7.6,0.3,6.9,5.5,3.7,3.35,Moderate,20,Female,Full-time,Iztapalapa,No,No,Yes
+602,6.3,1.5,9.5,4.0,2.7,3.42,Moderate,24,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+603,8.9,1.8,8.2,1.3,3.8,3.21,High,24,Male,Not working,Cuauhtemoc,No,No,No
+604,7.2,2.6,9.7,0.3,4.2,3.42,Moderate,25,Male,Not working,Gustavo A. Madero,No,No,Yes
+605,9.1,1.2,7.2,0.1,6.4,3.37,High,22,Male,Part-time,Tlalpan,Yes,Yes,Yes
+606,5.3,2.0,9.6,0.6,6.5,2.41,Low,22,Female,Full-time,Gustavo A. Madero,No,Yes,No
+607,8.8,1.6,8.3,1.4,3.9,3.26,High,23,Female,Not working,Iztapalapa,Yes,No,Yes
+608,5.4,0.7,8.3,5.3,4.3,2.75,Low,21,Female,Not working,Cuajimalpa de Morelos,No,No,Yes
+609,9.1,2.7,5.6,1.7,4.9,3.15,High,21,Male,Part-time,Alvaro Obregon,Yes,No,No
+610,7.6,2.1,6.8,2.1,5.4,2.97,Moderate,23,Female,Part-time,Gustavo A. Madero,Yes,No,Yes
+611,9.1,3.2,6.5,4.8,0.4,3.34,High,22,Female,Not working,Gustavo A. Madero,Yes,Yes,Yes
+612,6.8,2.0,9.7,4.8,0.7,3.09,Moderate,22,Male,Part-time,Gustavo A. Madero,No,No,No
+613,5.5,1.6,7.8,3.0,6.1,2.9,Low,23,Male,Part-time,Magdalena Contreras,No,Yes,Yes
+614,8.4,3.4,9.3,2.2,0.7,3.2,High,22,Female,Not working,Iztapalapa,Yes,No,No
+615,7.2,2.4,5.8,4.0,4.6,3.19,High,25,Female,Not working,Alvaro Obregon,Yes,Yes,No
+616,6.1,0.5,5.8,0.0,11.6,2.73,High,22,Female,Part-time,Iztacalco,Yes,No,No
+617,8.6,2.9,7.6,0.8,4.1,3.15,High,25,Female,Full-time,Benito Juarez,Yes,Yes,Yes
+618,5.5,0.9,7.6,3.6,6.4,2.57,Low,24,Female,Full-time,Cuauhtemoc,No,No,Yes
+619,6.2,0.2,7.0,1.4,9.2,3.13,Moderate,24,Female,Not working,Venustiano Carranza,Yes,No,Yes
+620,7.1,1.7,7.7,4.2,3.3,3.48,Moderate,23,Female,Full-time,Iztapalapa,No,No,Yes
+621,8.5,0.7,7.5,2.5,4.8,3.34,High,22,Male,Not working,Iztapalapa,Yes,Yes,No
+622,7.7,0.5,8.0,0.7,7.1,3.34,Moderate,23,Female,Part-time,Venustiano Carranza,Yes,No,No
+623,6.7,0.6,8.5,1.2,7.0,3.18,Moderate,22,Female,Part-time,Azcapotzalco,No,Yes,No
+624,6.0,2.0,7.1,0.1,8.8,2.85,Moderate,23,Female,Not working,Azcapotzalco,Yes,No,No
+625,9.0,0.3,7.4,3.4,3.9,3.64,High,24,Female,Part-time,Coyoacan,Yes,No,No
+626,6.3,0.0,8.6,3.2,5.9,3.14,Moderate,20,Male,Full-time,Miguel Hidalgo,No,No,No
+627,9.2,3.3,9.2,1.1,1.2,3.6,High,21,Male,Not working,Cuauhtemoc,Yes,No,Yes
+628,7.3,0.7,9.3,5.3,1.4,2.97,Moderate,21,Male,Not working,Benito Juarez,Yes,No,No
+629,7.3,0.3,6.9,4.8,4.7,3.09,Moderate,23,Male,Full-time,Azcapotzalco,No,No,Yes
+630,5.3,3.5,6.9,3.3,5.0,2.81,Low,23,Male,Not working,Azcapotzalco,Yes,No,Yes
+631,9.8,0.3,8.2,0.4,5.3,3.71,High,22,Male,Part-time,Iztapalapa,Yes,No,Yes
+632,7.2,4.0,7.8,1.6,3.4,2.98,Moderate,25,Male,Full-time,Tlalpan,Yes,No,Yes
+633,6.1,1.4,6.9,0.4,9.2,2.79,Moderate,22,Male,Part-time,Azcapotzalco,Yes,No,Yes
+634,8.6,2.6,8.5,0.0,4.3,2.85,High,23,Male,Full-time,Benito Juarez,Yes,No,No
+635,6.1,2.6,7.4,0.0,7.9,3.03,Moderate,24,Female,Not working,Gustavo A. Madero,Yes,No,No
+636,7.7,0.3,8.8,3.5,3.7,3.29,Moderate,22,Female,Not working,Iztapalapa,No,No,No
+637,8.9,3.0,9.0,1.6,1.5,3.42,High,24,Female,Not working,Magdalena Contreras,No,Yes,No
+638,8.1,3.0,5.8,1.2,5.9,3.04,High,22,Female,Part-time,Cuajimalpa de Morelos,Yes,No,Yes
+639,9.5,3.0,9.5,1.5,0.5,3.76,High,22,Male,Part-time,Venustiano Carranza,Yes,Yes,Yes
+640,9.4,2.3,8.2,0.6,3.5,3.62,High,23,Female,Not working,Tlalpan,Yes,Yes,No
+641,7.4,2.9,6.4,1.2,6.1,2.89,Moderate,24,Female,Full-time,Iztapalapa,No,No,No
+642,6.1,1.7,9.5,3.0,3.7,2.76,Moderate,25,Female,Part-time,Iztapalapa,No,No,Yes
+643,5.9,0.3,8.5,2.3,7.0,2.99,Low,21,Female,Part-time,Iztapalapa,No,No,No
+644,9.0,1.1,8.5,1.4,4.0,3.56,High,20,Male,Not working,Gustavo A. Madero,No,Yes,No
+645,9.7,2.5,6.6,1.4,3.8,3.57,High,23,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+646,6.1,2.4,6.3,4.0,5.2,2.73,Moderate,20,Female,Part-time,Tlalpan,Yes,Yes,Yes
+647,9.1,3.1,8.8,0.6,2.4,3.42,High,23,Male,Not working,Alvaro Obregon,No,No,No
+648,6.8,1.7,5.2,1.6,8.7,2.91,High,23,Male,Full-time,Alvaro Obregon,No,Yes,Yes
+649,5.2,3.5,6.2,3.3,5.8,2.8,Low,20,Male,Not working,Tlahuac,No,No,Yes
+650,6.6,3.6,9.4,1.4,3.0,2.94,Moderate,21,Female,Full-time,Coyoacan,No,Yes,No
+651,9.5,4.0,9.1,1.2,0.2,3.52,High,22,Male,Not working,Coyoacan,Yes,Yes,No
+652,5.3,0.4,10.0,2.0,6.3,2.49,Low,22,Male,Not working,Xochimilco,No,No,No
+653,8.7,3.2,9.3,2.8,0.0,3.1,High,22,Male,Part-time,Benito Juarez,Yes,Yes,Yes
+654,5.1,1.4,8.9,3.4,5.2,2.72,Low,23,Male,Part-time,Tlalpan,Yes,No,No
+655,6.6,2.6,6.2,0.1,8.5,3.11,Moderate,24,Male,Part-time,Tlahuac,No,No,No
+656,8.8,0.2,9.2,3.6,2.2,3.59,High,20,Female,Full-time,Tlalpan,Yes,No,Yes
+657,7.8,2.5,9.3,2.6,1.8,3.2,Moderate,24,Female,Full-time,Coyoacan,Yes,Yes,No
+658,8.8,1.8,8.5,1.9,3.0,3.32,High,22,Male,Not working,Alvaro Obregon,No,Yes,Yes
+659,6.1,2.4,9.6,5.5,0.4,2.99,Moderate,22,Male,Full-time,Gustavo A. Madero,No,Yes,Yes
+660,6.1,4.0,9.9,2.6,1.4,2.49,Moderate,24,Male,Not working,Magdalena Contreras,Yes,Yes,Yes
+661,9.0,2.9,8.0,0.2,3.9,3.74,High,22,Male,Full-time,Alvaro Obregon,Yes,Yes,Yes
+662,8.4,1.5,9.7,0.7,3.7,3.16,High,21,Male,Part-time,Iztapalapa,Yes,No,No
+663,7.5,2.8,8.5,3.4,1.8,2.98,Moderate,20,Male,Full-time,Coyoacan,No,Yes,No
+664,8.2,2.4,5.9,4.2,3.3,3.13,High,24,Female,Not working,Xochimilco,Yes,Yes,Yes
+665,7.3,2.7,9.2,0.8,4.0,3.41,Moderate,20,Female,Not working,Benito Juarez,Yes,No,No
+666,9.2,3.2,9.8,1.0,0.8,3.55,High,21,Male,Part-time,Cuajimalpa de Morelos,No,No,No
+667,7.4,1.6,5.8,3.4,5.8,3.19,High,20,Female,Not working,Tlahuac,Yes,Yes,No
+668,7.9,2.4,6.8,0.3,6.6,3.14,Moderate,22,Female,Part-time,Iztapalapa,Yes,No,No
+669,5.2,1.7,5.4,3.6,8.1,2.55,High,20,Female,Part-time,Benito Juarez,Yes,Yes,No
+670,9.3,3.5,6.0,3.8,1.4,3.52,High,24,Female,Not working,Magdalena Contreras,No,No,Yes
+671,6.4,3.2,10.0,0.1,4.3,3.01,Moderate,21,Female,Part-time,Benito Juarez,Yes,No,No
+672,9.9,1.9,9.2,0.2,2.8,3.65,High,21,Female,Not working,Tlalpan,Yes,No,No
+673,6.7,0.3,9.9,4.9,2.2,2.96,Moderate,23,Female,Not working,Benito Juarez,No,Yes,Yes
+674,5.4,0.8,6.1,2.8,8.9,2.66,Low,21,Female,Part-time,Tlalpan,No,No,Yes
+675,6.3,0.4,5.8,0.9,10.6,2.93,High,22,Female,Part-time,Iztacalco,Yes,No,Yes
+676,6.4,3.2,6.6,1.8,6.0,3.06,Moderate,24,Female,Full-time,Azcapotzalco,Yes,No,No
+677,6.2,0.5,6.3,2.1,8.9,2.84,Moderate,21,Female,Part-time,Benito Juarez,Yes,No,Yes
+678,6.1,3.2,5.7,2.1,6.9,2.95,High,22,Male,Part-time,Iztacalco,Yes,Yes,No
+679,9.3,0.6,5.4,2.9,5.8,3.51,High,21,Female,Not working,Iztapalapa,No,No,No
+680,9.0,0.5,7.9,3.0,3.6,2.99,High,22,Male,Part-time,Tlalpan,Yes,No,Yes
+681,5.7,2.5,6.4,2.9,6.5,2.84,Low,25,Female,Full-time,Gustavo A. Madero,Yes,No,Yes
+682,6.5,3.3,5.3,2.5,6.4,2.81,High,20,Female,Not working,Gustavo A. Madero,No,No,No
+683,7.3,2.9,7.9,3.9,2.0,3.19,Moderate,24,Female,Not working,Azcapotzalco,No,No,Yes
+684,6.6,2.2,9.2,5.9,0.1,3.06,Moderate,23,Female,Full-time,Iztacalco,No,Yes,No
+685,9.4,1.5,6.0,2.9,4.2,3.4,High,21,Female,Not working,Iztapalapa,Yes,No,Yes
+686,7.4,3.4,6.8,5.2,1.2,3.45,Moderate,24,Male,Part-time,Coyoacan,Yes,Yes,No
+687,7.0,1.3,7.3,4.6,3.8,3.0,Moderate,24,Male,Full-time,Alvaro Obregon,Yes,No,Yes
+688,9.8,0.7,7.8,3.3,2.4,3.41,High,21,Female,Not working,Cuauhtemoc,Yes,No,Yes
+689,7.4,2.6,6.1,3.3,4.6,3.41,Moderate,22,Female,Not working,Iztapalapa,Yes,No,Yes
+690,5.7,2.3,5.9,1.7,8.4,2.62,High,22,Female,Not working,Gustavo A. Madero,Yes,No,No
+691,6.1,0.7,9.1,1.7,6.4,2.69,Moderate,23,Female,Not working,Xochimilco,No,No,Yes
+692,6.9,3.2,6.8,0.5,6.6,3.08,Moderate,23,Male,Full-time,Miguel Hidalgo,No,Yes,Yes
+693,7.8,3.4,9.0,0.7,3.1,2.95,Moderate,22,Female,Part-time,Venustiano Carranza,No,Yes,No
+694,6.1,3.5,6.2,1.6,6.6,3.05,Moderate,23,Female,Part-time,Gustavo A. Madero,No,Yes,Yes
+695,5.0,3.5,9.0,3.8,2.7,2.62,Low,23,Female,Part-time,Gustavo A. Madero,No,No,Yes
+696,7.3,1.4,5.5,2.9,6.9,3.19,High,25,Male,Part-time,Milpa Alta,Yes,No,Yes
+697,9.6,0.2,6.5,1.2,6.5,3.5,High,21,Female,Not working,Tlalpan,Yes,No,Yes
+698,7.3,1.9,8.8,0.9,5.1,3.06,Moderate,22,Female,Not working,Coyoacan,Yes,Yes,No
+699,7.4,1.7,8.0,6.0,0.9,3.0,Moderate,25,Male,Not working,Xochimilco,Yes,No,No
+700,9.1,0.7,5.2,1.2,7.8,3.64,High,22,Male,Part-time,Milpa Alta,Yes,No,No
+701,6.7,2.0,8.1,5.5,1.7,3.11,Moderate,24,Male,Part-time,Tlalpan,No,No,Yes
+702,5.3,0.1,7.8,2.6,8.2,3.58,Low,21,Male,Part-time,Iztacalco,No,No,Yes
+703,9.2,0.6,5.1,2.7,6.4,3.27,High,24,Female,Part-time,Iztapalapa,Yes,No,Yes
+704,8.0,1.1,5.9,2.3,6.7,3.27,High,22,Female,Part-time,Tlahuac,Yes,No,Yes
+705,9.0,1.6,8.8,0.6,4.0,3.2,High,23,Male,Not working,Magdalena Contreras,Yes,No,No
+706,8.4,2.3,9.6,1.4,2.3,3.41,High,22,Female,Part-time,Gustavo A. Madero,No,Yes,No
+707,5.3,0.1,9.1,3.1,6.4,2.65,Low,24,Male,Full-time,Iztapalapa,No,No,Yes
+708,6.7,0.1,9.8,4.0,3.4,3.15,Moderate,22,Female,Part-time,Gustavo A. Madero,No,No,Yes
+709,9.7,1.1,8.1,3.5,1.6,3.63,High,22,Male,Part-time,Benito Juarez,Yes,No,Yes
+710,9.7,3.5,8.7,0.6,1.5,3.36,High,23,Female,Part-time,Milpa Alta,No,No,Yes
+711,6.4,3.9,5.1,4.3,4.3,3.14,High,21,Male,Part-time,Magdalena Contreras,Yes,Yes,Yes
+712,10.0,1.2,6.7,0.5,5.6,3.79,High,20,Male,Part-time,Gustavo A. Madero,Yes,No,No
+713,7.2,1.0,6.7,5.0,4.1,3.21,Moderate,20,Male,Part-time,Venustiano Carranza,Yes,No,Yes
+714,5.3,0.4,5.8,3.6,8.9,2.76,High,21,Female,Not working,Cuauhtemoc,Yes,Yes,No
+715,5.8,3.9,7.2,3.0,4.1,2.83,Low,25,Male,Part-time,Alvaro Obregon,No,Yes,Yes
+716,8.3,3.0,8.8,2.3,1.6,2.92,High,25,Male,Not working,Iztapalapa,Yes,No,No
+717,9.5,3.3,8.8,0.1,2.3,3.24,High,20,Male,Part-time,Venustiano Carranza,No,No,Yes
+718,7.0,3.5,9.5,3.6,0.4,3.4,Moderate,23,Female,Not working,Cuauhtemoc,Yes,Yes,Yes
+719,6.6,2.8,6.4,1.1,7.1,2.88,Moderate,21,Female,Part-time,Tlalpan,Yes,No,Yes
+720,7.1,3.3,5.6,4.4,3.6,2.85,High,23,Female,Part-time,Miguel Hidalgo,Yes,No,Yes
+721,7.7,1.2,7.5,1.8,5.8,2.88,Moderate,21,Male,Part-time,Benito Juarez,Yes,No,Yes
+722,5.8,0.5,7.7,5.4,4.6,3.27,Low,23,Female,Full-time,Magdalena Contreras,No,No,Yes
+723,6.7,2.9,8.3,5.6,0.5,3.06,Moderate,21,Male,Not working,Gustavo A. Madero,Yes,No,No
+724,8.3,3.6,7.0,1.7,3.4,3.5,High,21,Female,Part-time,Gustavo A. Madero,No,No,No
+725,5.1,3.3,9.0,0.6,6.0,2.54,Low,22,Male,Part-time,Iztapalapa,Yes,No,No
+726,5.6,3.9,6.1,0.4,8.0,3.32,Low,20,Male,Not working,Magdalena Contreras,Yes,No,Yes
+727,8.0,3.0,5.2,4.0,3.8,3.01,High,24,Female,Part-time,Miguel Hidalgo,No,No,No
+728,5.9,2.3,6.5,5.6,3.7,2.9,Low,21,Male,Part-time,Coyoacan,No,Yes,Yes
+729,9.1,3.9,6.3,4.6,0.1,2.98,High,25,Female,Full-time,Tlalpan,No,Yes,Yes
+730,5.3,0.2,8.5,2.7,7.3,2.62,Low,24,Male,Full-time,Tlahuac,Yes,Yes,Yes
+731,6.1,2.5,6.3,3.5,5.6,3.13,Moderate,24,Male,Part-time,Coyoacan,Yes,No,Yes
+732,9.1,1.9,6.8,2.2,4.0,3.27,High,22,Female,Not working,Tlahuac,Yes,Yes,Yes
+733,9.0,1.3,6.0,0.5,7.2,3.05,High,25,Female,Not working,Xochimilco,Yes,Yes,Yes
+734,9.2,0.9,6.9,4.9,2.1,2.81,High,24,Female,Not working,Gustavo A. Madero,Yes,Yes,No
+735,9.1,1.5,7.3,1.8,4.3,3.4,High,22,Female,Part-time,Iztapalapa,No,No,Yes
+736,7.7,0.1,7.4,2.4,6.4,3.24,Moderate,23,Male,Not working,Magdalena Contreras,No,No,Yes
+737,5.8,2.6,9.9,3.2,2.5,2.8,Low,25,Female,Part-time,Coyoacan,No,No,Yes
+738,7.1,0.5,8.1,5.6,2.7,3.1,Moderate,23,Female,Not working,Magdalena Contreras,Yes,Yes,Yes
+739,8.3,0.3,6.8,3.3,5.3,3.48,High,21,Female,Part-time,Xochimilco,Yes,Yes,No
+740,9.1,2.4,6.9,1.4,4.2,3.3,High,24,Female,Not working,Benito Juarez,Yes,Yes,No
+741,5.5,1.4,7.1,4.1,5.9,2.71,Low,24,Female,Full-time,Iztapalapa,No,Yes,No
+742,7.0,0.7,5.8,5.0,5.5,3.09,High,21,Male,Part-time,Tlalpan,Yes,No,Yes
+743,5.2,1.7,5.8,5.3,6.0,2.48,High,23,Female,Full-time,Iztapalapa,Yes,Yes,No
+744,7.5,2.9,9.8,0.8,3.0,3.19,Moderate,23,Female,Full-time,Cuauhtemoc,No,No,No
+745,9.4,3.7,9.6,0.8,0.5,3.16,High,24,Female,Not working,Milpa Alta,No,No,Yes
+746,8.8,2.1,8.4,2.0,2.7,3.66,High,21,Female,Full-time,Alvaro Obregon,Yes,Yes,Yes
+747,8.7,3.3,5.7,5.0,1.3,3.55,High,25,Female,Full-time,Iztapalapa,Yes,No,Yes
+748,7.2,1.5,9.6,1.4,4.3,3.11,Moderate,24,Male,Full-time,Coyoacan,No,Yes,Yes
+749,9.2,1.9,7.6,1.6,3.7,3.02,High,22,Male,Part-time,Magdalena Contreras,Yes,No,No
+750,5.2,1.1,5.0,5.9,6.8,2.93,High,22,Female,Not working,Iztapalapa,Yes,No,Yes
+751,9.8,1.6,8.6,1.4,2.6,3.68,High,21,Female,Not working,Benito Juarez,No,No,Yes
+752,9.7,1.6,8.9,1.0,2.8,3.57,High,25,Female,Full-time,Coyoacan,Yes,No,Yes
+753,10.0,0.1,8.0,3.9,2.0,3.35,High,21,Female,Not working,Iztacalco,Yes,Yes,No
+754,9.7,0.7,8.1,1.2,4.3,3.53,High,22,Male,Part-time,Iztapalapa,Yes,No,No
+755,6.5,2.2,7.1,1.0,7.2,2.91,Moderate,25,Male,Part-time,Iztapalapa,No,No,Yes
+756,8.8,3.6,5.4,2.4,3.8,3.08,High,24,Male,Part-time,Alvaro Obregon,Yes,Yes,Yes
+757,5.5,0.1,8.3,3.6,6.5,2.73,Low,23,Male,Part-time,Tlalpan,No,No,Yes
+758,5.1,3.3,9.9,0.8,4.9,2.64,Low,23,Male,Not working,Xochimilco,No,No,Yes
+759,6.2,3.5,9.6,2.0,2.7,2.55,Moderate,22,Female,Full-time,Tlahuac,No,No,Yes
+760,5.1,2.3,5.1,4.7,6.8,3.03,High,20,Male,Full-time,Benito Juarez,Yes,Yes,Yes
+761,6.5,0.2,7.9,2.4,7.0,2.98,Moderate,23,Male,Part-time,Xochimilco,No,No,No
+762,6.4,2.8,6.4,5.4,3.0,3.05,Moderate,21,Male,Not working,Coyoacan,Yes,Yes,No
+763,6.9,2.2,5.3,2.6,7.0,3.12,High,25,Female,Full-time,Alvaro Obregon,Yes,No,Yes
+764,6.1,0.9,9.1,5.6,2.3,3.01,Moderate,20,Male,Part-time,Tlahuac,No,No,Yes
+765,5.5,1.8,6.7,5.2,4.8,2.24,Low,22,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+766,6.7,1.6,7.6,1.0,7.1,2.93,Moderate,23,Female,Full-time,Iztapalapa,Yes,Yes,Yes
+767,7.9,3.2,8.8,0.6,3.5,3.09,Moderate,22,Male,Not working,Iztacalco,Yes,No,No
+768,6.8,1.6,8.4,0.3,6.9,2.88,Moderate,23,Female,Full-time,Iztapalapa,No,No,Yes
+769,5.2,1.6,8.5,1.2,7.5,2.52,Low,24,Female,Part-time,Alvaro Obregon,No,No,No
+770,9.4,3.6,6.5,1.0,3.5,3.57,High,25,Female,Full-time,Gustavo A. Madero,No,No,No
+771,7.1,1.0,8.4,5.0,2.5,3.26,Moderate,23,Male,Full-time,Alvaro Obregon,No,No,No
+772,7.0,0.6,8.7,2.2,5.5,3.15,Moderate,23,Female,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+773,8.4,1.1,5.4,6.0,3.1,3.44,High,23,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+774,9.3,1.2,7.3,3.7,2.5,3.76,High,23,Male,Part-time,Gustavo A. Madero,Yes,No,No
+775,7.1,1.7,6.7,3.4,5.1,2.99,Moderate,21,Male,Not working,Tlalpan,No,No,Yes
+776,9.7,2.8,9.1,1.3,1.1,3.54,High,23,Male,Not working,Tlalpan,Yes,Yes,Yes
+777,8.9,0.1,9.1,0.2,5.7,3.14,High,24,Male,Part-time,Miguel Hidalgo,No,No,Yes
+778,8.8,1.0,9.3,0.5,4.4,3.18,High,23,Female,Part-time,Gustavo A. Madero,No,No,Yes
+779,5.6,3.9,8.4,5.1,1.0,3.08,Low,23,Female,Part-time,Benito Juarez,No,No,Yes
+780,8.0,2.4,8.4,3.0,2.2,2.96,Moderate,22,Male,Full-time,Coyoacan,Yes,No,Yes
+781,7.1,1.1,8.8,1.4,5.6,2.85,Moderate,23,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+782,8.1,3.0,6.1,0.4,6.4,3.37,High,23,Male,Full-time,Iztapalapa,No,No,No
+783,5.7,2.4,9.2,0.3,6.4,2.69,Low,23,Male,Full-time,Tlahuac,No,No,Yes
+784,7.4,3.7,6.7,2.8,3.4,3.36,Moderate,22,Female,Not working,Alvaro Obregon,No,No,No
+785,5.1,0.3,6.3,0.2,12.1,2.55,Low,20,Female,Not working,Coyoacan,Yes,No,No
+786,7.7,0.7,6.5,4.0,5.1,3.54,Moderate,22,Male,Part-time,Iztapalapa,No,No,Yes
+787,9.8,0.2,9.5,2.6,1.9,3.47,High,22,Female,Part-time,Iztacalco,Yes,No,Yes
+788,5.3,0.4,8.0,2.0,8.3,3.37,Low,21,Male,Part-time,Tlalpan,No,No,No
+789,9.6,1.6,5.7,4.3,2.8,3.49,High,24,Female,Not working,Venustiano Carranza,Yes,No,Yes
+790,8.5,3.6,9.0,2.0,0.9,2.9,High,21,Female,Part-time,Xochimilco,No,No,Yes
+791,8.4,3.8,6.5,0.0,5.3,3.08,High,20,Male,Part-time,Iztapalapa,Yes,Yes,No
+792,8.3,2.5,8.0,0.1,5.1,3.1,High,24,Female,Part-time,Magdalena Contreras,Yes,No,No
+793,8.6,1.3,8.3,3.2,2.6,3.11,High,22,Female,Part-time,Benito Juarez,No,No,No
+794,5.5,3.3,9.6,3.6,2.0,2.75,Low,23,Female,Full-time,Gustavo A. Madero,No,No,Yes
+795,5.5,1.6,8.6,4.7,3.6,2.64,Low,20,Female,Not working,Cuauhtemoc,No,No,Yes
+796,6.3,0.1,7.7,5.1,4.8,3.22,Moderate,22,Male,Not working,Gustavo A. Madero,No,No,Yes
+797,9.8,2.3,7.6,0.4,3.9,3.04,High,22,Male,Part-time,Azcapotzalco,Yes,No,No
+798,8.0,1.6,6.2,0.6,7.6,3.38,Moderate,23,Female,Not working,Iztacalco,Yes,No,Yes
+799,6.6,0.4,5.9,5.9,5.2,3.27,High,24,Male,Full-time,Tlalpan,No,No,No
+800,9.4,4.0,7.9,2.2,0.5,2.91,High,22,Female,Part-time,Miguel Hidalgo,No,No,No
+801,6.6,1.2,7.0,4.0,5.2,2.76,Moderate,22,Female,Full-time,Cuauhtemoc,Yes,No,Yes
+802,5.7,2.5,5.6,3.5,6.7,3.08,High,25,Female,Part-time,Alvaro Obregon,No,Yes,Yes
+803,8.5,2.8,8.8,3.4,0.5,3.63,High,22,Male,Not working,Alvaro Obregon,Yes,No,Yes
+804,8.1,0.7,5.1,1.7,8.4,3.21,High,25,Male,Full-time,Cuauhtemoc,Yes,No,No
+805,7.2,2.5,9.2,1.0,4.1,3.07,Moderate,20,Male,Part-time,Venustiano Carranza,Yes,Yes,No
+806,7.9,2.2,5.4,0.3,8.2,2.99,High,22,Male,Not working,Miguel Hidalgo,No,Yes,No
+807,5.5,2.3,7.7,1.4,7.1,3.05,Low,24,Female,Full-time,Tlalpan,No,No,No
+808,5.2,2.0,8.4,1.5,6.9,2.88,Low,24,Female,Full-time,Cuajimalpa de Morelos,No,No,Yes
+809,6.5,2.5,9.5,4.5,1.0,3.29,Moderate,25,Male,Not working,Venustiano Carranza,Yes,No,Yes
+810,6.8,2.6,7.3,1.1,6.2,3.13,Moderate,22,Female,Not working,Iztapalapa,Yes,No,Yes
+811,8.5,2.2,6.8,5.5,1.0,3.07,High,23,Female,Full-time,Cuauhtemoc,Yes,Yes,Yes
+812,8.4,1.6,8.8,2.4,2.8,3.51,High,20,Female,Not working,Cuajimalpa de Morelos,Yes,No,Yes
+813,7.1,3.7,6.3,0.7,6.2,3.15,Moderate,20,Male,Not working,Tlalpan,Yes,No,Yes
+814,6.9,0.2,6.7,3.0,7.2,3.05,Moderate,23,Female,Full-time,Coyoacan,Yes,No,No
+815,5.8,2.6,10.0,2.5,3.1,2.64,Low,22,Female,Part-time,Iztapalapa,No,No,Yes
+816,5.6,3.5,7.1,2.3,5.5,2.5,Low,24,Male,Not working,Iztapalapa,No,No,No
+817,8.3,1.8,8.2,0.4,5.3,3.33,High,22,Male,Full-time,Gustavo A. Madero,No,No,No
+818,5.8,1.9,8.0,3.5,4.8,2.9,Low,23,Female,Not working,Cuajimalpa de Morelos,No,No,Yes
+819,7.0,1.4,5.6,2.4,7.6,3.15,High,21,Male,Full-time,Xochimilco,Yes,No,No
+820,6.0,0.2,7.8,3.6,6.4,2.75,Moderate,21,Male,Not working,Xochimilco,Yes,No,Yes
+821,9.4,2.3,6.7,4.5,1.1,3.25,High,24,Female,Not working,Azcapotzalco,Yes,Yes,No
+822,7.8,3.6,7.0,1.7,3.9,3.19,Moderate,23,Male,Part-time,Iztapalapa,Yes,Yes,Yes
+823,5.7,0.6,7.2,3.6,6.9,2.96,Low,23,Male,Full-time,Miguel Hidalgo,No,No,Yes
+824,9.1,0.3,7.4,3.8,3.4,3.66,High,24,Male,Not working,Miguel Hidalgo,Yes,No,Yes
+825,9.1,3.1,6.4,5.1,0.3,3.45,High,24,Male,Full-time,Benito Juarez,Yes,No,Yes
+826,7.9,3.7,8.4,1.9,2.1,2.68,Moderate,24,Female,Full-time,Benito Juarez,No,No,Yes
+827,9.0,3.8,5.1,5.9,0.2,3.22,High,22,Female,Part-time,Coyoacan,Yes,No,No
+828,7.2,2.6,6.9,0.3,7.0,3.0,Moderate,21,Male,Full-time,Benito Juarez,Yes,Yes,Yes
+829,8.0,3.6,6.9,1.2,4.3,3.08,Moderate,23,Male,Part-time,Azcapotzalco,Yes,No,Yes
+830,9.1,3.3,7.9,1.3,2.4,3.35,High,23,Male,Full-time,Tlalpan,No,Yes,No
+831,9.0,2.2,9.1,2.3,1.4,3.44,High,21,Male,Part-time,Cuauhtemoc,Yes,No,Yes
+832,7.1,3.8,7.7,3.3,2.1,3.33,Moderate,20,Male,Full-time,Venustiano Carranza,No,No,Yes
+833,6.1,2.5,7.9,1.1,6.4,2.94,Moderate,23,Male,Full-time,Venustiano Carranza,No,No,No
+834,8.8,2.1,6.1,4.0,3.0,3.2,High,24,Male,Not working,Gustavo A. Madero,Yes,No,No
+835,5.4,1.8,5.8,1.1,9.9,2.71,High,23,Female,Part-time,Iztapalapa,Yes,No,Yes
+836,5.3,1.6,7.6,2.9,6.6,2.54,Low,22,Male,Part-time,Iztapalapa,Yes,No,No
+837,6.9,3.4,5.7,3.0,5.0,3.37,High,23,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+838,9.4,2.2,9.8,0.1,2.5,3.79,High,23,Female,Part-time,Iztapalapa,No,No,No
+839,5.5,0.2,5.9,3.2,9.2,2.74,High,21,Male,Not working,Benito Juarez,Yes,No,Yes
+840,9.7,3.4,6.5,0.3,4.1,3.48,High,23,Male,Part-time,Iztapalapa,Yes,No,Yes
+841,5.8,0.5,5.6,3.1,9.0,2.73,High,24,Male,Not working,Cuauhtemoc,No,No,Yes
+842,9.9,2.7,9.7,0.2,1.5,3.23,High,23,Female,Not working,Cuajimalpa de Morelos,Yes,No,Yes
+843,6.9,2.2,5.4,0.0,9.5,3.27,High,22,Male,Not working,Tlahuac,No,No,No
+844,7.1,2.0,7.1,0.1,7.7,3.34,Moderate,24,Male,Full-time,Tlalpan,No,No,Yes
+845,6.7,0.7,5.5,5.7,5.4,3.31,High,23,Female,Not working,Azcapotzalco,Yes,Yes,Yes
+846,6.6,1.6,6.2,0.6,9.0,3.12,Moderate,21,Female,Full-time,Cuauhtemoc,Yes,No,No
+847,5.9,3.2,8.4,3.3,3.2,3.05,Low,24,Male,Part-time,Azcapotzalco,Yes,No,No
+848,5.4,1.1,6.7,4.7,6.1,2.8,Low,24,Male,Part-time,Gustavo A. Madero,No,No,Yes
+849,10.0,1.0,9.4,3.0,0.6,3.4,High,23,Male,Not working,Miguel Hidalgo,No,No,Yes
+850,7.0,3.9,5.9,4.8,2.4,2.78,High,23,Female,Full-time,Iztapalapa,No,No,Yes
+851,6.7,2.9,7.1,3.5,3.8,3.09,Moderate,23,Female,Not working,Cuajimalpa de Morelos,Yes,Yes,No
+852,9.3,0.2,8.5,0.8,5.2,3.49,High,21,Male,Part-time,Iztapalapa,Yes,Yes,No
+853,7.1,2.2,7.0,3.1,4.6,2.87,Moderate,23,Female,Part-time,Azcapotzalco,Yes,No,Yes
+854,5.7,0.6,9.7,5.3,2.7,3.18,Low,23,Female,Part-time,Alvaro Obregon,Yes,No,No
+855,9.5,4.0,6.0,1.6,2.9,3.39,High,24,Male,Not working,Xochimilco,Yes,No,Yes
+856,7.1,1.4,8.0,3.5,4.0,3.48,Moderate,22,Female,Not working,Cuauhtemoc,Yes,Yes,Yes
+857,5.8,1.9,7.8,3.4,5.1,3.01,Low,21,Male,Part-time,Coyoacan,No,Yes,Yes
+858,5.1,1.4,8.9,3.4,5.2,2.6,Low,21,Male,Part-time,Cuauhtemoc,Yes,No,Yes
+859,6.3,2.8,7.8,4.8,2.3,3.08,Moderate,24,Male,Not working,Tlalpan,No,Yes,No
+860,7.4,0.5,6.3,2.5,7.3,3.4,Moderate,22,Male,Full-time,Milpa Alta,Yes,Yes,No
+861,8.0,2.1,6.4,0.0,7.5,2.83,Moderate,22,Female,Not working,Magdalena Contreras,Yes,Yes,No
+862,8.7,0.1,7.9,5.6,1.7,3.3,High,21,Female,Part-time,Benito Juarez,Yes,No,Yes
+863,5.9,1.9,5.5,3.8,6.9,2.45,High,25,Male,Full-time,Iztapalapa,No,Yes,Yes
+864,7.6,3.6,6.0,0.1,6.7,3.38,Moderate,23,Male,Part-time,Miguel Hidalgo,Yes,No,Yes
+865,9.3,2.3,9.5,1.7,1.2,3.34,High,22,Female,Part-time,Venustiano Carranza,Yes,Yes,No
+866,8.7,3.7,7.9,0.7,3.0,3.57,High,22,Male,Part-time,Benito Juarez,Yes,No,No
+867,6.3,0.8,6.2,1.8,8.9,3.37,Moderate,24,Female,Part-time,Cuauhtemoc,Yes,No,No
+868,7.1,2.5,5.4,0.5,8.5,3.33,High,22,Female,Part-time,Iztapalapa,No,Yes,Yes
+869,5.9,2.1,6.1,1.7,8.2,3.13,Low,21,Female,Part-time,Iztapalapa,No,No,Yes
+870,5.1,2.6,8.3,4.8,3.2,2.69,Low,22,Female,Not working,Xochimilco,No,No,Yes
+871,9.7,0.1,5.8,5.3,3.1,3.92,High,25,Female,Part-time,Gustavo A. Madero,No,No,No
+872,8.3,2.7,9.7,3.3,0.0,2.95,High,24,Male,Not working,Iztapalapa,No,Yes,Yes
+873,8.6,1.1,9.4,0.2,4.7,3.36,High,25,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+874,6.3,0.9,5.7,5.2,5.9,2.9,High,22,Male,Part-time,Alvaro Obregon,Yes,Yes,Yes
+875,7.5,2.7,6.2,4.5,3.1,2.97,Moderate,20,Male,Full-time,Coyoacan,Yes,Yes,Yes
+876,7.1,0.8,9.9,3.9,2.3,3.28,Moderate,22,Male,Part-time,Venustiano Carranza,No,No,No
+877,9.7,1.2,8.9,3.2,1.0,3.26,High,22,Male,Not working,Iztapalapa,Yes,Yes,No
+878,8.4,2.9,7.9,1.0,3.8,3.2,High,23,Female,Part-time,Iztapalapa,Yes,No,Yes
+879,7.5,1.2,7.1,3.9,4.3,2.96,Moderate,24,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+880,7.0,1.1,6.0,4.7,5.2,3.2,Moderate,22,Female,Not working,Iztapalapa,Yes,No,Yes
+881,9.5,1.5,8.8,3.8,0.4,3.36,High,21,Female,Part-time,Venustiano Carranza,Yes,No,No
+882,9.8,1.5,6.7,0.4,5.6,3.54,High,21,Female,Not working,Gustavo A. Madero,Yes,Yes,No
+883,7.4,0.4,6.2,1.9,8.1,3.16,Moderate,24,Female,Part-time,Coyoacan,Yes,No,Yes
+884,6.5,3.4,9.3,3.7,1.1,3.02,Moderate,23,Female,Part-time,Xochimilco,No,No,No
+885,5.7,2.8,9.7,4.0,1.8,2.86,Low,24,Male,Not working,Venustiano Carranza,No,No,Yes
+886,8.2,2.0,5.6,1.9,6.3,2.81,High,21,Male,Part-time,Benito Juarez,Yes,No,No
+887,9.0,3.4,5.7,5.6,0.3,3.59,High,22,Male,Part-time,Tlalpan,Yes,No,Yes
+888,8.8,3.2,9.7,0.7,1.6,3.07,High,24,Male,Not working,Tlalpan,Yes,No,Yes
+889,9.3,0.5,8.5,4.2,1.5,3.17,High,23,Male,Full-time,Iztapalapa,Yes,No,Yes
+890,9.4,0.7,5.3,4.3,4.3,3.57,High,24,Female,Part-time,Tlalpan,No,Yes,Yes
+891,7.4,3.4,6.9,1.0,5.3,3.15,Moderate,24,Male,Full-time,Iztacalco,No,Yes,No
+892,5.9,2.9,7.6,3.6,4.0,3.13,Low,24,Female,Not working,Cuauhtemoc,No,No,No
+893,7.3,3.3,9.1,3.1,1.2,3.34,Moderate,22,Male,Full-time,Gustavo A. Madero,No,No,Yes
+894,6.8,3.5,8.6,0.6,4.5,3.23,Moderate,22,Female,Part-time,Iztapalapa,No,Yes,No
+895,7.0,3.5,5.2,5.8,2.5,3.26,High,23,Male,Not working,Tlahuac,No,Yes,Yes
+896,6.4,1.0,9.7,1.8,5.1,3.25,Moderate,25,Female,Part-time,Iztacalco,Yes,No,Yes
+897,8.9,1.6,5.7,0.1,7.7,3.42,High,24,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+898,6.8,1.4,6.7,3.1,6.0,3.03,Moderate,22,Male,Part-time,Benito Juarez,Yes,No,Yes
+899,7.2,3.5,7.5,2.9,2.9,3.04,Moderate,23,Female,Part-time,Iztacalco,No,No,No
+900,8.3,2.4,7.1,2.5,3.7,3.22,High,23,Male,Part-time,Benito Juarez,Yes,Yes,Yes
+901,8.9,0.8,9.1,3.4,1.8,3.1,High,22,Male,Part-time,Iztapalapa,No,No,No
+902,6.3,3.0,7.6,1.9,5.2,2.48,Moderate,24,Female,Part-time,Iztacalco,Yes,No,Yes
+903,8.0,4.0,7.2,4.4,0.4,3.11,Moderate,24,Male,Full-time,Iztapalapa,No,No,Yes
+904,6.0,1.7,6.1,0.0,10.2,2.87,Moderate,25,Male,Full-time,Iztapalapa,No,No,No
+905,9.6,3.4,8.7,0.4,1.9,3.5,High,25,Male,Full-time,Alvaro Obregon,Yes,Yes,Yes
+906,7.2,0.5,7.6,2.1,6.6,3.11,Moderate,23,Female,Part-time,Iztapalapa,Yes,No,Yes
+907,6.9,2.5,8.6,0.7,5.3,3.29,Moderate,22,Female,Part-time,Gustavo A. Madero,No,Yes,Yes
+908,6.7,1.8,8.4,3.1,4.0,2.92,Moderate,21,Female,Part-time,Iztapalapa,No,No,No
+909,9.3,3.5,5.0,4.7,1.5,3.45,High,24,Female,Part-time,Iztapalapa,Yes,No,Yes
+910,7.4,3.9,8.8,1.0,2.9,3.11,Moderate,24,Male,Part-time,Alvaro Obregon,No,No,Yes
+911,7.7,4.0,9.3,0.3,2.7,2.96,Moderate,25,Male,Part-time,Iztapalapa,Yes,Yes,No
+912,5.0,1.6,6.2,4.9,6.3,3.01,Low,23,Female,Full-time,Tlalpan,No,Yes,Yes
+913,6.7,3.3,5.0,1.8,7.2,2.85,High,23,Male,Not working,Venustiano Carranza,No,Yes,Yes
+914,5.3,0.7,7.8,1.7,8.5,2.64,Low,22,Male,Part-time,Cuauhtemoc,No,No,No
+915,7.1,1.5,9.4,5.4,0.6,2.65,Moderate,24,Female,Full-time,Xochimilco,No,No,Yes
+916,5.5,3.8,5.3,1.8,7.6,2.81,High,20,Female,Not working,Tlahuac,Yes,Yes,Yes
+917,6.5,1.3,5.8,4.7,5.7,3.04,High,20,Male,Part-time,Xochimilco,Yes,Yes,Yes
+918,5.6,0.3,9.5,1.1,7.5,2.66,Low,20,Female,Full-time,Milpa Alta,No,No,No
+919,9.1,2.2,5.4,5.7,1.6,3.48,High,22,Female,Full-time,Tlalpan,No,No,No
+920,5.8,3.4,5.1,3.1,6.6,2.79,High,22,Male,Part-time,Coyoacan,Yes,No,Yes
+921,8.8,3.7,9.5,1.6,0.4,3.29,High,24,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+922,6.4,1.2,6.9,2.4,7.1,3.0,Moderate,23,Female,Not working,Alvaro Obregon,Yes,No,Yes
+923,7.7,0.6,8.5,1.0,6.2,3.16,Moderate,23,Male,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+924,9.0,3.0,8.2,0.6,3.2,2.96,High,22,Male,Part-time,Venustiano Carranza,Yes,No,No
+925,7.7,0.3,6.9,2.5,6.6,3.08,Moderate,22,Male,Part-time,Tlalpan,No,Yes,No
+926,5.9,1.6,9.7,0.8,6.0,2.86,Low,21,Female,Not working,Gustavo A. Madero,Yes,No,No
+927,8.8,0.4,9.9,1.9,3.0,3.19,High,23,Female,Full-time,Cuauhtemoc,Yes,No,Yes
+928,8.1,0.8,5.7,5.6,3.8,3.45,High,22,Male,Part-time,Milpa Alta,No,No,No
+929,9.6,3.5,8.1,2.3,0.5,3.4,High,21,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+930,6.6,2.5,6.8,0.9,7.2,2.88,Moderate,22,Female,Not working,Coyoacan,No,Yes,Yes
+931,8.0,3.3,6.9,0.8,5.0,3.08,Moderate,21,Female,Not working,Xochimilco,No,No,No
+932,6.5,2.6,8.0,4.2,2.7,2.83,Moderate,21,Female,Not working,Miguel Hidalgo,No,No,Yes
+933,6.8,3.3,6.0,2.8,5.1,2.92,Moderate,24,Female,Full-time,Iztapalapa,Yes,No,Yes
+934,5.5,3.5,6.7,4.1,4.2,2.92,Low,23,Male,Full-time,Tlalpan,No,Yes,Yes
+935,5.1,2.8,6.6,0.3,9.2,2.49,Low,23,Female,Part-time,Alvaro Obregon,No,No,No
+936,6.9,0.3,5.7,1.8,9.3,3.15,High,21,Male,Part-time,Alvaro Obregon,Yes,Yes,Yes
+937,5.4,3.6,5.0,2.9,7.1,2.74,High,22,Female,Part-time,Cuauhtemoc,No,No,No
+938,9.6,0.6,9.8,0.8,3.2,3.29,High,24,Male,Part-time,Coyoacan,No,No,Yes
+939,8.7,2.2,9.4,2.0,1.7,3.03,High,21,Female,Not working,Benito Juarez,Yes,Yes,No
+940,5.8,3.7,6.6,2.2,5.7,2.9,Low,22,Male,Not working,Alvaro Obregon,No,No,No
+941,8.8,1.4,9.8,3.0,1.0,3.51,High,24,Male,Full-time,Iztapalapa,Yes,No,No
+942,5.2,1.0,7.3,1.4,9.1,2.83,Low,24,Female,Not working,Cuajimalpa de Morelos,No,No,Yes
+943,8.7,3.7,7.1,1.5,3.0,3.29,High,24,Male,Part-time,Xochimilco,Yes,Yes,Yes
+944,7.4,1.4,9.5,3.2,2.5,3.22,Moderate,23,Male,Not working,Venustiano Carranza,No,Yes,No
+945,8.8,3.2,6.7,2.3,3.0,3.24,High,22,Female,Part-time,Coyoacan,Yes,Yes,Yes
+946,9.0,3.8,8.1,2.3,0.8,3.55,High,23,Male,Not working,Tlahuac,No,No,No
+947,9.0,3.4,7.0,0.2,4.4,3.68,High,23,Female,Not working,Cuajimalpa de Morelos,Yes,Yes,Yes
+948,7.3,3.0,6.8,3.8,3.1,2.91,Moderate,22,Male,Not working,Iztacalco,Yes,Yes,Yes
+949,5.9,3.0,7.7,1.2,6.2,3.09,Low,22,Female,Full-time,Miguel Hidalgo,No,No,No
+950,7.4,0.9,9.8,4.2,1.7,2.94,Moderate,24,Male,Full-time,Iztapalapa,No,Yes,Yes
+951,9.8,1.7,7.4,4.6,0.5,3.84,High,25,Female,Part-time,Magdalena Contreras,Yes,No,Yes
+952,6.3,1.8,5.6,1.2,9.1,2.99,High,20,Male,Part-time,Xochimilco,No,No,No
+953,5.0,0.2,9.9,1.5,7.4,2.94,Low,23,Female,Full-time,Venustiano Carranza,No,No,Yes
+954,7.8,0.6,8.6,3.6,3.4,3.26,Moderate,20,Male,Part-time,Iztapalapa,No,No,Yes
+955,8.7,3.1,9.9,1.3,1.0,3.55,High,23,Male,Part-time,Cuajimalpa de Morelos,Yes,Yes,Yes
+956,5.3,3.6,5.6,2.0,7.5,2.53,High,22,Female,Part-time,Gustavo A. Madero,Yes,No,No
+957,9.1,2.4,7.0,2.6,2.9,3.28,High,25,Female,Full-time,Tlalpan,Yes,No,No
+958,9.3,0.4,8.9,4.6,0.8,3.58,High,23,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+959,5.9,1.7,5.8,4.2,6.4,3.32,High,21,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+960,6.0,0.8,5.2,1.9,10.1,3.01,High,25,Male,Part-time,Magdalena Contreras,Yes,No,Yes
+961,7.8,3.4,8.3,2.0,2.5,3.18,Moderate,20,Female,Not working,Iztapalapa,Yes,No,No
+962,6.3,0.2,8.6,0.7,8.2,3.1,Moderate,24,Male,Part-time,Iztacalco,Yes,No,Yes
+963,6.5,2.1,7.8,3.6,4.0,2.9,Moderate,25,Female,Not working,Alvaro Obregon,No,No,Yes
+964,8.1,3.9,8.6,3.1,0.3,2.99,High,23,Female,Not working,Cuauhtemoc,Yes,Yes,No
+965,8.8,2.4,6.0,4.0,2.8,3.59,High,24,Male,Full-time,Azcapotzalco,No,Yes,No
+966,7.4,2.1,6.7,3.1,4.7,3.44,Moderate,23,Male,Not working,Cuauhtemoc,Yes,Yes,Yes
+967,6.0,3.2,5.9,0.5,8.4,3.28,High,22,Male,Not working,Venustiano Carranza,Yes,No,No
+968,7.2,1.1,7.8,2.1,5.8,2.93,Moderate,23,Male,Full-time,Cuauhtemoc,No,No,Yes
+969,9.7,3.7,7.5,1.0,2.1,3.04,High,20,Male,Not working,Tlahuac,No,Yes,No
+970,9.6,0.0,7.8,4.4,2.2,3.38,High,23,Male,Not working,Iztacalco,No,Yes,Yes
+971,7.4,0.3,9.9,3.1,3.3,2.84,Moderate,22,Male,Part-time,Tlalpan,Yes,Yes,No
+972,7.4,1.7,5.4,0.6,8.9,3.23,High,24,Male,Not working,Venustiano Carranza,Yes,Yes,No
+973,9.2,1.0,6.0,3.0,4.8,3.18,High,22,Female,Not working,Miguel Hidalgo,Yes,No,No
+974,5.2,0.2,9.2,0.7,8.7,2.82,Low,22,Female,Part-time,Miguel Hidalgo,Yes,No,No
+975,5.2,1.8,9.2,1.6,6.2,2.68,Low,22,Female,Not working,Venustiano Carranza,No,No,No
+976,7.2,2.3,7.9,2.0,4.6,3.06,Moderate,21,Female,Not working,Benito Juarez,No,No,Yes
+977,6.6,0.4,6.8,0.6,9.6,3.31,Moderate,23,Male,Part-time,Alvaro Obregon,No,No,Yes
+978,6.4,2.5,7.3,2.9,4.9,3.12,Moderate,22,Female,Full-time,Magdalena Contreras,Yes,No,No
+979,8.8,1.1,6.6,5.5,2.0,3.32,High,21,Female,Part-time,Xochimilco,Yes,No,Yes
+980,9.6,2.4,7.7,1.1,3.2,3.3,High,22,Female,Not working,Xochimilco,No,No,No
+981,6.7,3.4,7.8,3.1,3.0,2.98,Moderate,22,Male,Full-time,Iztapalapa,Yes,Yes,No
+982,8.0,0.3,8.4,5.6,1.7,3.28,Moderate,23,Female,Full-time,Magdalena Contreras,Yes,Yes,Yes
+983,7.9,0.5,7.9,4.6,3.1,3.38,Moderate,23,Female,Full-time,Azcapotzalco,No,No,Yes
+984,8.2,3.6,8.1,0.5,3.6,3.18,High,22,Male,Part-time,Coyoacan,Yes,No,No
+985,6.5,0.8,9.5,4.6,2.6,2.74,Moderate,23,Female,Full-time,Tlahuac,No,No,Yes
+986,5.9,3.0,7.4,1.4,6.3,3.1,Low,25,Male,Full-time,Azcapotzalco,No,No,Yes
+987,8.1,0.2,6.6,2.8,6.3,3.14,High,22,Male,Not working,Cuauhtemoc,Yes,No,No
+988,6.0,3.1,7.1,3.4,4.4,2.84,Moderate,20,Male,Part-time,Iztapalapa,Yes,No,Yes
+989,5.1,0.1,7.2,4.9,6.7,2.94,Low,21,Female,Not working,Alvaro Obregon,No,No,No
+990,6.9,3.3,5.7,5.6,2.5,3.05,High,22,Female,Full-time,Coyoacan,Yes,No,Yes
+991,8.8,3.8,8.4,1.1,1.9,3.3,High,24,Female,Full-time,Coyoacan,Yes,Yes,No
+992,6.7,2.8,8.8,5.3,0.4,3.05,Moderate,24,Male,Not working,Tlalpan,Yes,No,Yes
+993,6.0,3.2,8.7,0.4,5.7,2.6,Moderate,22,Male,Full-time,Venustiano Carranza,No,No,No
+994,6.5,3.9,8.2,3.9,1.5,2.82,Moderate,23,Female,Part-time,Iztacalco,No,No,Yes
+995,9.9,1.5,9.0,1.6,2.0,3.44,High,22,Female,Not working,Tlahuac,Yes,No,No
+996,9.7,0.9,6.6,4.5,2.3,3.5,High,21,Male,Not working,Magdalena Contreras,Yes,Yes,No
+997,7.0,2.4,7.2,4.5,2.9,3.0,Moderate,23,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+998,5.8,1.4,7.0,0.3,9.5,2.49,Low,23,Female,Full-time,Magdalena Contreras,No,No,Yes
+999,7.9,3.5,5.8,3.6,3.2,3.01,High,21,Female,Not working,Benito Juarez,Yes,No,No
+1000,8.5,1.6,7.5,0.0,6.4,3.63,High,23,Male,Part-time,Tlalpan,Yes,No,No
+1001,8.5,2.6,5.2,2.2,5.5,3.26,High,24,Male,Part-time,Magdalena Contreras,Yes,Yes,Yes
+1002,7.5,3.6,8.6,2.5,1.8,3.19,Moderate,20,Female,Part-time,Iztapalapa,Yes,No,No
+1003,9.0,3.5,7.3,2.0,2.2,3.43,High,23,Female,Not working,Benito Juarez,Yes,No,Yes
+1004,8.5,0.3,9.3,2.8,3.1,3.26,High,24,Male,Not working,Benito Juarez,Yes,No,Yes
+1005,5.3,2.2,7.1,5.3,4.1,2.9,Low,24,Female,Full-time,Milpa Alta,No,No,No
+1006,7.8,0.2,9.9,3.1,3.0,3.07,Moderate,21,Female,Not working,Iztapalapa,No,Yes,No
+1007,6.5,1.9,9.3,1.8,4.5,2.92,Moderate,22,Male,Full-time,Coyoacan,No,Yes,Yes
+1008,6.5,3.1,7.4,1.4,5.6,2.93,Moderate,23,Female,Not working,Iztacalco,No,Yes,Yes
+1009,5.8,1.3,9.7,2.1,5.1,2.87,Low,24,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+1010,5.9,3.6,7.3,4.3,2.9,2.95,Low,25,Female,Full-time,Miguel Hidalgo,No,Yes,No
+1011,9.9,0.2,5.5,4.3,4.1,3.32,High,23,Female,Part-time,Benito Juarez,Yes,No,Yes
+1012,5.2,0.1,8.9,0.8,9.0,2.66,Low,24,Female,Full-time,Cuauhtemoc,Yes,No,Yes
+1013,7.3,2.4,7.1,0.2,7.0,3.17,Moderate,22,Female,Full-time,Alvaro Obregon,No,Yes,No
+1014,7.2,2.1,7.4,2.3,5.0,3.13,Moderate,22,Female,Full-time,Venustiano Carranza,No,No,No
+1015,9.4,3.6,6.7,2.6,1.7,2.81,High,24,Female,Full-time,Coyoacan,Yes,No,No
+1016,6.4,3.8,5.7,3.5,4.6,3.07,High,25,Male,Part-time,Coyoacan,Yes,No,Yes
+1017,6.4,1.1,7.0,6.0,3.5,2.98,Moderate,25,Female,Full-time,Alvaro Obregon,No,No,No
+1018,5.4,0.6,7.2,3.1,7.7,2.68,Low,21,Female,Not working,Alvaro Obregon,No,No,Yes
+1019,6.3,1.3,5.4,1.8,9.2,3.1,High,21,Male,Not working,Cuauhtemoc,No,No,Yes
+1020,9.5,0.0,9.1,5.1,0.3,3.05,High,25,Male,Part-time,Cuauhtemoc,No,No,Yes
+1021,5.5,0.6,9.8,3.2,4.9,3.2,Low,20,Male,Full-time,Benito Juarez,No,No,No
+1022,8.7,4.0,6.4,2.6,2.3,3.21,High,22,Female,Part-time,Xochimilco,Yes,No,No
+1023,7.7,1.6,5.8,5.9,3.0,3.15,High,22,Male,Not working,Cuauhtemoc,Yes,Yes,No
+1024,8.0,0.9,7.7,4.2,3.2,3.44,Moderate,25,Female,Part-time,Coyoacan,No,No,Yes
+1025,7.6,4.0,8.1,1.6,2.7,3.02,Moderate,23,Female,Not working,Benito Juarez,No,No,Yes
+1026,6.9,1.4,7.2,4.7,3.8,3.14,Moderate,23,Female,Full-time,Azcapotzalco,No,No,Yes
+1027,7.4,3.2,7.9,1.9,3.6,2.99,Moderate,23,Female,Part-time,Gustavo A. Madero,Yes,No,Yes
+1028,6.1,2.0,6.3,0.1,9.5,3.05,Moderate,22,Female,Not working,Venustiano Carranza,Yes,No,No
+1029,8.2,2.0,7.2,5.8,0.8,3.45,High,23,Female,Part-time,Venustiano Carranza,Yes,No,Yes
+1030,5.7,2.3,9.3,3.5,3.2,2.9,Low,21,Male,Not working,Benito Juarez,No,No,Yes
+1031,8.6,1.5,5.5,2.7,5.7,3.49,High,21,Female,Full-time,Benito Juarez,Yes,Yes,No
+1032,6.2,3.9,9.8,1.0,3.1,2.87,Moderate,22,Female,Part-time,Gustavo A. Madero,No,No,No
+1033,6.7,3.6,9.8,1.7,2.2,3.06,Moderate,22,Female,Part-time,Cuauhtemoc,No,Yes,Yes
+1034,8.4,1.1,8.7,0.3,5.5,2.86,High,21,Male,Not working,Milpa Alta,No,Yes,No
+1035,5.2,1.5,6.8,1.9,8.6,2.38,Low,23,Male,Part-time,Milpa Alta,No,No,No
+1036,6.0,1.2,9.9,2.5,4.4,2.88,Moderate,25,Male,Full-time,Milpa Alta,Yes,No,No
+1037,7.2,2.3,9.9,1.1,3.5,3.31,Moderate,22,Female,Not working,Tlalpan,Yes,No,Yes
+1038,8.0,0.4,8.4,0.4,6.8,3.39,Moderate,24,Female,Part-time,Tlalpan,No,No,No
+1039,8.0,3.0,6.1,5.0,1.9,2.9,Moderate,22,Male,Not working,Iztapalapa,Yes,No,Yes
+1040,5.7,3.8,5.4,1.2,7.9,2.81,High,24,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1041,6.7,2.5,7.7,0.8,6.3,2.81,Moderate,21,Female,Full-time,Iztacalco,No,No,Yes
+1042,6.1,1.6,8.5,1.3,6.5,2.76,Moderate,24,Male,Full-time,Gustavo A. Madero,Yes,Yes,No
+1043,6.8,1.6,9.9,5.4,0.3,2.89,Moderate,23,Male,Full-time,Coyoacan,No,No,Yes
+1044,5.3,1.3,6.3,3.0,8.1,2.94,Low,23,Male,Full-time,Magdalena Contreras,No,No,No
+1045,8.9,3.4,9.2,0.9,1.6,3.11,High,21,Male,Part-time,Coyoacan,No,Yes,No
+1046,5.3,2.8,5.0,2.5,8.4,3.02,High,22,Male,Part-time,Coyoacan,Yes,No,Yes
+1047,6.6,2.8,8.8,1.8,4.0,2.87,Moderate,25,Female,Not working,Tlalpan,Yes,No,Yes
+1048,7.2,2.9,8.5,5.3,0.1,3.26,Moderate,20,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1049,6.1,2.6,8.0,5.5,1.8,3.01,Moderate,22,Male,Part-time,Tlahuac,No,No,Yes
+1050,7.8,1.1,7.4,2.0,5.7,3.04,Moderate,23,Female,Full-time,Azcapotzalco,No,No,No
+1051,7.9,3.6,7.8,3.0,1.7,3.05,Moderate,25,Female,Full-time,Alvaro Obregon,Yes,No,No
+1052,6.2,2.0,6.6,1.1,8.1,2.94,Moderate,24,Female,Part-time,Gustavo A. Madero,Yes,No,No
+1053,7.5,1.3,6.3,2.8,6.1,3.21,Moderate,25,Male,Full-time,Miguel Hidalgo,No,No,No
+1054,5.5,3.1,9.0,4.6,1.8,2.97,Low,22,Male,Not working,Iztapalapa,Yes,No,Yes
+1055,5.6,2.6,9.2,3.5,3.1,2.72,Low,23,Male,Not working,Benito Juarez,No,Yes,Yes
+1056,7.6,0.1,8.2,0.5,7.6,3.56,Moderate,21,Male,Full-time,Azcapotzalco,No,No,No
+1057,7.2,1.2,7.7,0.8,7.1,3.28,Moderate,22,Female,Part-time,Milpa Alta,Yes,No,Yes
+1058,5.8,0.4,5.7,5.3,6.8,3.0,High,23,Male,Not working,Benito Juarez,Yes,No,Yes
+1059,7.6,1.9,5.5,3.9,5.1,3.17,High,21,Female,Not working,Alvaro Obregon,Yes,No,Yes
+1060,8.1,0.3,5.6,0.3,9.7,3.25,High,24,Female,Part-time,Xochimilco,Yes,No,No
+1061,6.3,0.5,6.3,2.3,8.6,2.97,Moderate,23,Male,Not working,Miguel Hidalgo,Yes,Yes,No
+1062,9.2,2.8,5.6,4.4,2.0,3.5,High,22,Female,Not working,Coyoacan,Yes,Yes,No
+1063,6.4,2.6,6.7,6.0,2.3,2.78,Moderate,21,Female,Part-time,Azcapotzalco,Yes,No,Yes
+1064,9.7,0.1,8.5,4.1,1.6,3.26,High,24,Male,Not working,Gustavo A. Madero,Yes,Yes,Yes
+1065,9.2,3.9,9.9,0.1,0.9,3.48,High,23,Female,Not working,Miguel Hidalgo,Yes,No,Yes
+1066,8.2,0.5,8.3,5.9,1.1,3.44,High,22,Male,Not working,Miguel Hidalgo,Yes,No,No
+1067,9.6,1.8,5.2,2.2,5.2,3.55,High,21,Female,Not working,Magdalena Contreras,Yes,No,No
+1068,7.3,0.2,7.1,2.8,6.6,3.27,Moderate,24,Female,Part-time,Magdalena Contreras,No,No,Yes
+1069,9.6,2.6,6.6,2.7,2.5,3.37,High,22,Male,Not working,Alvaro Obregon,Yes,No,No
+1070,6.8,2.7,8.3,4.3,1.9,2.58,Moderate,24,Male,Part-time,Alvaro Obregon,No,No,Yes
+1071,6.3,1.3,5.6,3.9,6.9,2.97,High,23,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+1072,9.3,3.6,7.2,1.8,2.1,3.3,High,25,Female,Part-time,Alvaro Obregon,No,No,No
+1073,5.4,2.7,9.1,1.5,5.3,3.04,Low,22,Male,Part-time,Tlalpan,No,No,No
+1074,9.4,1.0,7.8,1.1,4.7,3.36,High,25,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+1075,5.5,3.6,9.1,4.4,1.4,2.44,Low,24,Male,Full-time,Iztapalapa,No,No,Yes
+1076,7.7,0.4,8.8,3.5,3.6,3.0,Moderate,20,Male,Part-time,Coyoacan,Yes,No,Yes
+1077,5.9,0.8,5.9,0.3,11.1,3.11,High,22,Female,Part-time,Magdalena Contreras,Yes,Yes,No
+1078,5.1,0.2,7.9,4.9,5.9,2.82,Low,25,Female,Not working,Tlalpan,No,No,Yes
+1079,6.6,1.4,8.0,1.6,6.4,3.23,Moderate,23,Female,Full-time,Miguel Hidalgo,Yes,No,No
+1080,8.7,2.7,6.0,2.1,4.5,3.67,High,22,Female,Full-time,Coyoacan,No,No,No
+1081,5.6,0.5,8.4,5.2,4.3,2.86,Low,23,Male,Full-time,Gustavo A. Madero,No,Yes,No
+1082,5.9,0.4,9.1,3.5,5.1,2.96,Low,24,Female,Part-time,Venustiano Carranza,No,No,Yes
+1083,8.1,3.1,8.5,3.6,0.7,3.12,High,23,Female,Part-time,Xochimilco,Yes,Yes,Yes
+1084,8.2,1.3,9.8,0.2,4.5,3.38,High,22,Male,Not working,Iztapalapa,Yes,Yes,No
+1085,7.9,0.7,8.6,1.1,5.7,3.18,Moderate,20,Male,Full-time,Tlalpan,No,No,No
+1086,9.6,0.8,5.7,4.6,3.3,3.12,High,25,Male,Part-time,Gustavo A. Madero,Yes,No,No
+1087,7.5,3.6,5.7,3.9,3.3,3.01,High,21,Male,Full-time,Azcapotzalco,No,No,Yes
+1088,8.4,2.4,8.8,1.4,3.0,3.17,High,24,Male,Part-time,Tlalpan,Yes,Yes,Yes
+1089,7.2,1.6,9.9,1.5,3.8,2.89,Moderate,20,Male,Not working,Cuauhtemoc,No,No,No
+1090,7.8,1.0,9.6,1.5,4.1,2.9,Moderate,22,Male,Part-time,Coyoacan,Yes,No,Yes
+1091,9.5,0.4,8.3,5.3,0.5,3.56,High,21,Male,Part-time,Coyoacan,No,Yes,Yes
+1092,8.4,1.2,5.9,1.8,6.7,3.25,High,24,Male,Not working,Magdalena Contreras,Yes,Yes,No
+1093,5.5,0.6,5.5,2.5,9.9,2.74,High,22,Female,Not working,Venustiano Carranza,Yes,Yes,No
+1094,5.7,2.6,6.0,0.6,9.1,2.92,Low,23,Male,Full-time,Cuajimalpa de Morelos,No,No,No
+1095,5.8,3.7,9.1,1.9,3.5,2.97,Low,25,Male,Full-time,Alvaro Obregon,No,Yes,Yes
+1096,8.4,2.7,8.1,1.3,3.5,3.68,High,23,Female,Part-time,Cuajimalpa de Morelos,Yes,No,No
+1097,5.2,1.8,9.5,3.4,4.1,2.88,Low,21,Male,Full-time,Coyoacan,No,No,Yes
+1098,8.4,3.9,9.9,1.2,0.6,3.08,High,22,Female,Not working,Coyoacan,No,No,Yes
+1099,6.2,3.2,5.5,4.7,4.4,2.89,High,21,Male,Part-time,Cuajimalpa de Morelos,No,Yes,No
+1100,8.2,1.7,7.2,1.9,5.0,3.38,High,24,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+1101,8.8,3.7,9.7,0.3,1.5,3.39,High,24,Male,Not working,Iztapalapa,Yes,Yes,Yes
+1102,6.3,0.3,6.3,5.5,5.6,3.06,Moderate,23,Female,Full-time,Coyoacan,Yes,Yes,No
+1103,8.2,2.9,6.3,4.3,2.3,3.21,High,21,Female,Not working,Coyoacan,Yes,Yes,No
+1104,8.1,0.6,9.1,1.4,4.8,3.15,High,20,Female,Not working,Alvaro Obregon,No,No,Yes
+1105,8.3,1.6,8.0,0.6,5.5,3.4,High,22,Male,Not working,Iztacalco,Yes,No,Yes
+1106,10.0,0.8,6.3,4.0,2.9,3.39,High,22,Male,Part-time,Iztapalapa,No,Yes,Yes
+1107,9.8,3.7,7.5,2.4,0.6,3.35,High,21,Male,Not working,Coyoacan,Yes,Yes,Yes
+1108,6.4,3.3,6.9,0.5,6.9,2.9,Moderate,21,Female,Part-time,Tlalpan,Yes,Yes,No
+1109,6.7,3.9,8.1,2.2,3.1,2.89,Moderate,22,Female,Part-time,Coyoacan,No,No,Yes
+1110,5.4,0.2,5.6,3.5,9.3,2.98,High,24,Female,Part-time,Coyoacan,Yes,Yes,No
+1111,9.6,2.0,9.2,1.4,1.8,3.64,High,20,Female,Part-time,Miguel Hidalgo,No,No,No
+1112,5.9,1.4,8.2,0.4,8.1,3.07,Low,22,Male,Part-time,Alvaro Obregon,No,No,No
+1113,6.8,2.1,10.0,2.4,2.7,2.96,Moderate,24,Female,Part-time,Cuauhtemoc,Yes,Yes,Yes
+1114,9.0,2.4,9.4,1.3,1.9,3.61,High,20,Female,Not working,Venustiano Carranza,Yes,No,Yes
+1115,8.0,2.5,7.1,0.9,5.5,3.13,Moderate,22,Female,Not working,Alvaro Obregon,No,No,No
+1116,6.1,2.9,6.6,3.0,5.4,3.01,Moderate,23,Female,Full-time,Xochimilco,Yes,No,No
+1117,5.8,3.8,9.3,4.4,0.7,3.16,Low,23,Male,Part-time,Iztapalapa,Yes,No,Yes
+1118,5.7,0.0,5.1,3.5,9.7,2.75,High,25,Female,Not working,Alvaro Obregon,Yes,Yes,No
+1119,7.3,2.1,5.0,2.5,7.1,3.0,High,22,Female,Part-time,Tlalpan,Yes,Yes,Yes
+1120,8.7,0.9,9.1,3.1,2.2,3.65,High,21,Male,Part-time,Cuauhtemoc,Yes,No,No
+1121,6.1,0.9,8.1,5.0,3.9,2.61,Moderate,22,Female,Not working,Venustiano Carranza,No,Yes,No
+1122,9.3,2.7,7.2,2.3,2.5,3.29,High,23,Female,Not working,Gustavo A. Madero,Yes,Yes,No
+1123,6.0,2.5,6.8,6.0,2.7,2.5,Moderate,21,Female,Not working,Alvaro Obregon,Yes,No,No
+1124,7.8,3.7,9.0,1.6,1.9,2.6,Moderate,20,Female,Part-time,Tlalpan,No,Yes,Yes
+1125,8.6,2.3,7.5,1.1,4.5,2.97,High,21,Female,Part-time,Cuajimalpa de Morelos,Yes,Yes,Yes
+1126,9.6,1.3,9.8,1.8,1.5,3.39,High,22,Male,Part-time,Coyoacan,No,No,No
+1127,8.2,2.2,5.6,2.3,5.7,3.28,High,25,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1128,7.2,3.1,6.1,1.0,6.6,2.92,Moderate,22,Male,Not working,Tlalpan,Yes,No,Yes
+1129,7.0,3.7,8.6,2.0,2.7,2.88,Moderate,22,Male,Not working,Cuajimalpa de Morelos,No,No,No
+1130,9.9,2.7,6.4,2.9,2.1,3.49,High,20,Female,Not working,Alvaro Obregon,Yes,Yes,No
+1131,5.5,3.9,5.9,3.9,4.8,2.99,High,25,Female,Part-time,Gustavo A. Madero,No,No,Yes
+1132,8.9,2.7,8.1,3.8,0.5,3.14,High,23,Male,Part-time,Iztacalco,Yes,Yes,Yes
+1133,5.4,1.3,6.2,5.9,5.2,3.1,Low,24,Female,Full-time,Tlalpan,Yes,No,Yes
+1134,8.4,0.8,6.2,1.7,6.9,3.12,High,23,Male,Not working,Tlalpan,Yes,Yes,No
+1135,7.1,0.9,5.1,5.3,5.6,3.05,High,21,Male,Not working,Xochimilco,Yes,Yes,No
+1136,6.7,0.0,8.4,5.0,3.9,3.05,Moderate,23,Male,Full-time,Alvaro Obregon,No,No,No
+1137,5.7,0.6,9.0,3.7,5.0,2.88,Low,21,Female,Not working,Benito Juarez,No,No,No
+1138,6.5,1.5,8.8,4.9,2.3,2.88,Moderate,23,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+1139,7.0,3.8,7.0,4.6,1.6,3.24,Moderate,24,Male,Not working,Iztapalapa,Yes,No,Yes
+1140,9.5,0.3,9.7,3.7,0.8,3.42,High,25,Male,Part-time,Tlahuac,Yes,No,No
+1141,9.0,0.8,9.0,4.4,0.8,3.37,High,21,Female,Part-time,Tlalpan,Yes,No,Yes
+1142,5.2,0.6,7.7,3.5,7.0,2.77,Low,24,Female,Part-time,Iztapalapa,Yes,No,No
+1143,8.2,0.1,9.8,0.3,5.6,3.37,High,24,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+1144,8.3,3.3,5.1,3.3,4.0,3.27,High,21,Female,Part-time,Milpa Alta,No,Yes,No
+1145,7.3,2.0,5.4,4.1,5.2,3.41,High,23,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+1146,7.4,0.6,8.2,1.0,6.8,3.11,Moderate,25,Male,Part-time,Miguel Hidalgo,No,No,Yes
+1147,9.4,2.5,5.8,5.8,0.5,3.25,High,22,Male,Part-time,Cuajimalpa de Morelos,Yes,No,Yes
+1148,8.1,1.0,9.0,4.8,1.1,3.22,High,23,Female,Part-time,Venustiano Carranza,No,No,Yes
+1149,9.9,2.0,7.3,3.6,1.2,3.51,High,22,Female,Not working,Iztacalco,Yes,Yes,No
+1150,7.7,0.4,7.1,5.1,3.7,2.94,Moderate,23,Female,Part-time,Cuauhtemoc,No,No,Yes
+1151,9.3,0.4,5.5,1.6,7.2,3.29,High,21,Male,Not working,Cuajimalpa de Morelos,Yes,No,No
+1152,8.1,1.4,8.9,1.3,4.3,3.27,High,23,Male,Not working,Alvaro Obregon,Yes,No,Yes
+1153,8.2,0.9,8.6,5.2,1.1,3.03,High,23,Female,Not working,Cuajimalpa de Morelos,Yes,Yes,No
+1154,7.1,0.6,8.5,4.6,3.2,3.11,Moderate,22,Female,Full-time,Cuauhtemoc,No,Yes,No
+1155,5.5,2.0,9.1,5.6,1.8,2.95,Low,21,Female,Full-time,Miguel Hidalgo,No,No,Yes
+1156,7.7,1.6,9.2,2.7,2.8,3.16,Moderate,22,Female,Not working,Tlahuac,Yes,No,No
+1157,7.4,2.0,9.2,4.5,0.9,2.77,Moderate,22,Male,Not working,Iztapalapa,Yes,Yes,No
+1158,7.5,2.3,6.2,4.8,3.2,2.93,Moderate,23,Female,Full-time,Alvaro Obregon,Yes,Yes,Yes
+1159,7.4,1.3,5.5,1.4,8.4,3.09,High,21,Female,Part-time,Miguel Hidalgo,No,Yes,No
+1160,5.8,1.8,6.5,0.2,9.7,2.92,Low,24,Female,Not working,Iztapalapa,Yes,Yes,Yes
+1161,6.6,2.2,7.8,2.1,5.3,3.09,Moderate,23,Female,Full-time,Gustavo A. Madero,No,Yes,Yes
+1162,6.9,1.0,6.2,2.7,7.2,3.02,Moderate,20,Female,Part-time,Xochimilco,No,Yes,No
+1163,8.8,0.8,8.5,0.1,5.8,3.61,High,25,Male,Not working,Gustavo A. Madero,Yes,No,No
+1164,6.7,2.3,6.0,4.5,4.5,2.92,Moderate,21,Male,Not working,Tlalpan,Yes,No,Yes
+1165,5.3,3.4,6.0,5.2,4.1,3.06,Low,22,Female,Not working,Iztapalapa,No,Yes,Yes
+1166,6.6,3.6,5.6,1.1,7.1,2.82,High,24,Male,Not working,Iztapalapa,No,Yes,No
+1167,7.5,0.3,6.0,5.7,4.5,3.11,Moderate,21,Female,Part-time,Alvaro Obregon,No,No,Yes
+1168,9.6,2.2,6.3,4.1,1.8,3.49,High,25,Male,Full-time,Venustiano Carranza,No,Yes,Yes
+1169,8.3,4.0,6.3,3.6,1.8,3.36,High,20,Female,Not working,Cuauhtemoc,Yes,Yes,No
+1170,7.5,1.2,5.8,1.7,7.8,3.25,High,20,Male,Part-time,Iztapalapa,Yes,Yes,No
+1171,6.9,3.0,7.7,0.5,5.9,3.17,Moderate,23,Male,Full-time,Iztapalapa,No,Yes,Yes
+1172,8.2,3.2,7.3,1.9,3.4,3.2,High,20,Female,Not working,Iztapalapa,No,Yes,Yes
+1173,5.5,3.5,8.9,1.0,5.1,2.3,Low,23,Male,Part-time,Gustavo A. Madero,No,No,Yes
+1174,8.1,3.8,7.9,2.3,1.9,3.72,High,21,Female,Part-time,Coyoacan,Yes,No,No
+1175,5.3,0.3,5.9,0.2,12.3,2.97,High,22,Male,Not working,Coyoacan,Yes,Yes,Yes
+1176,5.7,3.3,5.8,1.8,7.4,3.04,High,23,Male,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+1177,6.2,1.5,6.3,2.9,7.1,2.97,Moderate,23,Male,Full-time,Magdalena Contreras,Yes,No,Yes
+1178,5.3,0.6,5.3,3.8,9.0,2.79,High,22,Female,Not working,Tlalpan,Yes,No,Yes
+1179,5.3,3.3,7.6,3.2,4.6,2.55,Low,22,Female,Full-time,Tlalpan,No,No,Yes
+1180,6.0,1.3,8.0,1.3,7.4,2.95,Moderate,22,Male,Full-time,Iztapalapa,Yes,No,Yes
+1181,5.6,3.9,5.1,4.8,4.6,2.7,High,21,Male,Not working,Venustiano Carranza,Yes,No,Yes
+1182,5.7,0.6,8.5,3.9,5.3,3.05,Low,24,Male,Not working,Cuajimalpa de Morelos,Yes,No,Yes
+1183,8.9,3.7,8.5,0.5,2.4,3.46,High,21,Female,Not working,Gustavo A. Madero,Yes,No,No
+1184,6.0,0.3,8.5,2.4,6.8,2.81,Moderate,23,Male,Full-time,Coyoacan,Yes,No,Yes
+1185,9.6,2.6,5.5,5.7,0.6,3.28,High,23,Male,Part-time,Coyoacan,Yes,Yes,Yes
+1186,7.0,0.2,7.5,0.7,8.6,2.81,Moderate,20,Female,Part-time,Iztapalapa,Yes,No,Yes
+1187,7.0,1.4,8.9,4.8,1.9,2.97,Moderate,23,Female,Part-time,Gustavo A. Madero,No,No,Yes
+1188,6.9,0.6,9.0,4.2,3.3,2.83,Moderate,24,Male,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+1189,6.0,1.5,5.5,3.8,7.2,2.8,High,22,Male,Not working,Iztapalapa,Yes,Yes,Yes
+1190,7.9,3.6,7.8,0.8,3.9,3.45,Moderate,24,Male,Part-time,Benito Juarez,No,No,No
+1191,6.9,3.4,8.2,3.6,1.9,3.37,Moderate,22,Female,Not working,Cuauhtemoc,No,Yes,No
+1192,8.8,2.4,5.8,4.8,2.2,3.38,High,23,Male,Part-time,Venustiano Carranza,No,Yes,No
+1193,8.6,0.3,7.3,1.0,6.8,3.51,High,24,Female,Not working,Benito Juarez,Yes,No,Yes
+1194,8.1,2.7,9.2,0.9,3.1,2.78,High,22,Female,Not working,Iztapalapa,No,Yes,Yes
+1195,5.6,3.4,5.8,5.8,3.4,2.84,High,23,Male,Full-time,Venustiano Carranza,No,No,No
+1196,9.9,0.4,6.5,3.8,3.4,3.73,High,20,Male,Part-time,Tlalpan,Yes,Yes,Yes
+1197,6.8,3.7,5.3,3.3,4.9,3.37,High,23,Male,Full-time,Miguel Hidalgo,Yes,Yes,No
+1198,6.3,1.5,9.2,1.2,5.8,3.15,Moderate,20,Male,Part-time,Iztapalapa,No,Yes,Yes
+1199,9.1,2.3,8.8,2.7,1.1,3.43,High,22,Male,Not working,Tlalpan,Yes,Yes,No
+1200,9.3,1.7,9.8,1.4,1.8,3.12,High,21,Female,Part-time,Azcapotzalco,Yes,Yes,Yes
+1201,5.7,1.6,9.8,1.9,5.0,2.72,Low,23,Male,Full-time,Cuauhtemoc,No,No,No
+1202,8.6,1.2,8.9,2.3,3.0,3.24,High,22,Male,Not working,Xochimilco,Yes,No,Yes
+1203,7.4,3.1,6.9,2.7,3.9,2.82,Moderate,25,Male,Full-time,Tlalpan,Yes,No,No
+1204,7.6,3.2,6.8,3.1,3.3,2.87,Moderate,22,Male,Not working,Benito Juarez,Yes,Yes,Yes
+1205,8.4,1.1,6.4,5.6,2.5,3.37,High,21,Male,Part-time,Venustiano Carranza,Yes,No,No
+1206,8.2,0.1,8.1,3.1,4.5,3.56,High,20,Female,Full-time,Cuajimalpa de Morelos,Yes,Yes,No
+1207,7.7,1.4,5.4,1.2,8.3,3.13,High,22,Female,Part-time,Gustavo A. Madero,Yes,No,Yes
+1208,7.3,0.2,5.2,4.3,7.0,3.21,High,22,Male,Part-time,Iztapalapa,Yes,Yes,Yes
+1209,7.7,2.0,6.2,4.5,3.6,3.07,Moderate,24,Male,Not working,Gustavo A. Madero,Yes,Yes,Yes
+1210,7.3,1.1,6.2,3.9,5.5,3.0,Moderate,24,Male,Full-time,Cuauhtemoc,No,Yes,Yes
+1211,8.3,3.3,7.1,0.4,4.9,3.56,High,24,Male,Part-time,Xochimilco,Yes,No,Yes
+1212,5.0,2.1,5.2,3.4,8.3,2.9,High,21,Male,Full-time,Benito Juarez,Yes,Yes,No
+1213,9.6,3.9,7.7,1.3,1.5,3.47,High,21,Female,Part-time,Alvaro Obregon,No,Yes,No
+1214,5.3,1.9,6.2,2.8,7.8,2.87,Low,22,Male,Full-time,Venustiano Carranza,No,Yes,Yes
+1215,7.3,2.3,6.8,1.0,6.6,3.35,Moderate,21,Male,Part-time,Venustiano Carranza,Yes,No,No
+1216,8.3,1.4,9.7,4.2,0.4,3.25,High,23,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+1217,6.0,0.2,8.7,5.0,4.1,3.04,Moderate,22,Female,Part-time,Gustavo A. Madero,No,Yes,Yes
+1218,5.1,1.0,7.3,3.8,6.8,3.24,Low,24,Male,Not working,Miguel Hidalgo,Yes,No,Yes
+1219,7.8,3.0,6.4,3.4,3.4,3.14,Moderate,22,Male,Not working,Tlahuac,No,No,Yes
+1220,8.8,2.8,10.0,0.7,1.7,3.16,High,20,Female,Not working,Alvaro Obregon,No,No,Yes
+1221,7.5,1.3,7.2,5.1,2.9,3.27,Moderate,24,Female,Part-time,Magdalena Contreras,No,No,Yes
+1222,6.0,3.5,5.3,5.3,3.9,2.97,High,25,Female,Part-time,Xochimilco,Yes,Yes,Yes
+1223,6.6,1.3,7.6,5.6,2.9,2.96,Moderate,23,Male,Part-time,Azcapotzalco,No,No,Yes
+1224,9.3,1.6,6.0,2.5,4.6,3.31,High,20,Male,Not working,Iztapalapa,Yes,Yes,Yes
+1225,6.9,3.7,8.8,2.3,2.3,3.03,Moderate,20,Male,Part-time,Iztapalapa,No,No,Yes
+1226,5.3,1.0,7.2,0.9,9.6,2.85,Low,25,Male,Full-time,Iztapalapa,Yes,No,Yes
+1227,9.7,3.1,6.3,2.9,2.0,3.5,High,22,Male,Part-time,Gustavo A. Madero,No,No,No
+1228,9.4,2.1,8.9,2.0,1.6,3.43,High,22,Male,Full-time,Tlalpan,Yes,Yes,Yes
+1229,7.8,0.5,5.6,3.2,6.9,3.36,High,22,Male,Full-time,Cuajimalpa de Morelos,Yes,No,Yes
+1230,9.8,1.9,5.3,3.3,3.7,3.93,High,24,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+1231,9.2,4.0,7.2,1.2,2.4,3.1,High,23,Female,Not working,Tlahuac,Yes,No,Yes
+1232,5.2,1.4,6.3,4.1,7.0,3.12,Low,21,Female,Part-time,Iztacalco,No,No,Yes
+1233,9.7,1.1,9.1,0.2,3.9,3.3,High,22,Female,Part-time,Milpa Alta,Yes,No,Yes
+1234,9.7,3.1,8.3,2.4,0.5,3.47,High,22,Female,Part-time,Xochimilco,Yes,No,Yes
+1235,8.2,3.9,8.6,3.1,0.2,3.02,High,22,Male,Part-time,Iztapalapa,Yes,No,Yes
+1236,7.6,0.5,8.0,2.9,5.0,3.15,Moderate,24,Male,Not working,Coyoacan,No,No,Yes
+1237,8.1,0.0,6.0,2.9,7.0,3.19,High,21,Female,Part-time,Magdalena Contreras,No,No,Yes
+1238,7.1,2.9,8.0,1.8,4.2,3.17,Moderate,22,Female,Not working,Iztapalapa,No,No,No
+1239,7.1,0.9,9.8,0.8,5.4,3.01,Moderate,25,Female,Full-time,Benito Juarez,Yes,Yes,No
+1240,6.1,3.1,6.0,0.5,8.3,2.9,Moderate,25,Female,Full-time,Tlahuac,No,Yes,No
+1241,7.4,0.0,5.4,4.8,6.4,3.14,High,25,Male,Not working,Tlalpan,Yes,Yes,No
+1242,9.3,2.7,5.3,4.7,2.0,3.41,High,23,Female,Full-time,Iztapalapa,Yes,No,No
+1243,9.2,3.2,7.5,1.0,3.1,3.48,High,24,Male,Part-time,Magdalena Contreras,Yes,No,Yes
+1244,9.9,0.6,6.1,1.3,6.1,3.63,High,21,Male,Not working,Cuauhtemoc,Yes,Yes,No
+1245,9.0,0.7,5.3,6.0,3.0,3.56,High,21,Female,Not working,Iztapalapa,Yes,Yes,No
+1246,7.8,3.6,9.6,0.0,3.0,3.09,Moderate,20,Male,Not working,Gustavo A. Madero,Yes,No,No
+1247,5.4,1.0,8.3,5.3,4.0,3.27,Low,23,Female,Not working,Coyoacan,No,No,No
+1248,5.9,3.2,9.8,1.4,3.7,2.71,Low,24,Female,Full-time,Azcapotzalco,No,No,Yes
+1249,7.5,0.3,7.8,3.0,5.4,3.09,Moderate,23,Male,Full-time,Iztapalapa,Yes,No,No
+1250,6.7,2.1,7.9,0.1,7.2,2.78,Moderate,22,Female,Full-time,Tlahuac,Yes,No,No
+1251,8.8,2.9,6.8,0.3,5.2,3.17,High,22,Male,Not working,Cuauhtemoc,Yes,No,No
+1252,5.9,2.3,5.8,2.1,7.9,2.66,High,24,Female,Part-time,Iztapalapa,No,No,Yes
+1253,8.5,2.2,6.9,2.5,3.9,3.25,High,21,Female,Part-time,Cuauhtemoc,No,Yes,Yes
+1254,5.4,3.5,5.4,4.2,5.5,2.81,High,23,Male,Full-time,Magdalena Contreras,Yes,No,No
+1255,9.6,1.1,6.9,3.4,3.0,3.37,High,24,Male,Part-time,Cuauhtemoc,Yes,No,No
+1256,8.3,1.6,7.4,0.3,6.4,3.29,High,23,Female,Not working,Iztacalco,Yes,Yes,Yes
+1257,6.0,3.2,7.3,1.8,5.7,3.11,Moderate,23,Female,Full-time,Iztacalco,No,No,No
+1258,8.7,1.1,5.6,1.5,7.1,3.24,High,23,Female,Part-time,Coyoacan,Yes,Yes,No
+1259,9.6,2.3,7.7,2.6,1.8,3.67,High,23,Male,Full-time,Coyoacan,Yes,No,Yes
+1260,7.6,0.5,5.6,3.2,7.1,3.04,High,22,Female,Full-time,Cuauhtemoc,No,Yes,Yes
+1261,9.7,1.2,9.3,2.9,0.9,3.51,High,20,Male,Not working,Iztapalapa,No,No,No
+1262,6.0,1.5,7.5,4.4,4.6,2.8,Moderate,20,Female,Not working,Iztapalapa,Yes,No,No
+1263,5.6,1.6,7.4,3.2,6.2,2.75,Low,23,Female,Full-time,Milpa Alta,Yes,Yes,Yes
+1264,9.0,2.8,7.8,3.1,1.3,3.43,High,22,Male,Part-time,Venustiano Carranza,Yes,No,Yes
+1265,7.1,0.6,8.3,3.1,4.9,2.79,Moderate,25,Male,Full-time,Iztapalapa,No,No,Yes
+1266,9.5,2.3,5.4,2.7,4.1,3.67,High,23,Male,Part-time,Gustavo A. Madero,Yes,Yes,No
+1267,8.8,3.2,7.5,4.0,0.5,3.2,High,25,Male,Full-time,Iztapalapa,No,No,Yes
+1268,9.5,3.6,8.4,2.1,0.4,3.11,High,21,Male,Not working,Gustavo A. Madero,Yes,No,No
+1269,5.4,3.5,6.6,1.1,7.4,2.72,Low,25,Male,Not working,Alvaro Obregon,No,No,No
+1270,6.3,1.3,5.7,1.8,8.9,2.65,High,23,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+1271,7.9,1.8,6.7,4.5,3.1,3.24,Moderate,25,Female,Not working,Cuajimalpa de Morelos,Yes,No,Yes
+1272,6.7,3.0,5.8,0.8,7.7,3.09,High,21,Male,Not working,Iztapalapa,Yes,Yes,No
+1273,6.7,3.2,6.2,0.4,7.5,2.74,Moderate,21,Male,Part-time,Alvaro Obregon,No,No,No
+1274,7.8,2.1,8.3,1.4,4.4,3.31,Moderate,22,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1275,9.3,1.2,8.5,0.1,4.9,3.1,High,25,Male,Part-time,Alvaro Obregon,Yes,Yes,Yes
+1276,7.7,0.3,9.0,1.3,5.7,2.9,Moderate,23,Male,Not working,Gustavo A. Madero,No,No,Yes
+1277,8.4,3.2,7.8,3.4,1.2,3.02,High,24,Female,Part-time,Alvaro Obregon,No,Yes,No
+1278,9.0,1.2,7.9,4.4,1.5,3.62,High,21,Male,Part-time,Cuauhtemoc,Yes,No,No
+1279,6.9,1.2,7.3,4.9,3.7,3.05,Moderate,25,Male,Not working,Cuauhtemoc,No,No,Yes
+1280,8.3,3.6,5.5,1.4,5.2,3.4,High,24,Male,Part-time,Cuauhtemoc,Yes,No,No
+1281,8.5,3.3,9.3,1.2,1.7,3.25,High,22,Male,Part-time,Iztacalco,Yes,Yes,Yes
+1282,6.2,1.2,8.9,0.5,7.2,2.76,Moderate,21,Male,Not working,Alvaro Obregon,No,No,Yes
+1283,9.1,1.7,8.0,0.5,4.7,3.23,High,22,Female,Full-time,Xochimilco,Yes,No,No
+1284,9.8,3.2,7.3,0.8,2.9,3.42,High,23,Male,Not working,Miguel Hidalgo,No,No,No
+1285,9.7,1.4,5.8,3.4,3.7,3.67,High,22,Female,Part-time,Milpa Alta,Yes,No,Yes
+1286,7.4,4.0,8.4,0.3,3.9,3.15,Moderate,23,Male,Full-time,Iztapalapa,No,No,Yes
+1287,10.0,1.6,6.4,3.3,2.7,3.39,High,21,Female,Full-time,Tlalpan,Yes,No,Yes
+1288,5.0,1.8,9.2,3.4,4.6,2.7,Low,25,Male,Part-time,Benito Juarez,Yes,Yes,No
+1289,10.0,1.1,6.4,1.0,5.5,3.4,High,24,Male,Part-time,Xochimilco,Yes,No,Yes
+1290,9.0,3.6,9.9,0.3,1.2,3.19,High,24,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+1291,9.4,1.3,5.6,5.2,2.5,3.2,High,21,Male,Not working,Magdalena Contreras,Yes,No,No
+1292,7.1,1.1,8.7,2.7,4.4,3.15,Moderate,24,Female,Not working,Tlahuac,No,No,Yes
+1293,9.9,0.2,6.8,2.9,4.2,3.09,High,21,Female,Part-time,Iztapalapa,No,No,Yes
+1294,8.6,3.5,9.7,1.8,0.4,3.3,High,25,Female,Not working,Alvaro Obregon,No,No,Yes
+1295,9.3,2.2,9.1,1.0,2.4,3.07,High,21,Female,Part-time,Miguel Hidalgo,Yes,No,No
+1296,7.3,1.1,9.8,1.8,4.0,2.91,Moderate,22,Male,Full-time,Gustavo A. Madero,No,Yes,No
+1297,5.5,2.1,5.3,0.7,10.4,2.79,High,24,Male,Not working,Gustavo A. Madero,Yes,No,No
+1298,7.2,3.2,8.7,2.1,2.8,2.78,Moderate,21,Male,Part-time,Alvaro Obregon,No,No,Yes
+1299,6.7,1.3,8.9,0.3,6.8,2.79,Moderate,20,Female,Full-time,Iztapalapa,Yes,No,No
+1300,6.2,3.7,9.3,3.4,1.4,2.92,Moderate,22,Female,Part-time,Alvaro Obregon,Yes,Yes,No
+1301,7.4,2.1,9.9,4.4,0.2,3.23,Moderate,22,Male,Part-time,Iztapalapa,No,Yes,Yes
+1302,6.0,0.9,8.4,2.4,6.3,2.79,Moderate,22,Female,Not working,Magdalena Contreras,Yes,No,No
+1303,9.7,0.4,7.6,5.5,0.8,3.73,High,23,Male,Not working,Benito Juarez,Yes,No,Yes
+1304,5.8,3.9,9.6,0.8,3.9,2.57,Low,22,Female,Not working,Cuauhtemoc,No,No,No
+1305,5.6,0.3,9.5,1.2,7.4,2.57,Low,23,Female,Part-time,Xochimilco,No,No,No
+1306,8.0,0.3,6.1,5.6,4.0,2.76,Moderate,21,Male,Not working,Xochimilco,No,No,No
+1307,9.5,3.1,5.1,2.0,4.3,3.14,High,22,Female,Part-time,Azcapotzalco,No,No,Yes
+1308,9.5,2.5,5.4,5.5,1.1,3.59,High,23,Female,Part-time,Iztacalco,Yes,No,Yes
+1309,9.8,0.3,7.7,1.8,4.4,3.23,High,21,Female,Part-time,Gustavo A. Madero,Yes,No,No
+1310,7.9,3.8,7.5,0.4,4.4,3.11,Moderate,21,Male,Not working,Magdalena Contreras,No,No,No
+1311,8.1,1.4,9.3,2.3,2.9,3.11,High,22,Female,Not working,Tlalpan,Yes,No,No
+1312,8.8,1.1,8.8,1.1,4.2,3.22,High,25,Female,Part-time,Tlahuac,No,No,No
+1313,6.6,1.9,9.7,5.4,0.4,2.88,Moderate,25,Female,Full-time,Magdalena Contreras,No,No,No
+1314,5.7,2.0,7.3,5.4,3.6,2.62,Low,20,Male,Part-time,Gustavo A. Madero,Yes,No,Yes
+1315,9.7,1.5,7.5,4.8,0.5,3.3,High,22,Female,Part-time,Iztacalco,Yes,No,No
+1316,6.1,0.8,5.2,3.9,8.0,2.56,High,22,Male,Part-time,Gustavo A. Madero,Yes,No,No
+1317,6.3,0.2,6.2,4.8,6.5,2.93,Moderate,22,Female,Part-time,Iztapalapa,Yes,Yes,No
+1318,7.1,3.9,6.0,1.3,5.7,3.3,Moderate,22,Female,Part-time,Tlalpan,Yes,Yes,No
+1319,6.5,0.7,6.9,5.5,4.4,2.71,Moderate,22,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1320,9.7,0.2,6.1,3.4,4.6,3.81,High,22,Female,Part-time,Benito Juarez,No,No,Yes
+1321,8.1,0.2,7.0,3.9,4.8,3.41,High,21,Female,Part-time,Iztacalco,No,Yes,No
+1322,6.6,0.4,7.1,0.8,9.1,3.27,Moderate,20,Male,Part-time,Gustavo A. Madero,Yes,No,Yes
+1323,9.7,1.9,6.6,4.4,1.4,3.06,High,21,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+1324,9.1,3.5,8.4,0.1,2.9,3.36,High,22,Female,Not working,Miguel Hidalgo,Yes,No,No
+1325,7.8,3.1,5.7,1.4,6.0,3.14,High,23,Male,Part-time,Gustavo A. Madero,No,Yes,Yes
+1326,7.2,0.0,9.1,2.2,5.5,3.41,Moderate,25,Female,Full-time,Magdalena Contreras,Yes,No,Yes
+1327,7.7,2.7,8.5,4.9,0.2,2.68,Moderate,21,Female,Not working,Gustavo A. Madero,No,No,No
+1328,9.8,2.6,6.5,0.6,4.5,3.62,High,24,Male,Not working,Miguel Hidalgo,No,Yes,Yes
+1329,9.2,1.4,8.3,2.4,2.7,3.47,High,22,Female,Not working,Tlahuac,Yes,Yes,No
+1330,5.3,1.7,7.7,2.6,6.7,2.54,Low,22,Female,Part-time,Alvaro Obregon,Yes,No,No
+1331,8.7,3.3,8.9,0.1,3.0,3.34,High,23,Male,Part-time,Coyoacan,No,Yes,No
+1332,9.7,3.3,9.2,0.5,1.3,3.18,High,22,Female,Not working,Xochimilco,No,No,No
+1333,7.1,1.9,5.8,0.2,9.0,3.02,High,21,Female,Part-time,Iztacalco,No,No,No
+1334,9.6,2.3,8.3,3.5,0.3,3.41,High,21,Male,Not working,Xochimilco,Yes,No,Yes
+1335,6.7,2.5,5.2,1.1,8.5,3.11,High,21,Female,Not working,Coyoacan,No,Yes,Yes
+1336,6.8,1.5,7.7,0.0,8.0,3.15,Moderate,21,Female,Not working,Iztapalapa,No,Yes,Yes
+1337,6.2,0.8,6.3,4.8,5.9,2.76,Moderate,23,Male,Full-time,Cuauhtemoc,Yes,No,No
+1338,7.5,3.5,6.2,0.5,6.3,3.0,Moderate,23,Male,Full-time,Cuauhtemoc,No,Yes,Yes
+1339,6.8,3.0,7.8,4.9,1.5,2.99,Moderate,21,Male,Part-time,Azcapotzalco,Yes,Yes,No
+1340,5.2,3.9,6.9,0.9,7.1,3.28,Low,20,Female,Part-time,Azcapotzalco,No,Yes,Yes
+1341,8.3,1.1,7.9,3.5,3.2,3.49,High,24,Male,Part-time,Gustavo A. Madero,Yes,No,Yes
+1342,6.3,1.8,7.7,4.0,4.2,2.91,Moderate,22,Female,Not working,Cuauhtemoc,Yes,Yes,Yes
+1343,8.9,1.6,8.2,0.8,4.5,3.3,High,22,Female,Not working,Iztapalapa,Yes,No,No
+1344,8.6,0.1,6.0,2.9,6.4,3.42,High,22,Male,Not working,Magdalena Contreras,No,No,No
+1345,9.4,2.1,9.6,1.4,1.5,3.2,High,22,Female,Not working,Alvaro Obregon,Yes,Yes,No
+1346,9.0,1.0,9.5,4.1,0.4,3.34,High,21,Female,Not working,Iztapalapa,No,No,Yes
+1347,9.7,2.1,8.4,3.0,0.8,3.51,High,24,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+1348,5.2,2.0,5.8,1.1,9.9,2.58,High,24,Female,Full-time,Iztacalco,Yes,Yes,Yes
+1349,6.8,1.7,8.1,0.4,7.0,2.75,Moderate,23,Female,Not working,Tlalpan,No,No,Yes
+1350,7.9,2.5,7.8,4.3,1.5,3.19,Moderate,20,Female,Part-time,Gustavo A. Madero,Yes,No,No
+1351,6.7,3.1,7.2,2.9,4.1,3.24,Moderate,23,Female,Not working,Tlahuac,Yes,No,Yes
+1352,6.5,0.3,5.5,5.5,6.2,3.28,High,23,Male,Full-time,Tlahuac,No,No,Yes
+1353,8.4,0.5,6.8,3.6,4.7,3.34,High,23,Male,Full-time,Gustavo A. Madero,Yes,Yes,No
+1354,5.0,0.8,9.8,3.7,4.7,2.69,Low,23,Female,Full-time,Tlahuac,Yes,No,Yes
+1355,6.3,0.3,5.1,1.5,10.8,2.9,High,24,Female,Not working,Alvaro Obregon,Yes,No,No
+1356,8.6,3.7,7.0,0.9,3.8,3.48,High,22,Female,Part-time,Miguel Hidalgo,Yes,Yes,No
+1357,7.6,3.6,9.0,0.3,3.5,3.27,Moderate,20,Female,Not working,Tlahuac,Yes,No,Yes
+1358,9.5,0.5,7.7,5.3,1.0,3.78,High,25,Female,Not working,Venustiano Carranza,No,Yes,Yes
+1359,7.1,1.9,5.4,1.7,7.9,3.14,High,25,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+1360,6.4,1.8,8.4,1.0,6.4,2.93,Moderate,23,Female,Part-time,Milpa Alta,No,No,Yes
+1361,7.4,3.0,9.3,2.7,1.6,2.95,Moderate,20,Female,Not working,Iztacalco,No,Yes,Yes
+1362,9.7,0.5,8.9,1.3,3.6,3.53,High,24,Male,Full-time,Iztapalapa,No,No,Yes
+1363,9.7,2.9,8.8,0.6,2.0,3.87,High,22,Female,Not working,Iztapalapa,Yes,No,No
+1364,8.8,0.4,9.8,4.5,0.5,3.12,High,21,Male,Not working,Milpa Alta,Yes,No,Yes
+1365,6.4,3.3,7.6,2.8,3.9,3.11,Moderate,24,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+1366,8.6,1.6,8.1,4.0,1.7,2.94,High,25,Male,Not working,Coyoacan,Yes,No,Yes
+1367,8.6,0.2,9.3,2.7,3.2,3.11,High,23,Female,Full-time,Iztapalapa,Yes,No,No
+1368,7.4,3.5,6.9,4.5,1.7,2.95,Moderate,22,Female,Full-time,Benito Juarez,No,Yes,No
+1369,5.5,1.9,10.0,4.6,2.0,2.83,Low,21,Male,Part-time,Xochimilco,No,No,Yes
+1370,6.2,1.6,8.9,4.6,2.7,2.63,Moderate,22,Male,Part-time,Benito Juarez,Yes,Yes,Yes
+1371,6.1,3.7,8.0,2.3,3.9,3.41,Moderate,25,Male,Full-time,Alvaro Obregon,Yes,Yes,No
+1372,7.8,1.9,7.5,1.1,5.7,3.18,Moderate,22,Female,Part-time,Benito Juarez,No,No,No
+1373,9.1,2.2,5.7,4.6,2.4,3.17,High,22,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1374,7.6,0.5,9.7,1.1,5.1,3.07,Moderate,22,Male,Not working,Alvaro Obregon,Yes,No,Yes
+1375,6.3,1.6,6.9,4.8,4.4,2.69,Moderate,23,Male,Full-time,Benito Juarez,Yes,No,No
+1376,6.3,2.0,5.7,3.7,6.3,2.91,High,21,Male,Not working,Xochimilco,Yes,No,Yes
+1377,7.8,2.9,9.7,3.3,0.3,3.09,Moderate,23,Female,Not working,Magdalena Contreras,No,No,Yes
+1378,9.5,3.9,9.3,0.1,1.2,3.28,High,21,Male,Part-time,Gustavo A. Madero,Yes,Yes,Yes
+1379,9.7,1.7,5.0,2.7,4.9,3.47,High,23,Male,Part-time,Azcapotzalco,Yes,No,No
+1380,6.7,1.9,8.1,5.2,2.1,2.88,Moderate,25,Female,Full-time,Iztapalapa,No,Yes,Yes
+1381,8.3,1.7,9.1,4.4,0.5,3.26,High,22,Female,Not working,Gustavo A. Madero,Yes,No,No
+1382,6.4,0.2,8.3,5.2,3.9,2.75,Moderate,23,Male,Not working,Alvaro Obregon,Yes,Yes,Yes
+1383,5.8,3.2,9.3,5.2,0.5,2.96,Low,24,Male,Part-time,Miguel Hidalgo,No,Yes,Yes
+1384,6.6,2.2,5.3,0.3,9.6,2.94,High,24,Male,Full-time,Coyoacan,Yes,Yes,No
+1385,8.6,1.8,6.3,1.1,6.2,3.2,High,23,Female,Full-time,Iztapalapa,Yes,No,Yes
+1386,7.4,1.4,6.6,5.8,2.8,2.87,Moderate,24,Male,Part-time,Tlalpan,Yes,No,Yes
+1387,8.2,0.1,7.2,5.3,3.2,3.12,High,20,Male,Part-time,Iztacalco,Yes,Yes,No
+1388,8.8,2.4,7.9,0.3,4.6,3.26,High,22,Male,Part-time,Iztapalapa,Yes,Yes,No
+1389,5.7,2.5,6.0,3.0,6.8,2.5,Low,21,Male,Part-time,Cuauhtemoc,No,No,Yes
+1390,9.7,3.4,8.6,0.2,2.1,3.53,High,23,Male,Full-time,Venustiano Carranza,No,No,Yes
+1391,5.5,2.0,5.8,5.9,4.8,2.82,High,25,Male,Full-time,Cuajimalpa de Morelos,Yes,No,Yes
+1392,6.8,2.6,5.6,2.6,6.4,2.77,High,23,Male,Full-time,Miguel Hidalgo,Yes,No,Yes
+1393,6.4,3.6,5.2,5.5,3.3,2.86,High,22,Male,Not working,Tlalpan,Yes,No,Yes
+1394,8.9,0.1,9.8,2.7,2.5,3.51,High,23,Male,Part-time,Iztapalapa,Yes,Yes,Yes
+1395,6.5,1.5,5.3,5.9,4.8,3.0,High,25,Female,Full-time,Iztapalapa,Yes,No,No
+1396,7.2,3.8,6.2,3.2,3.6,3.02,Moderate,22,Male,Part-time,Tlalpan,No,Yes,Yes
+1397,7.4,2.8,5.3,1.2,7.3,3.25,High,22,Female,Part-time,Xochimilco,Yes,Yes,Yes
+1398,5.9,2.3,6.1,5.2,4.5,2.72,Low,23,Male,Part-time,Alvaro Obregon,No,Yes,Yes
+1399,9.7,2.1,6.8,1.3,4.1,3.55,High,22,Male,Part-time,Tlalpan,Yes,No,Yes
+1400,9.7,1.6,8.5,2.1,2.1,3.87,High,24,Female,Full-time,Coyoacan,Yes,No,No
+1401,7.6,1.1,7.3,2.8,5.2,3.2,Moderate,21,Male,Not working,Milpa Alta,Yes,No,No
+1402,6.6,0.2,7.5,3.3,6.4,3.02,Moderate,22,Male,Part-time,Benito Juarez,No,No,No
+1403,5.8,3.0,9.9,5.0,0.3,2.93,Low,20,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+1404,8.5,1.8,7.7,5.1,0.9,3.23,High,23,Female,Not working,Gustavo A. Madero,Yes,Yes,No
+1405,7.4,1.5,7.5,3.5,4.1,3.33,Moderate,23,Male,Not working,Iztacalco,No,Yes,No
+1406,5.5,2.4,5.6,0.5,10.0,3.11,High,21,Male,Not working,Iztapalapa,Yes,Yes,Yes
+1407,7.6,1.6,7.9,0.5,6.4,2.89,Moderate,21,Male,Full-time,Gustavo A. Madero,Yes,No,No
+1408,9.9,2.2,8.4,1.1,2.4,3.43,High,23,Male,Part-time,Milpa Alta,No,No,Yes
+1409,5.5,3.9,6.4,2.5,5.7,2.8,Low,25,Male,Full-time,Azcapotzalco,No,No,No
+1410,9.1,2.1,6.4,0.4,6.0,3.37,High,21,Female,Part-time,Iztacalco,Yes,No,Yes
+1411,5.8,3.6,8.4,1.5,4.7,2.91,Low,23,Female,Not working,Magdalena Contreras,No,No,Yes
+1412,7.9,1.6,6.8,1.3,6.4,3.1,Moderate,22,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+1413,8.3,3.9,5.9,3.5,2.4,2.95,High,20,Male,Full-time,Azcapotzalco,Yes,Yes,No
+1414,6.3,3.3,7.4,3.3,3.7,2.52,Moderate,24,Male,Not working,Tlalpan,No,No,Yes
+1415,6.5,0.7,5.4,4.3,7.1,3.1,High,23,Male,Part-time,Iztacalco,No,No,Yes
+1416,7.0,1.7,7.3,2.2,5.8,2.85,Moderate,21,Male,Full-time,Magdalena Contreras,No,No,No
+1417,5.5,1.2,8.3,4.0,5.0,2.76,Low,22,Male,Full-time,Iztapalapa,No,No,No
+1418,6.0,0.8,5.1,5.4,6.7,2.54,High,22,Female,Not working,Xochimilco,Yes,Yes,Yes
+1419,6.1,0.9,6.4,0.8,9.8,2.79,Moderate,25,Female,Full-time,Venustiano Carranza,Yes,Yes,Yes
+1420,5.7,2.6,6.7,4.2,4.8,2.9,Low,21,Male,Full-time,Benito Juarez,No,No,No
+1421,7.8,1.0,8.3,0.7,6.2,2.69,Moderate,20,Female,Full-time,Venustiano Carranza,No,No,Yes
+1422,6.3,2.4,9.4,5.9,0.0,3.22,Moderate,22,Male,Not working,Cuauhtemoc,Yes,Yes,No
+1423,8.0,1.6,6.1,1.5,6.8,2.75,Moderate,21,Male,Not working,Iztacalco,No,No,No
+1424,9.6,1.5,6.9,2.3,3.7,3.37,High,25,Male,Full-time,Tlalpan,Yes,No,Yes
+1425,9.2,2.6,8.1,1.4,2.7,3.39,High,22,Male,Not working,Iztacalco,Yes,No,No
+1426,7.0,2.0,8.3,0.1,6.6,3.27,Moderate,24,Male,Full-time,Cuauhtemoc,No,No,No
+1427,9.4,1.8,6.7,0.8,5.3,3.37,High,22,Female,Part-time,Xochimilco,Yes,Yes,No
+1428,7.0,2.7,7.1,5.8,1.4,2.47,Moderate,20,Female,Part-time,Benito Juarez,Yes,No,Yes
+1429,8.0,3.2,5.5,2.4,4.9,3.36,High,25,Male,Part-time,Iztapalapa,Yes,No,Yes
+1430,9.3,0.3,5.4,5.1,3.9,3.02,High,22,Male,Part-time,Venustiano Carranza,Yes,Yes,Yes
+1431,6.1,2.7,7.7,5.0,2.5,3.04,Moderate,22,Female,Part-time,Alvaro Obregon,Yes,Yes,Yes
+1432,7.1,1.3,8.0,5.6,2.0,3.08,Moderate,24,Female,Not working,Gustavo A. Madero,No,No,Yes
+1433,9.2,4.0,5.1,0.6,5.1,3.62,High,24,Female,Full-time,Cuauhtemoc,No,No,No
+1434,6.4,1.0,8.9,0.3,7.4,3.04,Moderate,23,Male,Not working,Iztapalapa,Yes,No,Yes
+1435,6.8,2.0,7.8,4.4,3.0,3.27,Moderate,23,Female,Part-time,Miguel Hidalgo,No,No,Yes
+1436,7.9,2.2,8.2,1.5,4.2,2.87,Moderate,25,Female,Full-time,Xochimilco,No,No,Yes
+1437,5.4,0.5,6.1,3.0,9.0,2.91,Low,25,Female,Not working,Benito Juarez,No,No,Yes
+1438,8.9,1.4,7.0,2.4,4.3,3.5,High,24,Female,Part-time,Cuauhtemoc,Yes,Yes,Yes
+1439,6.0,0.2,8.0,5.9,3.9,2.76,Moderate,23,Male,Part-time,Benito Juarez,No,No,No
+1440,9.1,2.8,9.7,1.0,1.4,3.53,High,20,Male,Part-time,Cuauhtemoc,Yes,Yes,No
+1441,8.3,1.9,8.2,2.5,3.1,3.25,High,23,Female,Not working,Gustavo A. Madero,No,No,No
+1442,7.6,3.2,8.7,3.0,1.5,2.86,Moderate,22,Male,Part-time,Azcapotzalco,Yes,No,Yes
+1443,5.6,2.9,7.5,5.4,2.6,2.98,Low,25,Female,Part-time,Tlalpan,No,Yes,Yes
+1444,5.7,3.0,5.0,1.0,9.3,2.42,High,22,Female,Not working,Azcapotzalco,Yes,Yes,Yes
+1445,7.9,2.9,9.6,2.5,1.1,2.99,Moderate,22,Female,Not working,Xochimilco,No,No,Yes
+1446,5.0,0.5,7.7,4.1,6.7,3.07,Low,22,Male,Part-time,Magdalena Contreras,No,No,No
+1447,7.1,2.9,7.6,0.4,6.0,3.15,Moderate,23,Male,Part-time,Cuajimalpa de Morelos,No,Yes,Yes
+1448,8.6,3.6,5.6,5.9,0.3,3.21,High,22,Female,Part-time,Azcapotzalco,Yes,No,No
+1449,6.0,0.0,10.0,1.7,6.3,2.7,Moderate,24,Male,Full-time,Magdalena Contreras,No,No,Yes
+1450,7.9,3.6,6.6,4.0,1.9,3.29,Moderate,25,Male,Full-time,Cuauhtemoc,No,No,Yes
+1451,5.9,2.5,6.7,1.3,7.6,2.7,Low,23,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+1452,9.5,1.6,6.2,2.7,4.0,3.32,High,24,Male,Not working,Xochimilco,Yes,No,Yes
+1453,6.6,3.0,9.9,2.0,2.5,3.03,Moderate,24,Female,Part-time,Venustiano Carranza,Yes,Yes,Yes
+1454,5.8,2.8,7.6,3.9,3.9,3.09,Low,24,Male,Not working,Miguel Hidalgo,No,Yes,No
+1455,9.4,1.8,9.5,2.5,0.8,3.91,High,20,Female,Part-time,Alvaro Obregon,Yes,Yes,No
+1456,6.6,3.9,8.3,0.2,5.0,2.93,Moderate,21,Male,Part-time,Tlahuac,No,No,No
+1457,6.6,2.5,5.3,0.1,9.5,2.6,High,23,Male,Not working,Magdalena Contreras,Yes,No,Yes
+1458,7.2,1.1,5.8,4.1,5.8,2.96,High,23,Male,Full-time,Cuauhtemoc,No,Yes,Yes
+1459,7.6,0.8,6.6,3.6,5.4,3.3,Moderate,23,Female,Part-time,Alvaro Obregon,Yes,Yes,Yes
+1460,8.6,2.7,7.4,3.4,1.9,3.45,High,20,Male,Part-time,Xochimilco,Yes,No,No
+1461,5.2,2.5,8.9,3.0,4.4,2.51,Low,21,Male,Not working,Coyoacan,No,No,No
+1462,8.2,2.8,9.4,1.2,2.4,3.06,High,20,Female,Not working,Azcapotzalco,Yes,Yes,No
+1463,8.8,2.2,9.4,1.9,1.7,3.85,High,25,Male,Full-time,Xochimilco,Yes,No,Yes
+1464,8.7,3.9,5.4,0.3,5.7,3.42,High,20,Female,Part-time,Milpa Alta,Yes,No,No
+1465,9.7,2.1,8.1,2.0,2.1,3.49,High,23,Female,Full-time,Iztapalapa,Yes,No,No
+1466,8.7,1.2,6.5,5.0,2.6,3.25,High,24,Female,Part-time,Tlahuac,No,Yes,Yes
+1467,5.4,3.5,6.3,3.6,5.2,2.85,Low,21,Female,Part-time,Milpa Alta,Yes,No,Yes
+1468,7.1,2.8,6.7,1.7,5.7,3.16,Moderate,21,Female,Full-time,Cuajimalpa de Morelos,Yes,No,Yes
+1469,10.0,3.0,8.2,1.0,1.8,3.81,High,22,Male,Not working,Coyoacan,Yes,No,Yes
+1470,7.7,3.4,5.2,2.2,5.5,3.22,High,20,Male,Not working,Benito Juarez,Yes,No,Yes
+1471,6.2,1.8,5.4,5.7,4.9,2.98,High,22,Female,Part-time,Iztapalapa,Yes,Yes,No
+1472,7.8,3.7,5.0,4.5,3.0,3.16,High,22,Male,Part-time,Iztacalco,Yes,No,Yes
+1473,9.5,0.6,5.5,2.5,5.9,3.44,High,23,Female,Full-time,Xochimilco,Yes,No,Yes
+1474,7.6,0.6,5.0,4.9,5.9,3.29,High,20,Female,Part-time,Benito Juarez,Yes,No,Yes
+1475,5.4,2.5,9.6,1.3,5.2,2.69,Low,23,Male,Full-time,Coyoacan,No,Yes,Yes
+1476,8.0,0.7,8.7,1.8,4.8,3.25,Moderate,24,Male,Not working,Miguel Hidalgo,Yes,No,Yes
+1477,7.3,2.4,5.9,4.4,4.0,3.3,High,21,Female,Part-time,Magdalena Contreras,Yes,Yes,Yes
+1478,5.8,2.8,5.6,2.6,7.2,2.62,High,23,Male,Full-time,Iztapalapa,Yes,No,No
+1479,6.2,3.0,6.3,5.3,3.2,2.91,Moderate,22,Male,Full-time,Gustavo A. Madero,No,No,Yes
+1480,8.1,0.4,7.0,4.3,4.2,3.24,High,25,Female,Part-time,Cuauhtemoc,Yes,Yes,No
+1481,8.3,2.5,6.4,2.3,4.5,3.31,High,24,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+1482,7.5,2.8,6.2,1.9,5.6,3.02,Moderate,22,Male,Part-time,Benito Juarez,No,No,Yes
+1483,6.7,0.1,6.7,4.8,5.7,3.01,Moderate,20,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1484,7.3,0.1,9.4,0.1,7.1,3.29,Moderate,20,Female,Part-time,Alvaro Obregon,Yes,Yes,Yes
+1485,9.7,2.0,6.7,5.2,0.4,3.47,High,22,Male,Part-time,Tlalpan,No,Yes,No
+1486,7.7,0.9,7.1,3.9,4.4,3.08,Moderate,21,Male,Part-time,Tlalpan,Yes,Yes,No
+1487,8.6,0.0,9.7,0.9,4.8,3.14,High,22,Male,Not working,Benito Juarez,Yes,No,No
+1488,5.2,0.5,9.9,1.9,6.5,2.61,Low,24,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+1489,5.6,0.4,8.6,5.1,4.3,2.81,Low,23,Female,Full-time,Cuauhtemoc,Yes,No,No
+1490,6.1,2.1,6.3,5.6,3.9,2.73,Moderate,24,Male,Full-time,Venustiano Carranza,Yes,No,No
+1491,9.5,2.3,6.8,2.1,3.3,3.74,High,23,Male,Full-time,Benito Juarez,Yes,Yes,No
+1492,7.3,3.4,9.7,1.2,2.4,2.97,Moderate,22,Male,Part-time,Alvaro Obregon,Yes,No,No
+1493,7.8,0.4,6.0,2.5,7.3,3.24,Moderate,21,Male,Part-time,Iztacalco,Yes,No,No
+1494,5.8,1.8,8.0,4.2,4.2,2.82,Low,21,Male,Not working,Tlalpan,No,No,Yes
+1495,6.9,3.5,7.8,2.5,3.3,3.02,Moderate,23,Female,Full-time,Benito Juarez,Yes,No,No
+1496,9.1,2.5,9.2,1.6,1.6,3.22,High,25,Male,Part-time,Tlalpan,No,No,Yes
+1497,5.6,0.1,6.5,4.2,7.6,2.71,Low,22,Female,Not working,Iztapalapa,No,No,Yes
+1498,7.5,1.7,7.1,1.4,6.3,3.32,Moderate,24,Female,Not working,Alvaro Obregon,No,No,No
+1499,5.7,0.8,5.3,1.2,11.0,2.74,High,21,Female,Part-time,Gustavo A. Madero,Yes,Yes,No
+1500,6.8,0.0,9.2,0.2,7.8,2.8,Moderate,22,Female,Not working,Benito Juarez,No,No,No
+1501,9.7,3.6,7.7,1.6,1.4,3.22,High,22,Male,Not working,Coyoacan,Yes,No,No
+1502,8.2,0.2,5.3,2.7,7.6,3.55,High,23,Male,Not working,Iztacalco,Yes,Yes,Yes
+1503,7.7,3.6,5.5,4.9,2.3,3.06,High,22,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+1504,6.6,1.6,5.8,3.0,7.0,2.73,High,22,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+1505,9.0,1.8,7.5,4.8,0.9,3.33,High,22,Female,Part-time,Magdalena Contreras,Yes,Yes,Yes
+1506,6.3,3.5,7.9,1.3,5.0,3.32,Moderate,23,Female,Full-time,Tlalpan,Yes,No,Yes
+1507,6.3,3.2,5.2,6.0,3.3,3.0,High,23,Male,Full-time,Tlalpan,Yes,No,Yes
+1508,7.0,2.0,9.4,2.3,3.3,2.98,Moderate,22,Male,Part-time,Coyoacan,Yes,No,Yes
+1509,7.7,0.2,5.0,1.5,9.6,3.0,High,21,Female,Part-time,Coyoacan,Yes,No,No
+1510,5.6,1.6,8.2,4.3,4.3,2.91,Low,21,Male,Part-time,Milpa Alta,No,Yes,No
+1511,5.9,0.3,9.7,1.6,6.5,2.76,Low,25,Male,Not working,Gustavo A. Madero,No,No,Yes
+1512,9.1,3.1,8.0,1.3,2.5,3.46,High,23,Female,Full-time,Milpa Alta,No,No,Yes
+1513,6.3,0.5,7.5,3.5,6.2,2.87,Moderate,24,Male,Full-time,Gustavo A. Madero,Yes,Yes,No
+1514,6.8,2.6,9.5,0.8,4.3,2.58,Moderate,24,Female,Not working,Xochimilco,No,No,Yes
+1515,6.9,0.6,8.1,4.4,4.0,3.0,Moderate,23,Male,Full-time,Gustavo A. Madero,Yes,No,Yes
+1516,9.8,0.3,8.0,0.3,5.6,3.53,High,23,Female,Not working,Iztapalapa,Yes,No,No
+1517,9.5,2.1,8.3,3.4,0.7,3.35,High,23,Female,Full-time,Gustavo A. Madero,Yes,No,Yes
+1518,5.6,1.9,8.0,0.2,8.3,2.99,Low,20,Female,Full-time,Cuauhtemoc,No,No,No
+1519,6.4,0.1,7.1,5.4,5.0,2.72,Moderate,23,Male,Full-time,Iztapalapa,Yes,No,Yes
+1520,9.6,3.0,8.7,1.9,0.8,3.45,High,21,Female,Not working,Tlalpan,No,No,No
+1521,6.0,0.8,8.4,1.3,7.5,3.19,Moderate,21,Male,Not working,Gustavo A. Madero,Yes,No,No
+1522,8.9,1.8,9.0,3.6,0.7,3.27,High,23,Female,Part-time,Tlalpan,Yes,No,No
+1523,8.3,0.9,6.4,1.9,6.5,3.18,High,25,Female,Full-time,Iztapalapa,Yes,No,No
+1524,6.0,1.8,9.5,0.6,6.1,2.78,Moderate,20,Female,Part-time,Gustavo A. Madero,No,No,No
+1525,8.6,2.7,5.5,5.5,1.7,2.9,High,20,Male,Not working,Iztapalapa,Yes,No,No
+1526,8.8,1.0,8.5,0.2,5.5,3.52,High,23,Female,Part-time,Tlahuac,No,No,No
+1527,9.2,1.8,8.2,1.1,3.7,3.6,High,20,Female,Not working,Iztapalapa,Yes,No,No
+1528,7.4,2.5,7.3,5.4,1.4,3.25,Moderate,22,Male,Part-time,Tlalpan,No,No,Yes
+1529,7.5,3.4,9.0,1.7,2.4,3.03,Moderate,20,Male,Not working,Benito Juarez,No,No,No
+1530,9.1,0.9,7.6,4.8,1.6,3.08,High,23,Female,Part-time,Alvaro Obregon,Yes,Yes,Yes
+1531,6.8,2.6,6.2,0.7,7.7,3.0,Moderate,22,Female,Part-time,Milpa Alta,Yes,Yes,Yes
+1532,6.4,3.4,6.7,5.8,1.7,2.98,Moderate,21,Female,Not working,Iztapalapa,No,Yes,No
+1533,9.9,1.1,5.2,4.2,3.6,3.3,High,24,Male,Full-time,Benito Juarez,No,No,No
+1534,8.5,0.1,9.4,0.8,5.2,3.25,High,23,Female,Not working,Milpa Alta,Yes,No,Yes
+1535,5.6,0.7,9.8,4.2,3.7,2.75,Low,23,Male,Full-time,Azcapotzalco,No,No,Yes
+1536,6.7,0.9,7.4,3.3,5.7,3.26,Moderate,21,Male,Not working,Benito Juarez,Yes,No,No
+1537,8.2,1.0,9.7,0.9,4.2,2.81,High,23,Female,Part-time,Cuauhtemoc,No,No,Yes
+1538,7.2,2.3,7.2,2.5,4.8,3.03,Moderate,21,Male,Part-time,Venustiano Carranza,Yes,No,No
+1539,8.7,2.7,9.2,0.8,2.6,3.58,High,25,Female,Not working,Iztapalapa,Yes,No,Yes
+1540,6.8,1.9,6.6,0.9,7.8,3.38,Moderate,24,Male,Part-time,Tlalpan,Yes,Yes,Yes
+1541,6.1,0.4,8.4,4.0,5.1,2.88,Moderate,23,Male,Full-time,Tlalpan,No,Yes,No
+1542,7.9,3.9,7.7,4.1,0.4,3.4,Moderate,24,Male,Part-time,Coyoacan,Yes,Yes,No
+1543,5.4,0.8,7.2,3.5,7.1,2.71,Low,23,Male,Not working,Gustavo A. Madero,No,No,No
+1544,9.0,2.4,6.0,3.0,3.6,3.32,High,22,Female,Not working,Miguel Hidalgo,Yes,Yes,Yes
+1545,8.7,3.1,7.5,1.4,3.3,2.99,High,23,Female,Not working,Magdalena Contreras,Yes,Yes,No
+1546,8.7,1.0,5.9,3.2,5.2,3.17,High,20,Female,Not working,Cuauhtemoc,Yes,Yes,Yes
+1547,6.4,2.5,5.6,3.9,5.6,2.89,High,22,Female,Not working,Cuauhtemoc,Yes,No,Yes
+1548,8.9,2.4,9.9,1.0,1.8,3.44,High,23,Female,Not working,Benito Juarez,Yes,No,No
+1549,8.4,0.3,7.0,5.8,2.5,2.9,High,21,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+1550,5.6,2.8,8.2,2.2,5.2,2.91,Low,25,Female,Full-time,Miguel Hidalgo,No,Yes,No
+1551,9.8,0.1,6.5,5.5,2.1,3.24,High,22,Male,Not working,Xochimilco,Yes,Yes,No
+1552,7.7,3.3,5.5,5.7,1.8,2.99,High,23,Male,Full-time,Tlalpan,Yes,No,Yes
+1553,9.0,0.7,8.6,2.2,3.5,3.62,High,25,Male,Not working,Milpa Alta,No,No,Yes
+1554,9.8,0.5,7.1,2.9,3.7,3.38,High,24,Female,Not working,Iztapalapa,Yes,Yes,No
+1555,6.9,1.5,5.3,4.1,6.2,2.77,High,25,Female,Part-time,Benito Juarez,No,No,No
+1556,9.1,3.2,7.4,1.3,3.0,3.31,High,23,Male,Not working,Azcapotzalco,Yes,Yes,Yes
+1557,8.2,1.2,6.2,4.4,4.0,3.08,High,20,Female,Part-time,Gustavo A. Madero,Yes,Yes,No
+1558,6.2,3.7,7.6,2.2,4.3,2.84,Moderate,20,Female,Not working,Coyoacan,No,No,Yes
+1559,9.4,1.6,6.7,1.2,5.1,3.11,High,21,Male,Not working,Gustavo A. Madero,No,Yes,Yes
+1560,8.4,1.2,7.9,0.4,6.1,3.06,High,23,Male,Not working,Azcapotzalco,Yes,No,No
+1561,6.0,1.6,9.7,2.3,4.4,2.66,Moderate,24,Female,Full-time,Miguel Hidalgo,Yes,Yes,No
+1562,5.6,0.2,6.5,0.9,10.8,3.0,Low,24,Male,Part-time,Tlalpan,No,No,No
+1563,5.9,3.0,5.1,3.3,6.7,2.91,High,20,Female,Part-time,Magdalena Contreras,Yes,Yes,Yes
+1564,7.8,1.3,6.5,4.4,4.0,2.69,Moderate,21,Female,Not working,Coyoacan,Yes,No,Yes
+1565,9.4,0.8,5.5,5.4,2.9,3.55,High,23,Female,Part-time,Iztacalco,Yes,No,Yes
+1566,6.8,0.5,7.9,3.2,5.6,2.61,Moderate,20,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+1567,6.0,1.8,9.0,3.5,3.7,2.92,Moderate,21,Male,Part-time,Tlalpan,No,No,No
+1568,8.5,3.2,8.1,0.6,3.6,3.09,High,23,Male,Not working,Tlalpan,No,No,No
+1569,8.6,2.7,5.1,2.5,5.1,3.54,High,23,Male,Full-time,Cuauhtemoc,Yes,Yes,Yes
+1570,6.1,2.4,9.6,4.7,1.2,2.67,Moderate,24,Female,Not working,Tlahuac,No,No,Yes
+1571,9.6,3.9,5.1,3.4,2.0,3.65,High,23,Male,Not working,Cuauhtemoc,Yes,Yes,No
+1572,6.3,3.9,8.1,4.5,1.2,2.89,Moderate,22,Male,Part-time,Tlalpan,No,No,Yes
+1573,5.4,0.7,8.8,0.1,9.0,2.57,Low,21,Female,Not working,Iztapalapa,No,No,Yes
+1574,8.1,2.8,6.7,0.6,5.8,3.5,High,23,Male,Not working,Xochimilco,Yes,Yes,No
+1575,5.3,2.4,7.6,4.5,4.2,2.25,Low,22,Female,Not working,Tlalpan,No,No,No
+1576,7.0,0.1,6.7,5.9,4.3,3.12,Moderate,24,Female,Full-time,Milpa Alta,Yes,No,Yes
+1577,9.4,1.3,7.9,4.6,0.8,3.34,High,20,Male,Not working,Tlalpan,Yes,Yes,Yes
+1578,5.4,2.0,9.8,4.2,2.6,2.8,Low,25,Male,Full-time,Tlalpan,No,No,No
+1579,5.4,0.8,8.9,5.0,3.9,3.12,Low,21,Male,Part-time,Cuauhtemoc,No,No,Yes
+1580,5.1,3.3,8.9,1.6,5.1,3.02,Low,22,Male,Full-time,Cuajimalpa de Morelos,No,No,No
+1581,8.5,0.9,5.2,1.2,8.2,3.17,High,24,Female,Not working,Iztapalapa,Yes,Yes,Yes
+1582,7.1,2.0,7.4,1.6,5.9,2.86,Moderate,23,Male,Part-time,Iztapalapa,No,No,Yes
+1583,5.1,2.4,7.0,1.8,7.7,2.84,Low,23,Male,Part-time,Miguel Hidalgo,Yes,No,Yes
+1584,9.3,2.0,5.7,4.2,2.8,3.51,High,22,Male,Not working,Benito Juarez,No,Yes,No
+1585,6.0,1.8,5.3,5.0,5.9,2.88,High,20,Female,Full-time,Benito Juarez,No,No,Yes
+1586,8.7,2.5,9.0,1.6,2.2,3.53,High,22,Male,Part-time,Miguel Hidalgo,No,No,No
+1587,8.9,1.8,9.7,1.8,1.8,3.63,High,24,Female,Part-time,Magdalena Contreras,Yes,Yes,No
+1588,9.1,2.2,5.9,2.8,4.0,3.33,High,23,Female,Full-time,Iztapalapa,Yes,No,Yes
+1589,9.8,3.0,9.1,0.1,2.0,3.9,High,24,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+1590,9.2,0.2,9.3,2.9,2.4,3.29,High,22,Female,Part-time,Iztacalco,Yes,No,No
+1591,6.0,1.3,6.4,3.2,7.1,2.84,Moderate,21,Female,Full-time,Venustiano Carranza,No,Yes,Yes
+1592,6.2,1.8,7.6,4.6,3.8,2.98,Moderate,21,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+1593,7.2,3.2,8.1,0.6,4.9,3.04,Moderate,23,Female,Not working,Tlalpan,Yes,Yes,Yes
+1594,7.0,3.0,7.9,2.3,3.8,2.81,Moderate,23,Female,Full-time,Alvaro Obregon,Yes,No,No
+1595,5.9,0.9,7.9,2.5,6.8,2.63,Low,22,Male,Not working,Benito Juarez,No,Yes,Yes
+1596,8.3,3.4,6.3,2.9,3.1,3.26,High,22,Female,Not working,Miguel Hidalgo,Yes,Yes,Yes
+1597,9.9,1.3,8.0,0.4,4.4,3.33,High,22,Female,Part-time,Cuauhtemoc,Yes,No,No
+1598,9.8,2.9,8.9,1.7,0.7,3.51,High,22,Male,Not working,Cuauhtemoc,No,No,No
+1599,7.9,1.8,9.3,4.8,0.2,3.34,Moderate,23,Female,Full-time,Magdalena Contreras,Yes,No,Yes
+1600,7.9,2.2,7.3,1.3,5.3,3.18,Moderate,21,Male,Part-time,Iztacalco,No,Yes,Yes
+1601,5.0,1.0,7.5,2.3,8.2,2.82,Low,25,Female,Part-time,Cuauhtemoc,No,No,Yes
+1602,6.8,1.8,5.7,0.3,9.4,3.01,High,25,Male,Full-time,Gustavo A. Madero,Yes,No,Yes
+1603,8.9,2.3,8.8,0.6,3.4,3.02,High,25,Male,Part-time,Iztapalapa,Yes,Yes,Yes
+1604,6.1,0.0,5.7,1.9,10.3,3.01,High,24,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+1605,5.6,3.9,6.5,0.8,7.2,2.92,Low,22,Male,Part-time,Alvaro Obregon,Yes,Yes,No
+1606,5.3,3.4,9.8,1.4,4.1,2.53,Low,24,Female,Part-time,Tlalpan,No,No,No
+1607,7.3,0.1,8.2,2.5,5.9,2.92,Moderate,22,Male,Not working,Tlalpan,Yes,No,No
+1608,8.3,1.7,5.9,4.1,4.0,3.11,High,23,Male,Full-time,Coyoacan,Yes,No,No
+1609,7.8,3.4,5.6,4.7,2.5,3.02,High,23,Female,Not working,Alvaro Obregon,Yes,Yes,No
+1610,8.5,1.8,9.7,0.6,3.4,3.34,High,22,Male,Part-time,Cuauhtemoc,No,Yes,No
+1611,8.2,1.5,9.8,1.5,3.0,3.4,High,22,Male,Not working,Iztapalapa,Yes,No,Yes
+1612,10.0,1.0,7.2,3.0,2.8,3.37,High,24,Female,Not working,Iztapalapa,Yes,No,Yes
+1613,6.5,0.1,6.1,1.7,9.6,2.72,Moderate,24,Female,Part-time,Tlalpan,Yes,Yes,No
+1614,9.4,2.8,5.4,3.9,2.5,3.37,High,24,Female,Full-time,Alvaro Obregon,Yes,Yes,Yes
+1615,8.3,3.8,5.0,1.5,5.4,3.43,High,25,Female,Part-time,Cuauhtemoc,Yes,No,No
+1616,5.5,2.1,6.2,1.1,9.1,2.98,Low,25,Female,Full-time,Gustavo A. Madero,No,No,Yes
+1617,9.1,0.5,7.3,5.6,1.5,3.37,High,23,Female,Not working,Azcapotzalco,Yes,Yes,Yes
+1618,5.9,1.3,7.1,1.9,7.8,2.91,Low,23,Male,Full-time,Alvaro Obregon,No,No,No
+1619,6.4,3.9,5.8,4.4,3.5,2.91,High,23,Male,Not working,Benito Juarez,Yes,Yes,No
+1620,5.9,2.6,8.6,4.1,2.8,2.98,Low,23,Male,Full-time,Iztacalco,No,No,Yes
+1621,6.6,1.0,9.8,5.5,1.1,3.23,Moderate,25,Female,Full-time,Tlahuac,Yes,No,Yes
+1622,7.3,1.7,5.8,2.6,6.6,3.07,High,21,Male,Not working,Coyoacan,Yes,Yes,No
+1623,7.7,0.1,7.2,4.7,4.3,3.37,Moderate,22,Male,Part-time,Coyoacan,Yes,No,Yes
+1624,9.5,0.1,7.8,4.7,1.9,3.71,High,22,Male,Not working,Coyoacan,Yes,Yes,No
+1625,7.7,1.3,5.7,5.3,4.0,3.36,High,25,Female,Full-time,Alvaro Obregon,Yes,No,No
+1626,7.9,2.7,9.0,2.9,1.5,3.17,Moderate,25,Male,Full-time,Iztapalapa,No,No,Yes
+1627,7.0,2.1,9.0,2.2,3.7,2.89,Moderate,20,Female,Not working,Iztacalco,Yes,Yes,No
+1628,9.6,0.4,8.2,2.4,3.4,3.4,High,23,Female,Part-time,Miguel Hidalgo,Yes,Yes,No
+1629,7.0,2.7,5.3,3.6,5.4,3.17,High,20,Female,Not working,Iztapalapa,Yes,Yes,No
+1630,5.9,3.6,8.3,5.3,0.9,2.99,Low,23,Male,Full-time,Iztacalco,No,No,Yes
+1631,7.4,2.2,9.6,4.3,0.5,2.77,Moderate,22,Female,Not working,Cuauhtemoc,No,No,Yes
+1632,7.0,1.6,6.4,1.6,7.4,2.97,Moderate,25,Male,Part-time,Milpa Alta,Yes,No,Yes
+1633,9.3,0.3,8.4,1.0,5.0,3.29,High,25,Male,Part-time,Iztapalapa,No,No,No
+1634,6.3,3.1,9.4,1.2,4.0,2.91,Moderate,25,Female,Not working,Milpa Alta,No,Yes,No
+1635,7.3,1.9,9.4,4.1,1.3,3.51,Moderate,23,Female,Full-time,Benito Juarez,No,No,Yes
+1636,9.2,0.0,7.0,5.4,2.4,3.41,High,24,Male,Not working,Venustiano Carranza,No,No,Yes
+1637,8.7,2.2,7.6,1.9,3.6,3.73,High,24,Male,Not working,Miguel Hidalgo,No,No,Yes
+1638,7.1,2.9,9.3,0.7,4.0,3.12,Moderate,24,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+1639,7.3,1.6,8.4,1.5,5.2,3.27,Moderate,21,Male,Not working,Tlalpan,Yes,Yes,Yes
+1640,7.1,3.6,10.0,0.4,2.9,3.13,Moderate,21,Female,Part-time,Benito Juarez,No,No,Yes
+1641,6.2,3.8,9.8,0.4,3.8,3.17,Moderate,23,Male,Part-time,Miguel Hidalgo,Yes,No,No
+1642,5.1,2.4,6.4,5.2,4.9,2.77,Low,20,Female,Not working,Benito Juarez,Yes,No,Yes
+1643,6.4,2.7,8.4,1.3,5.2,2.94,Moderate,25,Male,Full-time,Xochimilco,Yes,No,Yes
+1644,6.4,3.2,9.0,2.5,2.9,2.87,Moderate,21,Male,Not working,Coyoacan,No,Yes,Yes
+1645,8.0,2.4,9.1,1.9,2.6,3.01,Moderate,24,Female,Part-time,Cuauhtemoc,No,Yes,Yes
+1646,7.7,1.8,7.2,0.5,6.8,2.97,Moderate,22,Female,Not working,Gustavo A. Madero,No,No,Yes
+1647,8.6,0.9,6.0,2.5,6.0,3.38,High,20,Female,Not working,Cuauhtemoc,Yes,No,Yes
+1648,6.9,1.8,7.7,1.2,6.4,2.75,Moderate,23,Female,Full-time,Alvaro Obregon,Yes,No,Yes
+1649,5.8,3.5,7.2,2.5,5.0,2.87,Low,22,Female,Not working,Iztapalapa,Yes,No,No
+1650,7.8,2.2,8.5,1.0,4.5,3.06,Moderate,21,Female,Not working,Alvaro Obregon,No,No,No
+1651,6.3,3.2,9.7,0.7,4.1,2.65,Moderate,24,Male,Full-time,Cuauhtemoc,Yes,No,No
+1652,5.3,1.3,5.7,4.3,7.4,2.79,High,23,Female,Not working,Magdalena Contreras,No,Yes,Yes
+1653,7.7,0.6,5.0,4.8,5.9,3.23,High,22,Female,Part-time,Tlalpan,Yes,Yes,Yes
+1654,6.7,2.3,6.6,0.5,7.9,2.77,Moderate,25,Male,Full-time,Cuajimalpa de Morelos,No,Yes,No
+1655,6.1,0.8,7.1,3.9,6.1,3.4,Moderate,20,Male,Part-time,Tlalpan,Yes,No,No
+1656,9.8,2.4,7.4,2.5,1.9,3.56,High,25,Male,Part-time,Venustiano Carranza,Yes,No,Yes
+1657,9.6,3.3,6.6,1.1,3.4,3.45,High,24,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+1658,8.7,2.0,5.3,4.3,3.7,2.96,High,23,Female,Not working,Magdalena Contreras,Yes,Yes,Yes
+1659,9.0,1.2,8.3,2.3,3.2,3.74,High,20,Female,Not working,Tlalpan,Yes,Yes,No
+1660,9.4,2.0,6.6,4.5,1.5,3.46,High,23,Male,Full-time,Coyoacan,Yes,Yes,Yes
+1661,6.1,1.6,9.3,4.3,2.7,2.65,Moderate,22,Male,Not working,Gustavo A. Madero,No,No,Yes
+1662,6.8,1.1,5.9,4.5,5.7,2.93,High,25,Male,Not working,Xochimilco,Yes,Yes,No
+1663,6.3,1.8,6.9,5.9,3.1,2.8,Moderate,22,Female,Part-time,Tlalpan,No,No,No
+1664,5.4,2.4,8.0,2.5,5.7,2.77,Low,20,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1665,7.2,0.2,7.6,3.0,6.0,2.83,Moderate,22,Female,Not working,Iztapalapa,Yes,No,No
+1666,6.3,0.7,9.8,5.1,2.1,3.03,Moderate,22,Male,Part-time,Cuauhtemoc,No,No,Yes
+1667,6.2,1.3,6.0,3.0,7.5,3.12,Moderate,23,Male,Full-time,Iztapalapa,No,Yes,Yes
+1668,5.8,3.2,9.0,0.8,5.2,2.88,Low,22,Female,Not working,Cuajimalpa de Morelos,No,No,No
+1669,7.0,0.7,6.3,1.6,8.4,2.63,Moderate,24,Female,Full-time,Venustiano Carranza,No,No,Yes
+1670,9.7,0.5,9.9,0.9,3.0,3.72,High,24,Male,Part-time,Gustavo A. Madero,Yes,No,Yes
+1671,8.9,1.4,5.7,5.1,2.9,3.55,High,22,Male,Part-time,Tlalpan,Yes,No,No
+1672,7.8,1.9,7.5,4.4,2.4,2.91,Moderate,25,Male,Not working,Iztapalapa,No,No,No
+1673,5.4,2.7,9.5,0.3,6.1,2.9,Low,23,Female,Part-time,Iztacalco,Yes,Yes,Yes
+1674,7.2,1.6,5.7,3.0,6.5,2.94,High,21,Male,Not working,Coyoacan,Yes,No,No
+1675,5.6,1.9,8.8,1.5,6.2,2.89,Low,22,Male,Not working,Magdalena Contreras,Yes,No,No
+1676,8.4,3.4,7.1,3.9,1.2,3.26,High,25,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1677,5.2,0.5,6.0,2.4,9.9,2.69,Low,24,Male,Not working,Iztapalapa,Yes,No,No
+1678,8.3,2.8,7.9,1.8,3.2,3.44,High,24,Male,Not working,Azcapotzalco,Yes,Yes,Yes
+1679,7.9,1.4,5.4,6.0,3.3,3.11,High,21,Female,Part-time,Miguel Hidalgo,Yes,Yes,No
+1680,8.3,1.3,7.0,1.6,5.8,3.39,High,21,Male,Part-time,Iztapalapa,Yes,Yes,No
+1681,6.7,1.6,8.6,3.1,4.0,3.54,Moderate,22,Male,Full-time,Cuauhtemoc,Yes,No,Yes
+1682,9.6,0.2,7.9,5.1,1.2,3.46,High,25,Male,Not working,Tlalpan,Yes,No,Yes
+1683,6.2,3.5,5.1,4.4,4.8,2.97,High,22,Male,Not working,Venustiano Carranza,Yes,No,Yes
+1684,7.2,0.2,9.6,2.8,4.2,3.19,Moderate,24,Female,Part-time,Gustavo A. Madero,Yes,Yes,No
+1685,5.1,2.8,7.4,0.7,8.0,3.15,Low,20,Female,Part-time,Gustavo A. Madero,No,No,Yes
+1686,7.5,3.3,9.3,2.4,1.5,3.36,Moderate,20,Female,Full-time,Venustiano Carranza,Yes,No,No
+1687,5.1,2.8,7.1,3.4,5.6,2.5,Low,22,Male,Full-time,Xochimilco,No,Yes,Yes
+1688,9.6,0.5,8.4,0.0,5.5,3.7,High,23,Male,Not working,Alvaro Obregon,Yes,No,Yes
+1689,9.6,0.5,5.5,2.0,6.4,3.19,High,23,Male,Part-time,Xochimilco,Yes,No,Yes
+1690,7.9,1.8,5.2,1.9,7.2,3.07,High,23,Female,Part-time,Gustavo A. Madero,Yes,No,No
+1691,9.1,2.8,8.6,2.4,1.1,3.24,High,22,Male,Not working,Benito Juarez,Yes,Yes,Yes
+1692,6.4,3.3,9.9,2.2,2.2,2.9,Moderate,23,Female,Full-time,Tlahuac,No,No,Yes
+1693,5.0,0.6,6.6,3.5,8.3,2.89,Low,23,Female,Part-time,Tlalpan,Yes,No,Yes
+1694,8.9,3.0,8.0,2.6,1.5,3.29,High,22,Female,Full-time,Coyoacan,No,Yes,Yes
+1695,8.2,2.5,7.8,5.4,0.1,3.4,High,21,Male,Not working,Cuauhtemoc,Yes,No,No
+1696,9.4,0.9,5.4,2.9,5.4,3.56,High,22,Female,Not working,Benito Juarez,Yes,No,No
+1697,7.6,3.3,7.2,3.4,2.5,3.03,Moderate,24,Female,Not working,Iztacalco,Yes,Yes,Yes
+1698,8.1,3.3,5.8,3.6,3.2,3.22,High,20,Male,Part-time,Venustiano Carranza,No,Yes,No
+1699,8.0,0.7,5.6,5.9,3.8,2.93,High,22,Female,Part-time,Tlalpan,Yes,Yes,No
+1700,5.9,2.7,8.0,3.9,3.5,2.78,Low,22,Female,Not working,Benito Juarez,Yes,No,Yes
+1701,5.4,3.6,6.9,1.9,6.2,2.35,Low,20,Male,Not working,Milpa Alta,No,No,No
+1702,9.3,3.7,6.5,3.9,0.6,3.24,High,25,Male,Not working,Coyoacan,Yes,Yes,Yes
+1703,8.9,3.7,6.2,3.0,2.2,3.49,High,22,Female,Not working,Alvaro Obregon,No,No,Yes
+1704,5.0,2.3,6.7,1.9,8.1,2.64,Low,23,Male,Not working,Iztacalco,Yes,No,Yes
+1705,8.2,3.4,8.0,3.8,0.6,3.26,High,21,Male,Not working,Gustavo A. Madero,Yes,Yes,Yes
+1706,7.3,0.0,7.8,4.0,4.9,2.75,Moderate,22,Male,Part-time,Iztapalapa,No,No,No
+1707,8.0,2.9,7.9,0.3,4.9,3.25,Moderate,22,Male,Part-time,Gustavo A. Madero,No,No,No
+1708,6.4,0.3,7.1,3.3,6.9,2.77,Moderate,22,Male,Not working,Cuauhtemoc,Yes,Yes,No
+1709,6.6,2.9,8.2,2.0,4.3,3.14,Moderate,22,Male,Part-time,Benito Juarez,No,No,No
+1710,8.2,2.2,5.1,4.2,4.3,3.48,High,21,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+1711,6.9,3.8,9.1,2.5,1.7,2.88,Moderate,23,Female,Part-time,Cuajimalpa de Morelos,No,Yes,Yes
+1712,6.7,1.9,6.5,3.1,5.8,2.87,Moderate,20,Female,Not working,Venustiano Carranza,No,No,Yes
+1713,5.8,3.9,5.5,5.6,3.2,2.88,High,24,Male,Part-time,Benito Juarez,Yes,No,Yes
+1714,8.6,1.7,8.2,1.9,3.6,3.46,High,23,Male,Not working,Miguel Hidalgo,Yes,Yes,No
+1715,6.5,2.3,7.5,3.5,4.2,2.8,Moderate,22,Male,Not working,Cuauhtemoc,No,Yes,No
+1716,5.4,0.2,6.3,0.4,11.7,2.53,Low,23,Female,Full-time,Iztapalapa,No,No,Yes
+1717,5.5,3.3,5.2,4.0,6.0,2.95,High,21,Female,Not working,Tlahuac,Yes,Yes,Yes
+1718,7.4,1.2,7.6,2.3,5.5,3.03,Moderate,22,Female,Part-time,Tlahuac,No,No,No
+1719,7.8,0.5,10.0,2.4,3.3,3.43,Moderate,21,Male,Part-time,Miguel Hidalgo,Yes,No,No
+1720,6.8,3.3,7.3,4.3,2.3,2.83,Moderate,22,Female,Part-time,Iztacalco,Yes,No,No
+1721,5.5,3.4,8.7,1.3,5.1,2.74,Low,22,Male,Not working,Milpa Alta,No,No,Yes
+1722,9.9,1.0,7.3,0.2,5.6,3.32,High,21,Female,Not working,Azcapotzalco,Yes,Yes,Yes
+1723,7.0,2.3,9.8,2.5,2.4,3.09,Moderate,21,Female,Not working,Iztapalapa,No,No,No
+1724,5.2,1.3,7.9,5.7,3.9,3.04,Low,23,Female,Part-time,Tlalpan,Yes,No,No
+1725,9.3,0.9,6.1,1.2,6.5,3.29,High,21,Male,Not working,Iztacalco,Yes,No,No
+1726,7.5,1.9,6.3,3.0,5.3,3.4,Moderate,21,Male,Not working,Iztapalapa,Yes,No,No
+1727,5.2,0.5,9.4,4.5,4.4,2.9,Low,23,Male,Not working,Tlahuac,No,No,Yes
+1728,6.8,3.0,8.9,4.0,1.3,2.49,Moderate,23,Female,Not working,Xochimilco,Yes,No,Yes
+1729,8.6,0.8,6.7,2.8,5.1,3.52,High,22,Female,Not working,Gustavo A. Madero,Yes,Yes,Yes
+1730,6.6,0.6,7.0,5.9,3.9,2.83,Moderate,20,Male,Full-time,Magdalena Contreras,No,Yes,Yes
+1731,6.1,2.4,7.2,0.4,7.9,3.29,Moderate,24,Female,Full-time,Xochimilco,No,No,No
+1732,7.6,3.5,6.4,0.5,6.0,3.12,Moderate,22,Male,Part-time,Miguel Hidalgo,Yes,No,No
+1733,9.7,1.5,7.9,3.9,1.0,3.69,High,25,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1734,5.7,1.2,5.7,4.9,6.5,2.66,High,22,Male,Full-time,Xochimilco,Yes,No,No
+1735,6.1,2.9,9.7,2.8,2.5,2.5,Moderate,24,Male,Full-time,Iztacalco,Yes,Yes,No
+1736,6.6,1.9,8.0,5.9,1.6,3.41,Moderate,20,Female,Not working,Cuajimalpa de Morelos,Yes,No,Yes
+1737,9.7,3.4,9.4,0.7,0.8,3.6,High,22,Male,Not working,Iztapalapa,Yes,Yes,No
+1738,7.0,3.8,7.1,3.6,2.5,3.11,Moderate,22,Male,Part-time,Benito Juarez,Yes,Yes,Yes
+1739,8.5,3.8,6.2,4.1,1.4,2.93,High,25,Female,Not working,Benito Juarez,Yes,No,Yes
+1740,8.9,2.2,8.3,1.5,3.1,3.37,High,22,Female,Not working,Iztacalco,Yes,Yes,No
+1741,7.4,2.5,7.0,1.2,5.9,3.11,Moderate,21,Male,Part-time,Coyoacan,Yes,No,Yes
+1742,8.7,1.6,6.8,2.4,4.5,3.42,High,22,Female,Not working,Iztapalapa,Yes,Yes,No
+1743,7.0,2.2,7.7,3.0,4.1,3.05,Moderate,21,Male,Not working,Coyoacan,Yes,No,No
+1744,5.8,0.5,9.7,3.6,4.4,2.65,Low,22,Male,Full-time,Tlalpan,No,No,Yes
+1745,8.3,1.6,9.5,2.9,1.7,3.12,High,21,Male,Part-time,Gustavo A. Madero,Yes,No,Yes
+1746,9.8,3.3,9.3,0.3,1.3,3.73,High,21,Male,Not working,Azcapotzalco,Yes,No,Yes
+1747,6.4,1.1,6.4,5.1,5.0,2.79,Moderate,24,Female,Part-time,Iztacalco,No,No,Yes
+1748,6.2,3.2,7.8,0.0,6.8,2.8,Moderate,20,Female,Not working,Iztacalco,No,No,No
+1749,7.1,1.6,5.6,4.1,5.6,3.28,High,24,Male,Not working,Iztapalapa,Yes,Yes,Yes
+1750,8.6,0.0,9.8,4.6,1.0,3.48,High,24,Male,Part-time,Alvaro Obregon,Yes,No,Yes
+1751,9.5,0.1,9.7,3.8,0.9,3.57,High,24,Female,Part-time,Xochimilco,Yes,No,No
+1752,9.7,1.8,8.0,2.1,2.4,3.82,High,20,Male,Not working,Benito Juarez,Yes,Yes,Yes
+1753,9.7,0.3,7.5,4.1,2.4,3.53,High,20,Female,Part-time,Magdalena Contreras,Yes,No,No
+1754,9.5,3.8,5.3,2.2,3.2,3.7,High,22,Male,Not working,Gustavo A. Madero,Yes,No,No
+1755,5.1,1.3,7.7,5.5,4.4,2.8,Low,23,Male,Full-time,Milpa Alta,No,No,No
+1756,7.7,1.1,9.5,5.3,0.4,2.99,Moderate,20,Female,Not working,Tlalpan,No,No,Yes
+1757,7.0,3.6,6.9,4.4,2.1,2.84,Moderate,24,Male,Part-time,Tlalpan,Yes,No,Yes
+1758,9.6,1.8,8.7,1.4,2.5,3.43,High,25,Male,Full-time,Alvaro Obregon,No,Yes,Yes
+1759,5.1,0.4,7.5,4.1,6.9,3.01,Low,22,Female,Not working,Tlahuac,No,No,Yes
+1760,8.5,2.8,7.5,4.8,0.4,3.06,High,22,Male,Not working,Azcapotzalco,No,No,No
+1761,7.4,1.8,6.0,1.8,7.0,3.13,Moderate,25,Female,Full-time,Coyoacan,No,No,Yes
+1762,6.2,1.2,8.9,2.0,5.7,2.85,Moderate,23,Female,Full-time,Xochimilco,No,No,Yes
+1763,6.2,0.7,8.9,0.8,7.4,3.02,Moderate,23,Female,Full-time,Gustavo A. Madero,Yes,No,No
+1764,8.4,2.5,9.1,0.2,3.8,2.65,High,23,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+1765,6.5,1.1,5.7,1.7,9.0,3.02,High,20,Female,Part-time,Miguel Hidalgo,Yes,Yes,No
+1766,8.3,1.5,8.6,1.9,3.7,2.86,High,21,Male,Part-time,Iztapalapa,No,Yes,Yes
+1767,6.5,2.2,5.1,0.5,9.7,3.1,High,24,Female,Part-time,Iztapalapa,Yes,No,Yes
+1768,8.6,0.4,9.2,4.2,1.6,3.27,High,21,Male,Part-time,Cuauhtemoc,Yes,Yes,Yes
+1769,8.1,3.3,7.0,1.2,4.4,3.8,High,24,Male,Not working,Iztapalapa,No,No,Yes
+1770,7.7,2.3,9.7,3.9,0.4,3.3,Moderate,23,Male,Not working,Iztapalapa,No,Yes,Yes
+1771,9.4,3.2,9.7,0.2,1.5,3.4,High,21,Female,Not working,Coyoacan,Yes,Yes,No
+1772,9.2,2.0,8.7,0.6,3.5,3.03,High,24,Female,Not working,Azcapotzalco,No,Yes,No
+1773,6.3,2.9,5.8,2.1,6.9,2.78,High,23,Male,Full-time,Benito Juarez,Yes,Yes,Yes
+1774,8.5,1.5,7.8,0.6,5.6,3.02,High,25,Female,Part-time,Tlalpan,Yes,Yes,Yes
+1775,9.0,1.5,8.2,3.8,1.5,3.41,High,23,Male,Part-time,Gustavo A. Madero,No,Yes,Yes
+1776,8.1,1.7,5.9,5.7,2.6,3.17,High,23,Female,Full-time,Gustavo A. Madero,Yes,Yes,Yes
+1777,8.8,0.8,6.7,4.9,2.8,3.53,High,21,Female,Not working,Tlahuac,Yes,No,Yes
+1778,7.2,2.9,6.9,1.3,5.7,3.23,Moderate,25,Female,Part-time,Iztapalapa,Yes,No,No
+1779,8.2,3.9,6.6,2.4,2.9,3.32,High,20,Male,Part-time,Tlalpan,Yes,No,Yes
+1780,9.2,3.0,5.3,6.0,0.5,3.77,High,23,Male,Not working,Benito Juarez,Yes,Yes,Yes
+1781,8.8,3.5,8.3,2.9,0.5,3.26,High,23,Male,Part-time,Xochimilco,Yes,Yes,Yes
+1782,9.4,0.8,5.4,4.7,3.7,3.25,High,23,Female,Full-time,Milpa Alta,Yes,Yes,Yes
+1783,9.2,0.7,9.3,3.3,1.5,3.64,High,23,Male,Part-time,Coyoacan,Yes,No,No
+1784,7.1,0.8,6.4,3.0,6.7,3.08,Moderate,22,Female,Part-time,Gustavo A. Madero,No,Yes,Yes
+1785,7.7,3.2,9.0,2.4,1.7,3.03,Moderate,25,Male,Part-time,Iztapalapa,No,Yes,Yes
+1786,5.3,3.5,5.4,1.5,8.3,2.91,High,24,Male,Not working,Magdalena Contreras,Yes,No,Yes
+1787,8.5,1.6,9.4,1.3,3.2,2.9,High,24,Male,Not working,Tlahuac,Yes,No,No
+1788,7.7,3.5,9.6,0.9,2.3,3.39,Moderate,25,Female,Not working,Iztapalapa,Yes,No,Yes
+1789,7.3,2.2,9.7,4.8,0.0,3.25,Moderate,21,Male,Full-time,Azcapotzalco,Yes,Yes,Yes
+1790,6.9,0.0,5.0,2.8,9.3,2.85,High,22,Male,Not working,Xochimilco,Yes,No,No
+1791,7.4,0.1,8.4,1.8,6.3,2.75,Moderate,23,Female,Not working,Gustavo A. Madero,No,No,No
+1792,5.8,1.6,6.2,3.2,7.2,2.98,Low,20,Female,Not working,Magdalena Contreras,No,Yes,Yes
+1793,6.0,2.0,5.8,4.0,6.2,2.81,High,24,Male,Not working,Venustiano Carranza,Yes,Yes,Yes
+1794,7.3,0.3,8.0,1.6,6.8,3.15,Moderate,22,Female,Part-time,Gustavo A. Madero,Yes,No,Yes
+1795,7.6,2.1,9.6,2.6,2.1,2.78,Moderate,23,Female,Not working,Tlalpan,Yes,Yes,No
+1796,9.7,3.1,6.4,4.1,0.7,3.76,High,23,Male,Part-time,Iztapalapa,Yes,No,Yes
+1797,7.2,3.3,9.1,0.8,3.6,2.87,Moderate,22,Male,Part-time,Miguel Hidalgo,Yes,Yes,No
+1798,6.5,1.2,8.6,1.4,6.3,3.18,Moderate,21,Male,Not working,Iztapalapa,No,No,Yes
+1799,5.0,2.9,5.9,0.6,9.6,2.63,High,23,Female,Part-time,Alvaro Obregon,Yes,No,Yes
+1800,7.4,0.2,9.9,4.3,2.2,2.84,Moderate,21,Male,Part-time,Venustiano Carranza,No,No,No
+1801,6.6,1.3,7.2,3.8,5.1,2.93,Moderate,23,Male,Part-time,Iztapalapa,No,No,Yes
+1802,9.3,1.0,6.9,5.2,1.6,3.32,High,22,Female,Not working,Alvaro Obregon,Yes,No,No
+1803,8.3,1.4,8.4,0.1,5.8,3.23,High,23,Female,Not working,Tlalpan,Yes,Yes,No
+1804,9.1,3.8,9.6,1.4,0.1,3.71,High,23,Male,Part-time,Coyoacan,Yes,No,Yes
+1805,7.6,1.4,7.3,4.1,3.6,3.09,Moderate,22,Male,Part-time,Cuauhtemoc,Yes,Yes,No
+1806,9.6,3.3,9.9,1.1,0.1,3.5,High,23,Female,Not working,Benito Juarez,Yes,No,Yes
+1807,6.4,0.4,5.6,1.7,9.9,3.21,High,24,Female,Full-time,Benito Juarez,Yes,No,No
+1808,9.5,2.5,5.0,1.1,5.9,3.52,High,23,Male,Not working,Azcapotzalco,Yes,Yes,No
+1809,5.5,1.5,7.5,0.3,9.2,2.61,Low,20,Male,Part-time,Alvaro Obregon,No,No,Yes
+1810,8.2,1.9,7.5,2.6,3.8,3.13,High,20,Female,Part-time,Iztapalapa,Yes,No,Yes
+1811,9.8,0.9,7.6,4.2,1.5,3.62,High,22,Male,Part-time,Xochimilco,Yes,No,Yes
+1812,6.9,1.9,5.4,3.7,6.1,3.05,High,20,Male,Not working,Tlalpan,Yes,No,Yes
+1813,6.4,0.6,7.7,3.2,6.1,3.0,Moderate,23,Male,Part-time,Gustavo A. Madero,No,No,No
+1814,8.1,0.8,7.3,4.3,3.5,3.12,High,20,Female,Part-time,Miguel Hidalgo,Yes,No,No
+1815,7.6,1.6,6.6,3.7,4.5,3.18,Moderate,23,Female,Not working,Coyoacan,Yes,Yes,No
+1816,5.4,1.8,9.5,0.6,6.7,2.9,Low,21,Female,Not working,Iztapalapa,No,No,No
+1817,9.9,3.8,5.4,4.6,0.3,3.69,High,20,Male,Not working,Iztapalapa,Yes,No,No
+1818,7.1,1.8,8.2,4.6,2.3,2.98,Moderate,20,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+1819,5.2,2.4,5.9,2.1,8.4,2.69,High,23,Male,Not working,Coyoacan,Yes,No,No
+1820,6.7,0.4,5.7,0.2,11.0,2.58,High,20,Male,Part-time,Milpa Alta,Yes,No,Yes
+1821,7.4,3.8,5.6,5.7,1.5,3.27,High,23,Female,Not working,Iztapalapa,Yes,Yes,No
+1822,8.2,3.3,5.5,3.0,4.0,3.5,High,23,Female,Part-time,Venustiano Carranza,Yes,No,Yes
+1823,8.5,2.3,9.2,0.3,3.7,3.34,High,25,Female,Not working,Benito Juarez,Yes,Yes,Yes
+1824,6.9,1.4,8.1,5.3,2.3,3.42,Moderate,25,Female,Full-time,Iztapalapa,Yes,No,Yes
+1825,7.5,3.3,7.0,0.6,5.6,2.82,Moderate,25,Female,Part-time,Cuauhtemoc,No,No,Yes
+1826,8.6,3.0,5.3,1.3,5.8,3.06,High,21,Male,Not working,Gustavo A. Madero,Yes,No,No
+1827,6.4,2.2,5.7,0.8,8.9,2.89,High,22,Female,Full-time,Xochimilco,No,Yes,No
+1828,6.8,3.2,7.6,0.8,5.6,2.78,Moderate,24,Female,Not working,Xochimilco,No,No,No
+1829,8.7,1.6,6.3,2.3,5.1,2.87,High,22,Female,Full-time,Cuauhtemoc,Yes,Yes,Yes
+1830,6.2,1.6,5.1,4.6,6.5,2.92,High,23,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+1831,5.9,0.2,8.3,4.6,5.0,2.88,Low,20,Male,Not working,Alvaro Obregon,No,No,Yes
+1832,6.0,2.9,8.5,1.5,5.1,3.17,Moderate,23,Male,Full-time,Gustavo A. Madero,Yes,No,Yes
+1833,9.5,0.4,9.9,3.6,0.6,3.5,High,23,Female,Not working,Iztapalapa,Yes,No,No
+1834,8.6,0.8,7.2,0.4,7.0,3.32,High,21,Male,Not working,Benito Juarez,No,No,No
+1835,6.9,3.0,6.9,2.0,5.2,3.23,Moderate,24,Male,Full-time,Tlahuac,No,No,No
+1836,5.2,1.5,5.8,4.2,7.3,2.83,High,21,Female,Part-time,Gustavo A. Madero,Yes,No,Yes
+1837,5.5,2.7,6.4,1.2,8.2,2.75,Low,23,Female,Part-time,Venustiano Carranza,No,No,No
+1838,7.4,2.0,6.6,0.8,7.2,3.1,Moderate,24,Female,Full-time,Iztapalapa,Yes,No,Yes
+1839,6.9,2.7,8.9,2.9,2.6,2.77,Moderate,22,Female,Not working,Xochimilco,No,No,No
+1840,6.4,0.6,6.2,1.3,9.5,3.04,Moderate,22,Female,Part-time,Tlahuac,Yes,Yes,No
+1841,7.6,2.3,9.7,0.9,3.5,3.36,Moderate,24,Female,Part-time,Gustavo A. Madero,Yes,No,No
+1842,7.8,1.0,6.3,0.2,8.7,3.27,Moderate,25,Female,Not working,Xochimilco,Yes,No,No
+1843,6.5,3.0,5.2,1.3,8.0,3.17,High,22,Female,Not working,Alvaro Obregon,Yes,No,Yes
+1844,7.3,2.8,6.9,1.0,6.0,3.24,Moderate,22,Male,Full-time,Xochimilco,Yes,No,No
+1845,7.0,2.3,9.7,0.3,4.7,2.64,Moderate,21,Male,Not working,Venustiano Carranza,No,No,Yes
+1846,7.5,0.1,6.6,4.9,4.9,3.14,Moderate,21,Female,Not working,Tlahuac,No,No,Yes
+1847,7.8,1.8,6.4,1.8,6.2,3.39,Moderate,25,Male,Full-time,Xochimilco,Yes,No,No
+1848,9.8,1.8,7.0,4.6,0.8,3.39,High,20,Female,Not working,Iztapalapa,Yes,No,Yes
+1849,7.1,2.2,6.2,4.5,4.0,3.34,Moderate,21,Male,Full-time,Iztacalco,Yes,No,Yes
+1850,8.9,0.9,8.6,4.5,1.1,3.36,High,20,Male,Not working,Coyoacan,Yes,No,Yes
+1851,6.7,0.7,5.0,2.7,8.9,3.15,High,21,Female,Not working,Miguel Hidalgo,Yes,Yes,No
+1852,5.9,3.4,6.3,1.4,7.0,2.48,Low,23,Male,Not working,Gustavo A. Madero,Yes,No,Yes
+1853,7.4,2.0,6.1,1.6,6.9,3.22,Moderate,22,Male,Part-time,Tlalpan,Yes,Yes,No
+1854,8.9,1.8,8.6,3.5,1.2,3.17,High,22,Male,Not working,Iztapalapa,No,Yes,No
+1855,5.7,3.9,9.1,1.1,4.2,2.81,Low,23,Male,Full-time,Venustiano Carranza,Yes,No,Yes
+1856,5.7,3.0,7.3,4.7,3.3,2.82,Low,23,Male,Full-time,Iztapalapa,No,No,No
+1857,8.7,2.4,8.4,0.1,4.4,3.51,High,20,Female,Not working,Iztapalapa,Yes,Yes,Yes
+1858,5.0,0.1,9.3,4.1,5.5,2.47,Low,23,Male,Part-time,Iztacalco,No,No,No
+1859,6.3,2.8,9.0,1.8,4.1,2.79,Moderate,21,Female,Part-time,Tlahuac,No,No,No
+1860,7.5,3.1,6.1,1.6,5.7,3.07,Moderate,21,Female,Not working,Iztapalapa,Yes,No,No
+1861,6.2,4.0,6.0,3.5,4.3,2.88,Moderate,22,Male,Full-time,Iztapalapa,Yes,No,Yes
+1862,8.2,3.0,9.9,0.5,2.4,3.3,High,21,Male,Part-time,Benito Juarez,Yes,Yes,Yes
+1863,8.8,1.4,5.9,2.5,5.4,3.29,High,20,Female,Part-time,Iztapalapa,Yes,No,No
+1864,7.7,4.0,7.0,3.3,2.0,3.44,Moderate,22,Male,Full-time,Coyoacan,No,No,Yes
+1865,6.8,1.6,8.5,5.6,1.5,3.33,Moderate,23,Male,Part-time,Tlalpan,No,No,Yes
+1866,5.4,0.8,7.5,0.1,10.2,2.86,Low,22,Male,Part-time,Benito Juarez,Yes,No,No
+1867,6.3,2.1,5.1,1.6,8.9,3.49,High,20,Male,Not working,Cuauhtemoc,No,No,No
+1868,9.6,2.6,7.1,4.4,0.3,3.54,High,23,Male,Not working,Magdalena Contreras,Yes,No,Yes
+1869,8.9,0.8,5.7,4.1,4.5,3.62,High,24,Female,Full-time,Iztapalapa,Yes,No,Yes
+1870,8.7,2.5,9.9,1.5,1.4,3.36,High,22,Female,Not working,Tlalpan,Yes,Yes,No
+1871,5.6,3.3,6.3,4.7,4.1,2.85,Low,25,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+1872,8.0,1.8,6.8,2.1,5.3,3.23,Moderate,22,Female,Part-time,Iztapalapa,Yes,No,Yes
+1873,8.2,3.0,8.4,0.9,3.5,3.52,High,23,Male,Part-time,Magdalena Contreras,Yes,No,No
+1874,7.4,2.1,8.9,3.7,1.9,3.1,Moderate,22,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1875,7.0,3.6,5.8,6.0,1.6,2.99,High,24,Female,Full-time,Gustavo A. Madero,Yes,No,Yes
+1876,8.6,3.2,9.3,2.9,0.0,3.38,High,23,Male,Not working,Azcapotzalco,Yes,Yes,Yes
+1877,6.5,2.8,5.6,2.4,6.7,2.9,High,24,Female,Part-time,Alvaro Obregon,No,No,Yes
+1878,8.0,2.0,8.2,5.6,0.2,3.4,Moderate,23,Female,Not working,Tlalpan,No,No,No
+1879,5.3,2.3,9.3,2.9,4.2,2.82,Low,24,Male,Part-time,Iztacalco,No,No,Yes
+1880,6.7,0.6,9.2,3.1,4.4,2.85,Moderate,24,Male,Full-time,Azcapotzalco,Yes,Yes,Yes
+1881,9.7,3.2,8.5,0.0,2.6,3.19,High,22,Female,Not working,Tlalpan,Yes,Yes,No
+1882,9.6,0.7,6.4,3.1,4.2,3.38,High,22,Female,Not working,Iztapalapa,Yes,Yes,Yes
+1883,6.3,0.8,8.0,0.5,8.4,2.91,Moderate,20,Male,Not working,Milpa Alta,Yes,Yes,No
+1884,8.6,2.2,7.1,3.4,2.7,3.18,High,24,Female,Full-time,Gustavo A. Madero,Yes,Yes,No
+1885,6.8,3.7,5.3,4.0,4.2,3.04,High,23,Female,Part-time,Magdalena Contreras,Yes,Yes,No
+1886,5.9,1.2,8.6,0.5,7.8,2.92,Low,21,Female,Part-time,Benito Juarez,No,No,No
+1887,9.1,2.9,8.6,0.3,3.1,3.56,High,23,Female,Not working,Iztapalapa,Yes,No,No
+1888,9.2,0.2,5.1,2.2,7.3,3.61,High,25,Female,Not working,Xochimilco,Yes,No,No
+1889,5.7,2.2,9.6,2.3,4.2,2.98,Low,23,Female,Part-time,Tlalpan,No,No,Yes
+1890,5.5,2.4,7.3,5.6,3.2,2.77,Low,24,Female,Full-time,Cuauhtemoc,Yes,No,No
+1891,5.6,0.8,5.1,2.6,9.9,2.97,High,24,Male,Full-time,Cuauhtemoc,Yes,No,No
+1892,8.0,2.5,7.7,0.5,5.3,3.12,Moderate,23,Male,Not working,Magdalena Contreras,No,No,No
+1893,7.2,4.0,9.2,3.2,0.4,2.95,Moderate,24,Male,Not working,Benito Juarez,Yes,No,Yes
+1894,7.4,2.7,9.4,3.4,1.1,3.04,Moderate,22,Male,Not working,Gustavo A. Madero,No,Yes,Yes
+1895,9.7,0.2,5.1,4.0,5.0,3.25,High,22,Male,Part-time,Milpa Alta,Yes,Yes,No
+1896,6.7,1.1,7.6,2.6,6.0,2.83,Moderate,20,Female,Full-time,Coyoacan,Yes,No,Yes
+1897,7.6,2.7,6.9,1.5,5.3,3.05,Moderate,22,Female,Part-time,Coyoacan,Yes,Yes,No
+1898,8.7,3.0,8.3,0.9,3.1,3.1,High,22,Female,Not working,Venustiano Carranza,Yes,No,Yes
+1899,7.9,2.3,7.4,3.3,3.1,3.75,Moderate,22,Male,Part-time,Azcapotzalco,Yes,No,Yes
+1900,8.6,0.4,8.7,0.8,5.5,3.22,High,22,Male,Not working,Cuauhtemoc,Yes,Yes,Yes
+1901,5.3,3.9,9.8,0.3,4.7,2.53,Low,20,Female,Not working,Iztapalapa,No,No,No
+1902,7.4,3.3,9.8,2.2,1.3,3.06,Moderate,22,Female,Not working,Magdalena Contreras,No,No,No
+1903,6.8,2.4,6.6,5.5,2.7,3.05,Moderate,24,Female,Part-time,Benito Juarez,Yes,No,Yes
+1904,6.6,1.2,5.2,4.9,6.1,3.2,High,24,Female,Full-time,Milpa Alta,Yes,No,Yes
+1905,7.3,1.3,7.4,4.9,3.1,2.83,Moderate,22,Male,Part-time,Iztapalapa,Yes,No,Yes
+1906,6.9,1.3,5.9,3.6,6.3,2.94,High,24,Female,Not working,Azcapotzalco,Yes,No,Yes
+1907,7.4,3.5,5.2,3.9,4.0,3.26,High,22,Female,Not working,Cuauhtemoc,Yes,Yes,No
+1908,9.4,2.9,9.6,0.7,1.4,3.57,High,23,Female,Full-time,Cuauhtemoc,Yes,Yes,No
+1909,7.5,0.1,5.0,1.4,10.0,3.07,High,23,Female,Not working,Iztapalapa,Yes,No,No
+1910,5.9,0.1,9.5,0.0,8.5,2.79,Low,22,Female,Part-time,Coyoacan,No,No,Yes
+1911,8.7,0.6,9.6,4.6,0.5,3.57,High,20,Male,Full-time,Xochimilco,Yes,No,No
+1912,5.0,3.9,9.4,5.1,0.6,2.98,Low,20,Female,Full-time,Alvaro Obregon,No,No,Yes
+1913,8.3,1.4,9.5,1.4,3.4,3.06,High,23,Male,Not working,Iztapalapa,No,No,Yes
+1914,9.6,0.6,6.1,3.3,4.4,3.47,High,21,Male,Not working,Venustiano Carranza,Yes,No,No
+1915,8.8,2.5,6.2,0.0,6.5,3.29,High,24,Male,Not working,Coyoacan,Yes,Yes,Yes
+1916,9.5,1.6,7.6,2.5,2.8,3.7,High,25,Female,Part-time,Azcapotzalco,Yes,No,Yes
+1917,7.2,3.1,7.6,1.9,4.2,2.79,Moderate,24,Female,Not working,Xochimilco,Yes,No,No
+1918,5.7,2.6,8.4,4.5,2.8,2.94,Low,22,Male,Not working,Tlalpan,No,No,Yes
+1919,7.5,3.6,9.7,2.6,0.6,2.84,Moderate,24,Male,Full-time,Xochimilco,No,Yes,No
+1920,9.9,1.1,6.0,2.7,4.3,3.68,High,25,Female,Not working,Tlahuac,No,Yes,No
+1921,5.3,3.9,7.9,3.3,3.6,2.79,Low,22,Male,Part-time,Gustavo A. Madero,No,No,Yes
+1922,5.2,2.4,8.6,2.5,5.3,3.21,Low,24,Female,Full-time,Iztapalapa,No,No,No
+1923,8.8,0.9,6.1,1.0,7.2,3.53,High,23,Female,Not working,Iztacalco,Yes,Yes,No
+1924,9.1,1.5,7.9,4.0,1.5,3.29,High,23,Female,Full-time,Alvaro Obregon,No,No,Yes
+1925,6.2,0.7,9.9,3.7,3.5,2.73,Moderate,21,Female,Not working,Tlalpan,No,Yes,No
+1926,6.3,2.0,6.6,1.0,8.1,3.09,Moderate,22,Male,Part-time,Tlalpan,No,Yes,Yes
+1927,6.3,0.1,8.5,3.0,6.1,2.99,Moderate,21,Female,Not working,Magdalena Contreras,Yes,No,No
+1928,5.5,3.0,5.1,1.5,8.9,2.66,High,22,Male,Not working,Gustavo A. Madero,Yes,Yes,No
+1929,9.5,2.9,5.4,4.9,1.3,3.67,High,21,Female,Part-time,Iztapalapa,Yes,No,No
+1930,8.0,2.7,10.0,0.8,2.5,3.2,Moderate,24,Female,Part-time,Iztapalapa,No,No,No
+1931,8.1,1.8,5.2,0.1,8.8,3.28,High,21,Male,Not working,Gustavo A. Madero,No,No,No
+1932,7.8,2.2,5.2,2.8,6.0,3.0,High,21,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+1933,9.6,1.6,8.1,3.7,1.0,3.46,High,23,Female,Part-time,Cuauhtemoc,Yes,No,Yes
+1934,9.3,1.6,9.4,0.9,2.8,3.69,High,22,Female,Not working,Gustavo A. Madero,Yes,No,Yes
+1935,6.4,0.2,9.0,2.5,5.9,2.81,Moderate,22,Male,Part-time,Cuauhtemoc,No,Yes,No
+1936,9.5,3.3,7.8,2.1,1.3,3.28,High,24,Male,Not working,Benito Juarez,No,No,Yes
+1937,7.4,1.6,9.6,0.7,4.7,2.75,Moderate,22,Female,Full-time,Gustavo A. Madero,Yes,Yes,No
+1938,7.5,1.8,7.6,0.8,6.3,2.93,Moderate,25,Male,Part-time,Venustiano Carranza,No,No,Yes
+1939,7.6,1.0,5.9,0.4,9.1,3.06,High,21,Female,Part-time,Tlalpan,Yes,No,Yes
+1940,8.1,2.9,8.4,2.2,2.4,3.52,High,20,Male,Not working,Benito Juarez,Yes,No,Yes
+1941,6.9,1.5,8.2,3.0,4.4,2.99,Moderate,23,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1942,8.2,1.2,5.1,5.3,4.2,3.19,High,23,Male,Not working,Miguel Hidalgo,Yes,No,Yes
+1943,6.1,3.7,8.6,4.3,1.3,2.79,Moderate,25,Male,Full-time,Iztapalapa,No,No,Yes
+1944,7.6,0.7,6.5,1.9,7.3,3.0,Moderate,21,Female,Not working,Xochimilco,Yes,No,No
+1945,5.8,0.8,8.9,1.0,7.5,2.89,Low,23,Female,Part-time,Alvaro Obregon,No,No,No
+1946,9.9,1.3,5.6,3.4,3.8,3.43,High,21,Male,Not working,Azcapotzalco,Yes,No,No
+1947,9.5,3.1,8.1,1.0,2.3,3.25,High,23,Male,Part-time,Gustavo A. Madero,No,Yes,No
+1948,8.4,2.9,9.8,0.8,2.1,3.28,High,24,Male,Not working,Tlalpan,Yes,No,Yes
+1949,5.1,2.2,8.5,4.7,3.5,2.64,Low,23,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1950,7.6,1.3,9.3,2.7,3.1,2.98,Moderate,21,Female,Not working,Iztacalco,Yes,Yes,No
+1951,9.0,2.3,8.9,1.3,2.5,3.24,High,23,Female,Part-time,Alvaro Obregon,Yes,No,No
+1952,7.7,0.9,7.4,1.9,6.1,3.31,Moderate,25,Male,Full-time,Tlahuac,Yes,No,Yes
+1953,6.3,3.9,5.8,4.7,3.3,2.73,High,24,Female,Not working,Cuauhtemoc,Yes,No,Yes
+1954,5.2,1.6,9.7,0.1,7.4,2.95,Low,22,Male,Full-time,Benito Juarez,No,No,Yes
+1955,7.9,2.0,9.4,0.4,4.3,3.42,Moderate,21,Male,Not working,Coyoacan,No,No,No
+1956,8.3,3.8,9.1,0.1,2.7,3.48,High,23,Female,Full-time,Miguel Hidalgo,Yes,Yes,Yes
+1957,7.4,1.6,6.6,2.7,5.7,2.88,Moderate,24,Female,Full-time,Gustavo A. Madero,No,Yes,Yes
+1958,9.9,0.4,9.6,2.0,2.1,3.09,High,23,Female,Not working,Coyoacan,Yes,Yes,Yes
+1959,8.1,3.3,6.8,2.5,3.3,2.86,High,21,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1960,9.6,3.3,5.5,0.6,5.0,3.19,High,21,Female,Part-time,Iztacalco,Yes,No,Yes
+1961,7.1,0.4,8.1,0.9,7.5,3.02,Moderate,24,Female,Full-time,Gustavo A. Madero,No,Yes,No
+1962,6.6,2.7,7.4,5.9,1.4,2.99,Moderate,22,Female,Full-time,Alvaro Obregon,No,Yes,Yes
+1963,9.4,1.4,5.2,5.1,2.9,3.59,High,21,Female,Part-time,Coyoacan,Yes,No,Yes
+1964,9.5,0.9,9.5,1.3,2.8,3.24,High,21,Female,Part-time,Iztapalapa,Yes,No,No
+1965,9.9,1.1,9.8,0.2,3.0,3.54,High,23,Male,Part-time,Coyoacan,No,No,Yes
+1966,7.4,0.9,8.5,1.1,6.1,3.48,Moderate,23,Female,Not working,Iztapalapa,Yes,No,No
+1967,7.8,1.0,9.8,0.2,5.2,3.04,Moderate,22,Male,Not working,Coyoacan,No,No,No
+1968,7.1,0.9,7.5,5.2,3.3,2.92,Moderate,23,Male,Part-time,Miguel Hidalgo,Yes,No,No
+1969,8.6,2.3,5.4,4.2,3.5,3.38,High,22,Male,Not working,Alvaro Obregon,Yes,Yes,No
+1970,6.3,1.7,6.8,5.2,4.0,2.84,Moderate,21,Female,Full-time,Tlalpan,Yes,No,Yes
+1971,5.6,2.3,5.7,4.2,6.2,2.81,High,24,Female,Not working,Alvaro Obregon,Yes,Yes,Yes
+1972,7.4,3.7,7.6,2.6,2.7,3.29,Moderate,22,Male,Not working,Cuauhtemoc,Yes,No,Yes
+1973,7.9,2.8,5.5,4.9,2.9,3.03,High,22,Female,Not working,Magdalena Contreras,Yes,No,Yes
+1974,8.9,1.5,5.5,3.8,4.3,3.31,High,25,Female,Part-time,Tlalpan,No,No,Yes
+1975,9.4,3.6,9.8,1.0,0.2,3.32,High,24,Female,Part-time,Xochimilco,Yes,No,Yes
+1976,8.0,2.4,6.8,5.4,1.4,3.42,Moderate,23,Female,Full-time,Magdalena Contreras,No,No,Yes
+1977,7.5,1.9,10.0,2.3,2.3,3.14,Moderate,20,Female,Full-time,Miguel Hidalgo,No,No,Yes
+1978,9.1,3.1,8.9,2.1,0.8,3.1,High,24,Male,Full-time,Tlalpan,No,Yes,Yes
+1979,6.3,3.4,9.5,0.9,3.9,2.97,Moderate,22,Male,Full-time,Cuauhtemoc,Yes,Yes,Yes
+1980,8.2,2.2,5.3,4.5,3.8,3.43,High,22,Female,Part-time,Xochimilco,Yes,Yes,No
+1981,7.5,2.6,7.5,3.0,3.4,3.02,Moderate,20,Female,Part-time,Tlalpan,Yes,No,Yes
+1982,5.8,0.8,9.9,0.9,6.6,2.71,Low,25,Male,Not working,Coyoacan,No,No,Yes
+1983,6.3,2.4,8.1,0.9,6.3,3.07,Moderate,21,Male,Part-time,Gustavo A. Madero,No,No,Yes
+1984,6.2,1.2,9.7,5.0,1.9,3.06,Moderate,25,Male,Full-time,Coyoacan,Yes,Yes,No
+1985,8.5,0.3,7.1,3.4,4.7,3.23,High,23,Female,Part-time,Venustiano Carranza,Yes,Yes,Yes
+1986,8.0,1.3,8.9,4.9,0.9,2.93,Moderate,21,Female,Not working,Gustavo A. Madero,No,No,Yes
+1987,6.6,3.4,5.5,5.0,3.5,2.9,High,23,Female,Part-time,Tlahuac,Yes,No,Yes
+1988,9.5,1.5,6.4,3.0,3.6,3.86,High,21,Male,Part-time,Iztacalco,Yes,Yes,No
+1989,7.3,1.4,8.5,4.6,2.2,3.28,Moderate,21,Female,Not working,Alvaro Obregon,Yes,No,No
+1990,7.0,2.7,7.4,6.0,0.9,2.85,Moderate,22,Male,Full-time,Alvaro Obregon,No,No,No
+1991,8.6,3.8,9.2,2.2,0.2,3.26,High,22,Female,Part-time,Iztapalapa,Yes,Yes,Yes
+1992,6.3,1.5,5.1,3.1,8.0,3.21,High,21,Female,Not working,Cuajimalpa de Morelos,No,No,Yes
+1993,7.5,2.1,9.9,4.1,0.4,3.04,Moderate,23,Male,Part-time,Magdalena Contreras,Yes,No,Yes
+1994,7.1,1.4,9.0,3.1,3.4,2.85,Moderate,23,Female,Not working,Coyoacan,Yes,No,Yes
+1995,7.9,3.4,9.0,0.5,3.2,3.08,Moderate,24,Female,Not working,Cuauhtemoc,Yes,Yes,No
+1996,6.5,0.2,7.4,2.1,7.8,3.32,Moderate,21,Female,Not working,Venustiano Carranza,Yes,No,Yes
+1997,6.3,2.8,8.8,1.5,4.6,2.65,Moderate,22,Female,Part-time,Gustavo A. Madero,No,No,No
+1998,6.2,0.0,6.2,0.8,10.8,3.14,Moderate,21,Female,Part-time,Iztapalapa,Yes,Yes,No
+1999,8.1,0.7,7.6,3.5,4.1,3.04,High,24,Female,Not working,Alvaro Obregon,Yes,Yes,No
+2000,9.0,1.7,7.3,3.1,2.9,3.58,High,24,Male,Part-time,Cuauhtemoc,Yes,Yes,No

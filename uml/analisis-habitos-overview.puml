@@ -1,0 +1,200 @@
+@startuml
+title Arquitectura general - AnalisisHabitos
+
+' ============================
+' Paquete de aplicación / entrada
+' ============================
+package "proyecto.app" {
+    class MainApp
+}
+
+' ============================
+' Paquete de menú / consola
+' ============================
+package "proyecto.core.menu" {
+    class CsvMenu
+}
+
+package "proyecto.core.menu.steps" {
+    class ModeSelector
+    class FilePathPrompter
+    class ColumnSelectionPrompter
+    class FilterPrompter
+    class ConcurrencyPrompter
+}
+
+package "proyecto.core.menu.util" {
+    package "proyecto.core.menu.util" {
+        class ConsolePrompts {
+            +askContinue(scanner: Scanner): boolean
+        }
+    }
+
+    class CsvHeaderReader
+    class CsvOperationRunner
+    class HeaderPrinter
+}
+
+' ============================
+' Procesamiento común
+' ============================
+package "proyecto.core.csv.processor.common" {
+    abstract class BaseCsvProcessor
+    class CsvProcessingContext
+}
+
+package "proyecto.core.csv.processor.common.config" {
+    class CsvProcessorConfig
+}
+
+package "proyecto.core.csv.processor.common.util" {
+    class CsvUtils
+    class FileValidator
+    class TimeLogger
+}
+
+' ============================
+' Procesamiento secuencial
+' ============================
+package "proyecto.core.csv.processor.secuential" {
+    class CsvSequentialProcessor
+}
+
+package "proyecto.core.csv.processor.secuential.processor" {
+    class CsvSequentialProcessorImpl
+}
+
+package "proyecto.core.csv.processor.secuential.processor.lines" {
+    class SequentialLineProcessor
+    class RowStats
+}
+
+package "proyecto.core.csv.processor.secuential.processor.report" {
+    class SequentialSummaryReporter
+}
+
+package "proyecto.core.csv.processor.secuential.util" {
+    class CsvHeaderWriter
+}
+
+' ============================
+' Procesamiento concurrente
+' ============================
+package "proyecto.core.csv.processor.concurrent" {
+    class CsvConcurrentProcessor
+}
+
+package "proyecto.core.csv.processor.concurrent.manager" {
+    class CsvManager
+}
+
+package "proyecto.core.csv.processor.concurrent.manager.execution" {
+    class ConcurrentPartProcessor
+}
+
+package "proyecto.core.csv.processor.concurrent.manager.report" {
+    class ConcurrentSummaryReporter
+}
+
+package "proyecto.core.csv.processor.concurrent.manager.temp" {
+    class TempDirectoryFactory
+}
+
+package "proyecto.core.csv.processor.concurrent.split" {
+    class CsvSplitter
+    class CsvSplitResult
+}
+
+package "proyecto.core.csv.processor.concurrent.util" {
+    class CleanupDirectory
+    class CsvLog
+    class CsvOutput
+    class NumPartsResolver
+}
+
+package "proyecto.core.csv.processor.concurrent.worker" {
+    class CsvWorker
+}
+
+' ============================
+' Filtros
+' ============================
+package "proyecto.core.csv.filters" {
+    interface CsvRowFilter
+    class CsvFilterCondition
+}
+
+package "proyecto.core.csv.filters.type" {
+    class CsvAndFilter
+    class CsvOrFilter
+    class CsvFilterExpressionParser
+}
+
+package "proyecto.core.csv.filters.util" {
+    class ColumnIndexResolver
+    class CsvAndGroupBuilder
+    class CsvFilterConditionFactory
+    class CsvFilterNumberUtils
+    class CsvFilterStringUtils
+}
+
+' ============================
+' Relaciones principales
+' ============================
+
+' App -> menú
+MainApp --> CsvMenu
+
+' Menú usa utilidades y pasos
+CsvMenu --> CsvOperationRunner
+CsvOperationRunner --> ModeSelector
+CsvOperationRunner --> FilePathPrompter
+CsvOperationRunner --> ColumnSelectionPrompter
+CsvOperationRunner --> FilterPrompter
+CsvOperationRunner --> ConcurrencyPrompter
+CsvOperationRunner --> CsvHeaderReader
+CsvOperationRunner --> HeaderPrinter
+CsvOperationRunner --> ConsolePrompts
+
+' Menú -> procesadores
+CsvOperationRunner --> CsvSequentialProcessor
+CsvOperationRunner --> CsvConcurrentProcessor
+
+' Procesadores -> comunes
+CsvSequentialProcessor -down-|> BaseCsvProcessor
+CsvConcurrentProcessor -down-|> BaseCsvProcessor
+
+CsvSequentialProcessor --> CsvSequentialProcessorImpl
+CsvSequentialProcessorImpl --> CsvProcessingContext
+CsvSequentialProcessorImpl --> CsvHeaderWriter
+CsvSequentialProcessorImpl --> SequentialLineProcessor
+CsvSequentialProcessorImpl --> SequentialSummaryReporter
+
+CsvConcurrentProcessor --> CsvManager
+CsvManager --> CsvSplitter
+CsvManager --> ConcurrentPartProcessor
+CsvManager --> CsvOutput
+CsvManager --> CleanupDirectory
+CsvManager --> NumPartsResolver
+CsvManager --> TempDirectoryFactory
+
+ConcurrentPartProcessor --> CsvWorker
+
+' Contexto y filtros
+BaseCsvProcessor --> CsvProcessingContext
+BaseCsvProcessor --> CsvUtils
+BaseCsvProcessor --> CsvProcessorConfig
+
+CsvProcessingContext --> CsvRowFilter
+
+CsvFilterExpressionParser --> CsvAndGroupBuilder
+CsvAndGroupBuilder --> CsvFilterConditionFactory
+CsvFilterConditionFactory --> ColumnIndexResolver
+CsvFilterConditionFactory --> CsvFilterNumberUtils
+CsvFilterCondition --> CsvFilterStringUtils
+
+CsvAndFilter ..|> CsvRowFilter
+CsvOrFilter ..|> CsvRowFilter
+CsvFilterCondition ..|> CsvRowFilter
+
+@enduml
