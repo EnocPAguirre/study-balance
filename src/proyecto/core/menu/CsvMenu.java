@@ -1,13 +1,10 @@
 package proyecto.core.menu;
 
 import proyecto.core.csv.processor.common.config.CsvProcessorConfig;
-import proyecto.core.csv.processor.concurrent.CsvConcurrentProcessor;
+import proyecto.core.csv.processor.concurrent.parts.CsvConcurrentProcessorInParts;
 import proyecto.core.csv.processor.secuential.CsvSequentialProcessor;
 import proyecto.core.csv.processor.common.util.CsvUtils;
-import proyecto.core.menu.util.ConsolePrompts;
-import proyecto.core.menu.util.CsvHeaderReader;
 import proyecto.core.menu.util.CsvOperationRunner;
-import proyecto.core.menu.util.HeaderPrinter;
 
 import java.util.Scanner;
 
@@ -20,11 +17,10 @@ import java.util.Scanner;
  *     <li>Ejecuta el flujo de procesamiento una vez por iteración
  *         mediante {@link CsvOperationRunner#runOnce(Scanner)}.</li>
  *     <li>Pregunta al usuario si desea continuar usando
- *         {@link ConsolePrompts#askContinue(Scanner)}.</li>
  *     <li>Finaliza cuando el usuario decide no continuar.</li>
  * </ul>
  * Aunque importa varias clases de procesamiento
- * ({@link CsvSequentialProcessor}, {@link CsvConcurrentProcessor},
+ * ({@link CsvSequentialProcessor}, {@link CsvConcurrentProcessorInParts},
  * {@link CsvProcessorConfig}, {@link CsvUtils}, etc.), la lógica
  * concreta de procesamiento se delega a las clases utilitarias del
  * paquete {@code proyecto.core.menu.util}.
@@ -66,8 +62,7 @@ public class CsvMenu {
      *     <ol>
      *         <li>Ejecuta una operación de procesamiento de CSV
      *             con {@link CsvOperationRunner#runOnce(Scanner)}.</li>
-     *         <li>Pregunta al usuario si desea realizar otra operación
-     *             con {@link ConsolePrompts#askContinue(Scanner)}.</li>
+     *
      *     </ol>
      *     </li>
      *     <li>Muestra un mensaje de despedida.</li>
@@ -79,11 +74,8 @@ public class CsvMenu {
         System.out.println("========================================");
         System.out.println();
 
-        boolean continuar = true;
-        while (continuar) {
-            CsvOperationRunner.runOnce(scanner);
-            continuar = ConsolePrompts.askContinue(scanner);
-        }
+        CsvOperationRunner.runOnce(scanner);
+
 
         System.out.println("Saliendo de la aplicación. ¡Hasta luego!");
     }

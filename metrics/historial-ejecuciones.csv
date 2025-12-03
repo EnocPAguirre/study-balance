@@ -1,0 +1,8 @@
+fecha_hora,modo,entrada,salida,tiempo_ms,tiempo_s
+2025-12-02 13:28:50,SECUENCIAL,students.csv,salida.csv,0.02,0.00
+2025-12-02 13:31:59,CONCURRENTE,students.csv,salidaconcurrente.csv,0.07,0.00
+2025-12-02 18:40:43,CONCURRENTE EN MEMORIA,students.csv,peroo.csv,0.03,0.00
+2025-12-02 18:53:28,SECUENCIAL,students.csv,salida.csv,0.02,0.00
+2025-12-02 18:56:26,SECUENCIAL,students.csv,salida1.csv,0.02,0.00
+2025-12-02 18:57:51,SECUENCIAL,110M.csv,salida3.csv,36.01,0.04
+2025-12-02 18:59:32,CONCURRENCIA LENTO,110M.csv,salida4.csv,46.22,0.05

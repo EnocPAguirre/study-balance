@@ -27,7 +27,6 @@ public final class FilterPrompter {
      * Esta clase solo contiene métodos estáticos.
      */
     private FilterPrompter() {
-        // Evita la instanciación
     }
 
     /**
@@ -37,9 +36,10 @@ public final class FilterPrompter {
      * Flujo:
      * <ol>
      *     <li>Pregunta si se desea aplicar filtro (opciones 1 = Sí, 2 = No).</li>
-     *     <li>Si el usuario no elige la opción {@code "1"}, se asume que no hay filtro
+     *     <li>Valida que la opción sea 1 o 2; en caso contrario, repite la pregunta.</li>
+     *     <li>Si el usuario elige la opción {@code "2"}, se asume que no hay filtro
      *         y se devuelve {@code null}.</li>
-     *     <li>Si el usuario elige aplicar filtro, se muestran las instrucciones y
+     *     <li>Si el usuario elige aplicar filtro ({@code "1"}), se muestran las instrucciones y
      *         ejemplos de expresiones válidas.</li>
      *     <li>Se lee la expresión escrita por el usuario:
      *         <ul>
@@ -65,17 +65,33 @@ public final class FilterPrompter {
      */
     public static String askFilterExpression(Scanner scanner, String[] headerCols) {
         System.out.println();
-        System.out.println("¿Desea aplicar un filtro sobre las filas?");
-        System.out.println("  1) Sí");
-        System.out.println("  2) No");
-        System.out.print("Opción (1/2): ");
-        String option = scanner.nextLine().trim();
 
-        if (!"1".equals(option)) {
+        String option;
+        while (true) {
+            System.out.println("¿Desea aplicar un filtro sobre las filas?");
+            System.out.println("  1) Sí");
+            System.out.println("  2) No");
+            System.out.print("Opción (1/2): ");
+
+            option = scanner.nextLine().trim();
+
+            if ("1".equals(option) || "2".equals(option)) {
+                // Entrada válida, salimos del bucle
+                break;
+            }
+
+            System.out.println();
+            System.out.println("⚠ Opción inválida. Escribe 1 o 2 y presiona Enter.");
+            System.out.println();
+        }
+
+        // Si eligió NO (2), no hay filtro
+        if ("2".equals(option)) {
             System.out.println("No se aplicará filtro (se incluyen todas las filas).");
             return null;
         }
 
+        // Aquí solo llegas si eligió "1"
         System.out.println();
         System.out.println("Escriba una expresión usando los NOMBRES de columna tal como aparecen arriba.");
         System.out.println("Operadores permitidos: <, >, =, !=, <=, >= y conectores AND / OR.");

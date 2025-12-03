@@ -4,7 +4,8 @@ package proyecto.core.menu.util;
 
 import proyecto.core.csv.processor.common.config.CsvProcessorConfig;
 import proyecto.core.csv.processor.common.util.CsvUtils;
-import proyecto.core.csv.processor.concurrent.CsvConcurrentProcessor;
+import proyecto.core.csv.processor.concurrent.memory.CsvConcurrentProcessorInMemory;
+import proyecto.core.csv.processor.concurrent.parts.CsvConcurrentProcessorInParts;
 import proyecto.core.csv.processor.secuential.CsvSequentialProcessor;
 import proyecto.core.menu.steps.*;
 
@@ -40,7 +41,7 @@ public final class CsvOperationRunner {
     public static void runOnce(Scanner scanner) {
         int mode = ModeSelector.askMode(scanner);
 
-        String inputPath = FilePathPrompter.askInputPath(scanner, "student.csv");
+        String inputPath = FilePathPrompter.askInputPath(scanner, "students.csv");
 
         String headerLine = CsvHeaderReader.readHeaderLine(inputPath);
         if (headerLine == null) {
@@ -58,7 +59,7 @@ public final class CsvOperationRunner {
         String outputPath = FilePathPrompter.askOutputPath(scanner, "output.csv");
 
         Integer parts = null;
-        if (mode == 2) {
+        if (mode == 2 || mode == 3) {
             parts = ConcurrencyPrompter.askNumParts(scanner);
         }
 
@@ -69,10 +70,14 @@ public final class CsvOperationRunner {
             System.out.println();
             System.out.println("=== Procesamiento SECUENCIAL ===");
             new CsvSequentialProcessor().process(config);
-        } else {
+        } else if (mode == 2) {
             System.out.println();
             System.out.println("=== Procesamiento CONCURRENTE (Manager-Worker) ===");
-            new CsvConcurrentProcessor().process(config);
+            new CsvConcurrentProcessorInParts().process(config);
+        } else {
+            System.out.println();
+            System.out.println("=== Procesamiento CONCURRENTE RAPIDO (Manager-Worker) ===");
+            new CsvConcurrentProcessorInMemory().process(config);
         }
 
         System.out.println();

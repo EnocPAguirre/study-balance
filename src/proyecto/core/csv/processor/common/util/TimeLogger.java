@@ -1,5 +1,7 @@
 package proyecto.core.csv.processor.common.util;
 
+import proyecto.core.csv.metrics.ExecutionLogger;
+
 import java.io.File;
 
 /**
@@ -42,8 +44,18 @@ public final class TimeLogger {
         long durationNs = end - start;
         double ms = durationNs / 1_000_000.0;
         double s = ms / 1000.0;
+        String time = String.format("%.2f ms (%.2f s)", ms, s);
+
+        ExecutionLogger.log(
+                label,
+                inputFile.getName(),
+                outputFile.getName(),
+                s
+        );
+
         System.out.println("[" + label + "] Entrada: " + inputFile.getName()
                 + " | Salida: " + outputFile.getName()
-                + " | Tiempo: " + String.format("%.2f ms (%.2f s)", ms, s));
+                + " | Tiempo: " + time);
     }
+
 }

@@ -39,12 +39,12 @@ public final class ColumnSelectionPrompter {
      *             <li>{@code 2}) Seleccionar columnas específicas.</li>
      *         </ul>
      *     </li>
+     *     <li>Valida que la opción sea 1 o 2; si no lo es, vuelve a preguntar.</li>
      *     <li>Si el usuario elige la opción {@code 2}, se le pide que escriba
      *         los números de columna separados por comas (por ejemplo: {@code 2,7,13}).</li>
      *     <li>Si el usuario no ingresa nada cuando se le piden las columnas,
      *         se asume que se usarán todas las columnas y se devuelve {@code "*" }.</li>
-     *     <li>Para cualquier otra opción (incluyendo la {@code 1} o entradas no válidas),
-     *         se considera que se usarán todas las columnas y se devuelve {@code "*" }.</li>
+     *     <li>Si el usuario elige la opción {@code 1}, se devuelve {@code "*"} directamente.</li>
      * </ol>
      *
      * @param scanner      scanner para leer la entrada del usuario desde la consola.
@@ -57,24 +57,40 @@ public final class ColumnSelectionPrompter {
      */
     public static String askColumnsSpec(Scanner scanner, int totalColumns) {
         System.out.println();
-        System.out.println("¿Desea usar TODAS las columnas o seleccionar algunas?");
-        System.out.println("  1) Todas las columnas");
-        System.out.println("  2) Seleccionar columnas específicas");
-        System.out.print("Opción (1/2): ");
-        String option = scanner.nextLine().trim();
 
-        if ("2".equals(option)) {
-            System.out.println("Escriba los números de columna separados por coma (ejemplo: 2,7,13).");
-            System.out.print("Columnas: ");
-            String cols = scanner.nextLine().trim();
-            if (cols.isEmpty()) {
-                System.out.println("No se ingresó nada, se usarán todas las columnas.");
-                return "*";
+        String option;
+        while (true) {
+            System.out.println("¿Desea usar TODAS las columnas o seleccionar algunas?");
+            System.out.println("  1) Todas las columnas");
+            System.out.println("  2) Seleccionar columnas específicas");
+            System.out.print("Opción (1/2): ");
+
+            option = scanner.nextLine().trim();
+
+            if ("1".equals(option) || "2".equals(option)) {
+                // Opción válida, salimos del bucle
+                break;
             }
-            return cols;
-        } else {
+
+            System.out.println();
+            System.out.println("⚠ Opción inválida. Por favor escribe 1 o 2 y presiona Enter.");
+            System.out.println();
+        }
+
+        // Opción 1: todas las columnas
+        if ("1".equals(option)) {
             System.out.println("Se usarán TODAS las columnas.");
             return "*";
         }
+
+        // Opción 2: seleccionar columnas específicas
+        System.out.println("Escriba los números de columna separados por coma (ejemplo: 2,7,13).");
+        System.out.print("Columnas: ");
+        String cols = scanner.nextLine().trim();
+        if (cols.isEmpty()) {
+            System.out.println("No se ingresó nada, se usarán todas las columnas.");
+            return "*";
+        }
+        return cols;
     }
 }

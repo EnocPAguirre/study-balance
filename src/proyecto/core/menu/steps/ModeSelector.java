@@ -47,10 +47,20 @@ public final class ModeSelector {
             System.out.println("Seleccione el tipo de procesamiento:");
             System.out.println("  1) Secuencial");
             System.out.println("  2) Concurrente (hilos, Manager-Worker)");
-            System.out.print("Opción (1/2): ");
+            System.out.println("  3) Concurrente RAPIDO (hilos, Manager-Worker)");
+            System.out.print("Opción (1/2/3): ");
             String line = scanner.nextLine().trim();
-            if ("1".equals(line)) return 1;
-            if ("2".equals(line)) return 2;
+            switch (line) {
+                case "1" -> {
+                    return 1;
+                }
+                case "2" -> {
+                    return 2;
+                }
+                case "3" -> {
+                    return 3;
+                }
+            }
             System.out.println("Opción inválida. Intente de nuevo.");
         }
     }

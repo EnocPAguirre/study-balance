@@ -3,9 +3,9 @@ package proyecto.core.csv.processor.secuential.processor;
 import proyecto.core.csv.processor.common.processor.BaseCsvProcessor;
 import proyecto.core.csv.processor.common.processor.CsvProcessingContext;
 import proyecto.core.csv.processor.common.util.FileValidator;
+import proyecto.core.csv.processor.common.util.SummaryReporter;
 import proyecto.core.csv.processor.secuential.processor.lines.SequentialLineProcessor;
 import proyecto.core.csv.processor.secuential.processor.lines.RowStats;
-import proyecto.core.csv.processor.secuential.processor.report.SequentialSummaryReporter;
 import proyecto.core.csv.processor.secuential.util.CsvHeaderWriter;
 
 import java.io.BufferedReader;
@@ -30,7 +30,6 @@ import java.io.IOException;
  *     <li>Procesa todas las líneas de datos delegando en
  *         {@link SequentialLineProcessor}.</li>
  *     <li>Calcula estadísticas de procesamiento ({@link RowStats}).</li>
- *     <li>Imprime un reporte/resumen con {@link SequentialSummaryReporter}.</li>
  * </ol>
  * El separador de columnas se toma de la clase base ({@link BaseCsvProcessor}),
  * por defecto {@code ","}.
@@ -51,7 +50,6 @@ public class CsvSequentialProcessorImpl extends BaseCsvProcessor {
         super(); // usa separador por defecto ","
         this.lineProcessor = new SequentialLineProcessor();
     }
-
     /**
      * Ejecuta el procesamiento secuencial de un archivo CSV.
      * <p>
@@ -82,8 +80,7 @@ public class CsvSequentialProcessorImpl extends BaseCsvProcessor {
      *         {@link SequentialLineProcessor#processLines(BufferedReader, BufferedWriter, BufferedWriter, CsvProcessingContext, String)},
      *         obteniendo un {@link RowStats} con las estadísticas.</li>
      *     <li>Toma la marca de tiempo de fin.</li>
-     *     <li>Genera el reporte final con
-     *         {@link SequentialSummaryReporter#report(File, File, File, RowStats, long, long)}.</li>
+     *
      * </ol>
      * Si ocurre un {@link IOException} en cualquier parte del procesamiento,
      * se informa el mensaje de error por la salida de error estándar.
@@ -145,11 +142,11 @@ public class CsvSequentialProcessorImpl extends BaseCsvProcessor {
             long end = System.nanoTime();
 
             // 4) Reporte final (delegado)
-            SequentialSummaryReporter.report(
+            SummaryReporter.report(
+                    "SECUENCIAL",
                     inputFile,
                     outputFile,
                     logFile,
-                    stats,
                     start,
                     end
             );
